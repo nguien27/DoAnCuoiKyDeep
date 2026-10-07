@@ -1,0 +1,573 @@
+﻿entity_id,entity_type,canonical_name,observed_name,official_id,official_code,source_id,disease_id,section_type,pdf_page_start,pdf_page_end,normalization_status,confidence,notes
+TC_6541000,TRIỆU_CHỨNG,Đau nhiều vùng thắt lưng,Đau nhiều vùng thắt lưng,6541000,U62.392.5.01.Đ01,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541001,TRIỆU_CHỨNG,"Đau tăng khi trời lạnh, ẩm","Đau tăng khi trời lạnh, ẩm",6541001,U62.392.5.01.Đ02,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541002,TRIỆU_CHỨNG,"Cơ cạnh cột sống co cứng, không đỏ","Cơ cạnh cột sống co cứng, không đỏ",6541002,U62.392.5.01.Đ03,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541003,TRIỆU_CHỨNG,Ấn đau,Ấn đau,6541003,U62.392.5.01.Đ04,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541004,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541004,U62.392.5.01.Đ05,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541006,TRIỆU_CHỨNG,Đau vùng thắt lưng,Đau vùng thắt lưng,6541006,U62.392.5.02.Đ01,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541007,TRIỆU_CHỨNG,Vùng thắt lưng sưng nóng đỏ,Vùng thắt lưng sưng nóng đỏ,6541007,U62.392.5.02.Đ02,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541009,TRIỆU_CHỨNG,Sốt,Sốt,6541009,U62.392.5.02.Đ04,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541010,TRIỆU_CHỨNG,Bứt rứt,Bứt rứt,6541010,U62.392.5.02.K01,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541012,TRIỆU_CHỨNG,Đau lưng,Đau lưng,6541012,U62.392.5.03.Đ01,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541013,TRIỆU_CHỨNG,Đau lưng xuất hiện sau khi vác nặng,Đau lưng xuất hiện sau khi vác nặng,6541013,U62.392.5.03.Đ02,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541014,TRIỆU_CHỨNG,Đau lưng xuất hiện sau khi lệch người,Đau lưng xuất hiện sau khi lệch người,6541014,U62.392.5.03.Đ03,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541015,TRIỆU_CHỨNG,Đau lưng xuất hiện sau một động tác thay đổi tư thế đột ngột,Đau lưng xuất hiện sau một động tác thay đổi tư thế đột ngột,6541015,U62.392.5.03.Đ04,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541016,TRIỆU_CHỨNG,"Đau lưng dữ dội ở một chỗ, cự án","Đau lưng dữ dội ở một chỗ, cự án",6541016,U62.392.5.03.Đ05,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541017,TRIỆU_CHỨNG,Vận động bị hạn chế,Vận động bị hạn chế,6541017,U62.392.5.03.Đ06,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541019,TRIỆU_CHỨNG,"Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi","Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi",6541019,U62.392.5.04.Đ01,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,0.95,normalized by official symptom dictionary
+TC_6541020,TRIỆU_CHỨNG,Sắc mặt nhợt,Sắc mặt nhợt,6541020,U62.392.5.04.Đ02,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541021,TRIỆU_CHỨNG,Sắc mặt đỏ,Sắc mặt đỏ,6541021,U62.392.5.04.Đ03,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541022,TRIỆU_CHỨNG,Chân gối yếu,Chân gối yếu,6541022,U62.392.5.04.Đ04,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541023,TRIỆU_CHỨNG,Chân tay lạnh,Chân tay lạnh,6541023,U62.392.5.04.Đ05,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541024,TRIỆU_CHỨNG,Miệng họng khô,Miệng họng khô,6541024,U62.392.5.04.Đ06,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541025,TRIỆU_CHỨNG,Bụng dưới lạnh đau,Bụng dưới lạnh đau,6541025,U62.392.5.04.Đ07,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541026,TRIỆU_CHỨNG,Lòng bàn tay bàn chân nóng,Lòng bàn tay bàn chân nóng,6541026,U62.392.5.04.Đ08,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541028,TRIỆU_CHỨNG,"Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi","Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi",6541028,U62.392.5.05.Đ01,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,0.95,normalized by official symptom dictionary
+TC_6541029,TRIỆU_CHỨNG,Sắc mặt nhợt,Sắc mặt nhợt,6541029,U62.392.5.05.Đ02,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541030,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541030,U62.392.5.05.Đ03,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541031,TRIỆU_CHỨNG,Bụng dưới lạnh,Bụng dưới lạnh,6541031,U62.392.5.05.Đ04,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541032,TRIỆU_CHỨNG,Chân tay lạnh,Chân tay lạnh,6541032,U62.392.5.05.Đ05,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541033,TRIỆU_CHỨNG,Chân gối yếu,Chân gối yếu,6541033,U62.392.5.05.Đ06,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541034,TRIỆU_CHỨNG,Tiểu đêm,Tiểu đêm,6541034,U62.392.5.05.Đ07,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541035,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541035,U62.392.5.05.Đ08,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,normalized by official symptom dictionary
+TC_6541038,TRIỆU_CHỨNG,"Khớp gối đau, sưng nề, không nóng đỏ","Khớp gối đau, sưng nề, không nóng đỏ",6541038,U62.261.01.Đ01,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541039,TRIỆU_CHỨNG,"Đau tăng khi trời lạnh, ẩm","Đau tăng khi trời lạnh, ẩm",6541039,U62.261.01.Đ02,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541040,TRIỆU_CHỨNG,Hạn chế vận động khớp gối một bên,Hạn chế vận động khớp gối một bên,6541040,U62.261.01.Đ03,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541041,TRIỆU_CHỨNG,Hạn chế vận động khớp gối hai bên,Hạn chế vận động khớp gối hai bên,6541041,U62.261.01.Đ04,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541042,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541042,U62.261.01.Đ05,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541043,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541043,U62.261.01.Đ06,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541044,TRIỆU_CHỨNG,Không sốt,Không sốt,6541044,U62.261.01.Đ07,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541045,TRIỆU_CHỨNG,Đỡ đau khi chườm nóng,Đỡ đau khi chườm nóng,6541045,U62.261.01.K01,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541047,TRIỆU_CHỨNG,Đau mỏi khớp gối,Đau mỏi khớp gối,6541047,U62.261.02.Đ01,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541048,TRIỆU_CHỨNG,"Khớp gối đau, sưng nề, không nóng đỏ","Khớp gối đau, sưng nề, không nóng đỏ",6541048,U62.261.02.Đ02,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541049,TRIỆU_CHỨNG,"Đau tăng sau khi nhiễm ngoại tà (phong, hàn, thấp)","Đau tăng sau khi nhiễm ngoại tà (phong, hàn, thấp)",6541049,U62.261.02.Đ03,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541050,TRIỆU_CHỨNG,Hạn chế vận động khớp gối một bên,Hạn chế vận động khớp gối một bên,6541050,U62.261.02.Đ04,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541051,TRIỆU_CHỨNG,Hạn chế vận động khớp gối hai bên,Hạn chế vận động khớp gối hai bên,6541051,U62.261.02.Đ05,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541052,TRIỆU_CHỨNG,Vận động co duỗi khó khăn,Vận động co duỗi khó khăn,6541052,U62.261.02.Đ06,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541053,TRIỆU_CHỨNG,Biến dạng khớp,Biến dạng khớp,6541053,U62.261.02.Đ07,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541054,TRIỆU_CHỨNG,Đau mỏi lưng gối,Đau mỏi lưng gối,6541054,U62.261.02.Đ08,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541055,TRIỆU_CHỨNG,Ù tai,Ù tai,6541055,U62.261.02.Đ09,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541056,TRIỆU_CHỨNG,Ngủ kém,Ngủ kém,6541056,U62.261.02.Đ10,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541058,TRIỆU_CHỨNG,Đau mỏi khớp gối từ lâu,Đau mỏi khớp gối từ lâu,6541058,U62.261.03.Đ01,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541059,TRIỆU_CHỨNG,Vận động co duỗi khó khăn,Vận động co duỗi khó khăn,6541059,U62.261.03.Đ02,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541060,TRIỆU_CHỨNG,Biến dạng khớp,Biến dạng khớp,6541060,U62.261.03.Đ03,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541061,TRIỆU_CHỨNG,"Khớp gối một bên sưng, đau, nóng, đỏ","Khớp gối một bên sưng, đau, nóng, đỏ",6541061,U62.261.03.Đ04,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541062,TRIỆU_CHỨNG,"Khớp gối hai bên sưng, đau, nóng, đỏ","Khớp gối hai bên sưng, đau, nóng, đỏ",6541062,U62.261.03.Đ05,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541063,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6541063,U62.261.03.Đ06,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541064,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541064,U62.261.03.Đ07,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541065,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541065,U62.261.03.Đ08,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541066,TRIỆU_CHỨNG,Miệng khô khát,Miệng khô khát,6541066,U62.261.03.Đ09,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541067,TRIỆU_CHỨNG,Phiền táo bứt rứt không yên,Phiền táo bứt rứt không yên,6541067,U62.261.03.Đ10,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541068,TRIỆU_CHỨNG,Tiểu vàng lượng ít,Tiểu vàng lượng ít,6541068,U62.261.03.Đ11,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,normalized by official symptom dictionary
+TC_6541071,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau một khớp","Sưng, nóng, đỏ, đau một khớp",6541071,U62.371.01.Đ01,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541072,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau nhiều khớp","Sưng, nóng, đỏ, đau nhiều khớp",6541072,U62.371.01.Đ02,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541073,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau khớp bàn ngón chân cái","Sưng, nóng, đỏ, đau khớp bàn ngón chân cái",6541073,U62.371.01.Đ03,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541074,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6541074,U62.371.01.Đ04,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541075,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541075,U62.371.01.Đ05,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541076,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541076,U62.371.01.Đ06,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541077,TRIỆU_CHỨNG,Miệng khô khát,Miệng khô khát,6541077,U62.371.01.Đ07,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541078,TRIỆU_CHỨNG,Phiền táo bứt rứt không yên,Phiền táo bứt rứt không yên,6541078,U62.371.01.Đ08,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541079,TRIỆU_CHỨNG,Tiểu vàng số lượng ít,Tiểu vàng số lượng ít,6541079,U62.371.01.Đ09,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541081,TRIỆU_CHỨNG,Khớp sưng nề,Khớp sưng nề,6541081,U62.371.02.Đ01,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541082,TRIỆU_CHỨNG,Hạn chế vận động khớp,Hạn chế vận động khớp,6541082,U62.371.02.Đ02,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541083,TRIỆU_CHỨNG,Đau khớp có tính chất lưu chuyển,Đau khớp có tính chất lưu chuyển,6541083,U62.371.02.Đ03,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541084,TRIỆU_CHỨNG,Đau dữ dội các khớp,Đau dữ dội các khớp,6541084,U62.371.02.Đ04,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541085,TRIỆU_CHỨNG,Vị trí đau cố định,Vị trí đau cố định,6541085,U62.371.02.Đ05,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541086,TRIỆU_CHỨNG,Đau tăng khi gặp lạnh,Đau tăng khi gặp lạnh,6541086,U62.371.02.Đ06,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541087,TRIỆU_CHỨNG,Đau bứt rứt nặng nề tại các khớp,Đau bứt rứt nặng nề tại các khớp,6541087,U62.371.02.Đ07,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541088,TRIỆU_CHỨNG,Có các hạt lắng đọng cạnh khớp,Có các hạt lắng đọng cạnh khớp,6541088,U62.371.02.Đ08,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541089,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541089,U62.371.02.Đ09,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541090,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541090,U62.371.02.K01,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541091,TRIỆU_CHỨNG,Dễ chịu khi chườm nóng,Dễ chịu khi chườm nóng,6541091,U62.371.02.K02,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541092,TRIỆU_CHỨNG,Tê bì khó chịu trong cơ và ngoài da,Tê bì khó chịu trong cơ và ngoài da,6541092,U62.371.02.K03,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541094,TRIỆU_CHỨNG,Các khớp sưng nề,Các khớp sưng nề,6541094,U62.371.03.Đ01,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,0.95,normalized by official symptom dictionary
+TC_6541095,TRIỆU_CHỨNG,"Xung quanh khớp sưng, tái đi tái lại nhiều lần, dai dẳng không dứt","Xung quanh khớp sưng, tái đi tái lại nhiều lần, dai dẳng không dứt",6541095,U62.371.03.Đ02,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541096,TRIỆU_CHỨNG,Đau nhức nhẹ,Đau nhức nhẹ,6541096,U62.371.03.Đ03,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541097,TRIỆU_CHỨNG,Có các hạt cứng cạnh khớp,Có các hạt cứng cạnh khớp,6541097,U62.371.03.Đ04,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541098,TRIỆU_CHỨNG,Sắc da tím,Sắc da tím,6541098,U62.371.03.Đ05,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541100,TRIỆU_CHỨNG,"Đau khớp tái đi tái lại, dai dẳng không dứt","Đau khớp tái đi tái lại, dai dẳng không dứt",6541100,U62.371.04.Đ01,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541101,TRIỆU_CHỨNG,Đau khớp lúc nặng lúc nhẹ,Đau khớp lúc nặng lúc nhẹ,6541101,U62.371.04.Đ02,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541102,TRIỆU_CHỨNG,Đau nhức âm ỉ di chuyển giữa các khớp,Đau nhức âm ỉ di chuyển giữa các khớp,6541102,U62.371.04.Đ03,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541103,TRIỆU_CHỨNG,"Khớp sưng nề, hạn chế vận động","Khớp sưng nề, hạn chế vận động",6541103,U62.371.04.Đ04,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541104,TRIỆU_CHỨNG,Khớp biến dạng,Khớp biến dạng,6541104,U62.371.04.Đ05,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541105,TRIỆU_CHỨNG,Đau lưng,Đau lưng,6541105,U62.371.04.Đ06,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541106,TRIỆU_CHỨNG,Mỏi gối,Mỏi gối,6541106,U62.371.04.Đ07,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541107,TRIỆU_CHỨNG,Người mệt mỏi,Người mệt mỏi,6541107,U62.371.04.Đ08,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541108,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541108,U62.371.04.Đ09,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541109,TRIỆU_CHỨNG,Hoa mắt chóng mặt,Hoa mắt chóng mặt,6541109,U62.371.04.Đ10,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,normalized by official symptom dictionary
+TC_6541110,TRIỆU_CHỨNG,"Tâm quý (tim đập nhanh, hồi hộp)","Tâm quý (tim đập nhanh, hồi hộp)",6541110,U62.371.04.Đ11,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,0.95,normalized by official symptom dictionary
+TC_6541111,TRIỆU_CHỨNG,Khí đoản (hụt hơi),Khí đoản (hụt hơi),6541111,U62.371.04.Đ12,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,0.95,normalized by official symptom dictionary
+TC_6541289,TRIỆU_CHỨNG,"Đau nhức vùng đầu, cổ, vai và ngực lưng","Đau nhức vùng đầu, cổ, vai và ngực lưng",6541289,U62.292.01.Đ01,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541290,TRIỆU_CHỨNG,Sờ thấy co cơ ở cổ vai gáy,Sờ thấy co cơ ở cổ vai gáy,6541290,U62.292.01.Đ02,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541291,TRIỆU_CHỨNG,Cứng cổ,Cứng cổ,6541291,U62.292.01.Đ03,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541292,TRIỆU_CHỨNG,Hạn chế vận động,Hạn chế vận động,6541292,U62.292.01.Đ04,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541293,TRIỆU_CHỨNG,"Đau, tê, nhức tứ chi","Đau, tê, nhức tứ chi",6541293,U62.292.01.Đ05,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541294,TRIỆU_CHỨNG,Nặng và yếu hai chi trên,Nặng và yếu hai chi trên,6541294,U62.292.01.Đ06,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541295,TRIỆU_CHỨNG,"Thích ấm, sợ lạnh","Thích ấm, sợ lạnh",6541295,U62.292.01.Đ07,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541296,TRIỆU_CHỨNG,Điểm đau cố định ở cổ,Điểm đau cố định ở cổ,6541296,U62.292.01.K01,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541297,TRIỆU_CHỨNG,Đau nặng đầu,Đau nặng đầu,6541297,U62.292.01.K02,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541299,TRIỆU_CHỨNG,"Vùng cổ gáy sưng, nóng, đỏ","Vùng cổ gáy sưng, nóng, đỏ",6541299,U62.292.02.Đ01,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541300,TRIỆU_CHỨNG,"Đau nhức vùng đầu, cổ, vai và ngực lưng","Đau nhức vùng đầu, cổ, vai và ngực lưng",6541300,U62.292.02.Đ02,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541301,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541301,U62.292.02.Đ03,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541302,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541302,U62.292.02.Đ04,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541303,TRIỆU_CHỨNG,Sốt cao,Sốt cao,6541303,U62.292.02.Đ05,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541304,TRIỆU_CHỨNG,Khát nước,Khát nước,6541304,U62.292.02.Đ06,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541305,TRIỆU_CHỨNG,Nước tiểu đỏ,Nước tiểu đỏ,6541305,U62.292.02.Đ07,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541307,TRIỆU_CHỨNG,"Đau nhức, tê vùng đầu, cổ, vai và ngực lưng","Đau nhức, tê vùng đầu, cổ, vai và ngực lưng",6541307,U62.292.03.Đ01,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541308,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6541308,U62.292.03.Đ02,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541309,TRIỆU_CHỨNG,Co cứng cơ tại chỗ,Co cứng cơ tại chỗ,6541309,U62.292.03.Đ03,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541310,TRIỆU_CHỨNG,Miệng khô,Miệng khô,6541310,U62.292.03.Đ04,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541311,TRIỆU_CHỨNG,"Tê, đau nhói cố định","Tê, đau nhói cố định",6541311,U62.292.03.Đ05,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541312,TRIỆU_CHỨNG,Đau tăng về đêm,Đau tăng về đêm,6541312,U62.292.03.K01,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541313,TRIỆU_CHỨNG,Ban ngày đỡ đau,Ban ngày đỡ đau,6541313,U62.292.03.K02,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541314,TRIỆU_CHỨNG,Kích thích khó chịu,Kích thích khó chịu,6541314,U62.292.03.K03,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541316,TRIỆU_CHỨNG,Đau nhức vai gáy và ngực lưng,Đau nhức vai gáy và ngực lưng,6541316,U62.292.04.Đ01,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541317,TRIỆU_CHỨNG,Đau mỏi lưng gối,Đau mỏi lưng gối,6541317,U62.292.04.Đ02,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541318,TRIỆU_CHỨNG,Tê bì tay,Tê bì tay,6541318,U62.292.04.Đ03,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541319,TRIỆU_CHỨNG,Đau căng đầu,Đau căng đầu,6541319,U62.292.04.Đ04,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541320,TRIỆU_CHỨNG,Hoa mắt chóng mặt,Hoa mắt chóng mặt,6541320,U62.292.04.Đ05,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541321,TRIỆU_CHỨNG,Nhìn mờ,Nhìn mờ,6541321,U62.292.04.Đ06,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541322,TRIỆU_CHỨNG,Miệng họng khô,Miệng họng khô,6541322,U62.292.04.Đ07,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541323,TRIỆU_CHỨNG,Triều nhiệt,Triều nhiệt,6541323,U62.292.04.Đ08,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541324,TRIỆU_CHỨNG,Ra mồ hôi trộm,Ra mồ hôi trộm,6541324,U62.292.04.Đ09,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,normalized by official symptom dictionary
+TC_6541327,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541327,U58.091.01.Đ01,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541328,TRIỆU_CHỨNG,Choáng váng,Choáng váng,6541328,U58.091.01.Đ02,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541329,TRIỆU_CHỨNG,Hoa mắt,Hoa mắt,6541329,U58.091.01.Đ03,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541330,TRIỆU_CHỨNG,Mặt đỏ,Mặt đỏ,6541330,U58.091.01.Đ04,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541331,TRIỆU_CHỨNG,Hay tức giận,Hay tức giận,6541331,U58.091.01.Đ05,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541332,TRIỆU_CHỨNG,Ngủ ít,Ngủ ít,6541332,U58.091.01.Đ06,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541333,TRIỆU_CHỨNG,Ngủ hay mê,Ngủ hay mê,6541333,U58.091.01.Đ07,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541334,TRIỆU_CHỨNG,Miệng đắng,Miệng đắng,6541334,U58.091.01.Đ08,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541336,TRIỆU_CHỨNG,Mệt mỏi,Mệt mỏi,6541336,U58.091.02.Đ01,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541337,TRIỆU_CHỨNG,Váng đầu,Váng đầu,6541337,U58.091.02.Đ02,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541338,TRIỆU_CHỨNG,Mất ngủ,Mất ngủ,6541338,U58.091.02.Đ03,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541339,TRIỆU_CHỨNG,Hay quên,Hay quên,6541339,U58.091.02.Đ04,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541340,TRIỆU_CHỨNG,Lưng gối đau yếu,Lưng gối đau yếu,6541340,U58.091.02.Đ05,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541341,TRIỆU_CHỨNG,Ù tai,Ù tai,6541341,U58.091.02.Đ06,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541343,TRIỆU_CHỨNG,Lòng bàn tay bàn chân nóng,Lòng bàn tay bàn chân nóng,6541343,U58.091.02.Đ08,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541345,TRIỆU_CHỨNG,Mệt mỏi,Mệt mỏi,6541345,U58.091.03.Đ01,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541346,TRIỆU_CHỨNG,Sắc mặt trắng,Sắc mặt trắng,6541346,U58.091.03.Đ02,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541347,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541347,U58.091.03.Đ03,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541348,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541348,U58.091.03.Đ04,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541349,TRIỆU_CHỨNG,Ngủ ít,Ngủ ít,6541349,U58.091.03.Đ05,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541350,TRIỆU_CHỨNG,Hồi hộp,Hồi hộp,6541350,U58.091.03.Đ06,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541351,TRIỆU_CHỨNG,Ù tai,Ù tai,6541351,U58.091.03.Đ07,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541352,TRIỆU_CHỨNG,Đau lưng,Đau lưng,6541352,U58.091.03.Đ08,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541353,TRIỆU_CHỨNG,Mỏi gối,Mỏi gối,6541353,U58.091.03.Đ09,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541354,TRIỆU_CHỨNG,Đại tiện lỏng,Đại tiện lỏng,6541354,U58.091.03.Đ10,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541355,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541355,U58.091.03.Đ11,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541356,TRIỆU_CHỨNG,Chân tay lạnh,Chân tay lạnh,6541356,U58.091.03.Đ12,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541357,TRIỆU_CHỨNG,Tiểu đêm nhiều lần,Tiểu đêm nhiều lần,6541357,U58.091.03.Đ13,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541361,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541361,U58.091.04.Đ01,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541362,TRIỆU_CHỨNG,Nặng đầu,Nặng đầu,6541362,U58.091.04.Đ02,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541363,TRIỆU_CHỨNG,Hoa mắt,Hoa mắt,6541363,U58.091.04.Đ03,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541364,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541364,U58.091.04.Đ04,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541365,TRIỆU_CHỨNG,Ngực tức,Ngực tức,6541365,U58.091.04.Đ05,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541366,TRIỆU_CHỨNG,Bụng đầy chướng,Bụng đầy chướng,6541366,U58.091.04.Đ06,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,0.95,normalized by official symptom dictionary
+TC_6541367,TRIỆU_CHỨNG,Buồn nôn,Buồn nôn,6541367,U58.091.04.Đ07,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541369,TRIỆU_CHỨNG,Ngủ li bì,Ngủ li bì,6541369,U58.091.04.Đ09,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541370,TRIỆU_CHỨNG,Mệt mỏi,Mệt mỏi,6541370,U58.091.04.Đ10,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,normalized by official symptom dictionary
+TC_6541373,TRIỆU_CHỨNG,Người béo bệu,Người béo bệu,6541373,U53.151.01.Đ01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541374,TRIỆU_CHỨNG,Nặng nề,Nặng nề,6541374,U53.151.01.Đ02,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541375,TRIỆU_CHỨNG,Mệt mỏi,Mệt mỏi,6541375,U53.151.01.Đ03,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541376,TRIỆU_CHỨNG,Ăn kém,Ăn kém,6541376,U53.151.01.Đ04,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541377,TRIỆU_CHỨNG,Bụng đầy chướng,Bụng đầy chướng,6541377,U53.151.01.Đ05,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,0.95,normalized by official symptom dictionary
+TC_6541378,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541378,U53.151.01.Đ06,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541379,TRIỆU_CHỨNG,Không muốn ăn,Không muốn ăn,6541379,U53.151.01.K01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541381,TRIỆU_CHỨNG,Người cảm giác nặng nề,Người cảm giác nặng nề,6541381,U53.151.02.Đ01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541382,TRIỆU_CHỨNG,Bụng đầy chướng,Bụng đầy chướng,6541382,U53.151.02.Đ02,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541383,TRIỆU_CHỨNG,Béo phì,Béo phì,6541383,U53.151.02.Đ03,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541384,TRIỆU_CHỨNG,Sắc mặt nhợt,Sắc mặt nhợt,6541384,U53.151.02.Đ04,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541385,TRIỆU_CHỨNG,Người lạnh,Người lạnh,6541385,U53.151.02.Đ05,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541386,TRIỆU_CHỨNG,Chân tay lạnh,Chân tay lạnh,6541386,U53.151.02.Đ06,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541387,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541387,U53.151.02.Đ07,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541388,TRIỆU_CHỨNG,Lưng gối đau mỏi,Lưng gối đau mỏi,6541388,U53.151.02.Đ08,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541389,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541389,U53.151.02.Đ09,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541390,TRIỆU_CHỨNG,Tiểu trong dài,Tiểu trong dài,6541390,U53.151.02.Đ10,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541391,TRIỆU_CHỨNG,Thừa cân,Thừa cân,6541391,U53.151.02.K01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541393,TRIỆU_CHỨNG,Váng đầu,Váng đầu,6541393,U53.151.03.Đ01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541394,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541394,U53.151.03.Đ02,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541395,TRIỆU_CHỨNG,Mất ngủ,Mất ngủ,6541395,U53.151.03.Đ03,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541396,TRIỆU_CHỨNG,Hay quên,Hay quên,6541396,U53.151.03.Đ04,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541397,TRIỆU_CHỨNG,Tóc bạc,Tóc bạc,6541397,U53.151.03.Đ05,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541398,TRIỆU_CHỨNG,Ù tai,Ù tai,6541398,U53.151.03.Đ06,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541399,TRIỆU_CHỨNG,Răng rụng,Răng rụng,6541399,U53.151.03.Đ07,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541400,TRIỆU_CHỨNG,Miệng họng khô,Miệng họng khô,6541400,U53.151.03.Đ08,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541401,TRIỆU_CHỨNG,Lưng gối đau mỏi,Lưng gối đau mỏi,6541401,U53.151.03.Đ09,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541402,TRIỆU_CHỨNG,Tiểu đêm,Tiểu đêm,6541402,U53.151.03.Đ10,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541404,TRIỆU_CHỨNG,"Đau 2 bên mạn sườn từng cơn, vị trí không cố định","Đau 2 bên mạn sườn từng cơn, vị trí không cố định",6541404,U53.151.04.Đ01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,0.95,normalized by official symptom dictionary
+TC_6541405,TRIỆU_CHỨNG,Tinh thần uể oải,Tinh thần uể oải,6541405,U53.151.04.Đ02,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541406,TRIỆU_CHỨNG,Tính khí thất thường,Tính khí thất thường,6541406,U53.151.04.Đ03,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541407,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541407,U53.151.04.Đ04,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541408,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541408,U53.151.04.Đ05,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541409,TRIỆU_CHỨNG,Hay thở dài,Hay thở dài,6541409,U53.151.04.Đ06,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541410,TRIỆU_CHỨNG,Ăn kém,Ăn kém,6541410,U53.151.04.Đ07,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541411,TRIỆU_CHỨNG,Đại tiện lỏng,Đại tiện lỏng,6541411,U53.151.04.Đ08,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541412,TRIỆU_CHỨNG,Rối loạn kinh nguyệt (đối với nữ),Rối loạn kinh nguyệt (đối với nữ),6541412,U53.151.04.Đ09,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,0.95,normalized by official symptom dictionary
+TC_6541413,TRIỆU_CHỨNG,Bầu vú căng trướng và đau (đối với nữ),Bầu vú căng trướng và đau (đối với nữ),6541413,U53.151.04.Đ10,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,0.95,normalized by official symptom dictionary
+TC_6541415,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541415,U53.151.05.Đ01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541416,TRIỆU_CHỨNG,Đau nặng đầu,Đau nặng đầu,6541416,U53.151.05.Đ02,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541417,TRIỆU_CHỨNG,Mệt mỏi toàn thân,Mệt mỏi toàn thân,6541417,U53.151.05.Đ03,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541418,TRIỆU_CHỨNG,Người béo bệu,Người béo bệu,6541418,U53.151.05.Đ04,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541419,TRIỆU_CHỨNG,Đắng miệng,Đắng miệng,6541419,U53.151.05.Đ05,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541420,TRIỆU_CHỨNG,Khô miệng,Khô miệng,6541420,U53.151.05.Đ06,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541421,TRIỆU_CHỨNG,Tức ngực,Tức ngực,6541421,U53.151.05.Đ07,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541422,TRIỆU_CHỨNG,Phiền nhiệt,Phiền nhiệt,6541422,U53.151.05.Đ08,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541423,TRIỆU_CHỨNG,Đầy bụng,Đầy bụng,6541423,U53.151.05.Đ09,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541424,TRIỆU_CHỨNG,Buồn nôn,Buồn nôn,6541424,U53.151.05.Đ10,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541425,TRIỆU_CHỨNG,Tay chân nặng nề,Tay chân nặng nề,6541425,U53.151.05.Đ11,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541426,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541426,U53.151.05.Đ12,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541427,TRIỆU_CHỨNG,Cảm giác nóng hậu môn,Cảm giác nóng hậu môn,6541427,U53.151.05.Đ13,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541428,TRIỆU_CHỨNG,Nước tiểu vàng,Nước tiểu vàng,6541428,U53.151.05.Đ14,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541430,TRIỆU_CHỨNG,"Đau nhói vùng ngực, lan ra sau vùng lưng trên","Đau nhói vùng ngực, lan ra sau vùng lưng trên",6541430,U53.151.06.Đ01,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541431,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541431,U53.151.06.Đ02,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541432,TRIỆU_CHỨNG,Đau nhức mắt,Đau nhức mắt,6541432,U53.151.06.Đ03,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,normalized by official symptom dictionary
+TC_6541433,TRIỆU_CHỨNG,Đau vùng thượnng vị,Đau vùng thượnng vị,6541433,U53.151.06.Đ04,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,0.95,normalized by official symptom dictionary
+TC_6541437,TRIỆU_CHỨNG,Mắt nhắm không kín,Mắt nhắm không kín,6541437,U55.561.01.Đ02,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541438,TRIỆU_CHỨNG,Nếp nhăn trán và rãnh mũi má mờ ở bên liệt,Nếp nhăn trán và rãnh mũi má mờ ở bên liệt,6541438,U55.561.01.Đ03,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541439,TRIỆU_CHỨNG,Nếp nhăn trán và rãnh mũi má mất ở bên liệt,Nếp nhăn trán và rãnh mũi má mất ở bên liệt,6541439,U55.561.01.Đ04,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541440,TRIỆU_CHỨNG,Nhân trung lệch về bên lành,Nhân trung lệch về bên lành,6541440,U55.561.01.Đ05,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541441,TRIỆU_CHỨNG,Miệng méo,Miệng méo,6541441,U55.561.01.Đ06,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541442,TRIỆU_CHỨNG,Khó huýt sáo,Khó huýt sáo,6541442,U55.561.01.Đ07,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541443,TRIỆU_CHỨNG,Ăn uống tràn ra bên liệt,Ăn uống tràn ra bên liệt,6541443,U55.561.01.Đ08,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541444,TRIỆU_CHỨNG,"Sợ gió, sợ lạnh","Sợ gió, sợ lạnh",6541444,U55.561.01.Đ09,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541445,TRIỆU_CHỨNG,Khó thổi lửa,Khó thổi lửa,6541445,U55.561.01.K01,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541446,TRIỆU_CHỨNG,Gai rét,Gai rét,6541446,U55.561.01.K02,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541448,TRIỆU_CHỨNG,Có biểu hiện sốt,Có biểu hiện sốt,6541448,U55.561.02.Đ01,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541449,TRIỆU_CHỨNG,Mắt nhắm không kín,Mắt nhắm không kín,6541449,U55.561.02.Đ02,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541450,TRIỆU_CHỨNG,Nếp nhăn trán và rãnh mũi má mờ ở bên liệt,Nếp nhăn trán và rãnh mũi má mờ ở bên liệt,6541450,U55.561.02.Đ03,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541451,TRIỆU_CHỨNG,Nếp nhăn trán và rãnh mũi má mất ở bên liệt,Nếp nhăn trán và rãnh mũi má mất ở bên liệt,6541451,U55.561.02.Đ04,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541452,TRIỆU_CHỨNG,Nhân trung lệch về bên lành,Nhân trung lệch về bên lành,6541452,U55.561.02.Đ05,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541453,TRIỆU_CHỨNG,Miệng méo,Miệng méo,6541453,U55.561.02.Đ06,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541454,TRIỆU_CHỨNG,Khó huýt sáo,Khó huýt sáo,6541454,U55.561.02.Đ07,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541455,TRIỆU_CHỨNG,Ăn uống tràn ra bên liệt,Ăn uống tràn ra bên liệt,6541455,U55.561.02.Đ08,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541456,TRIỆU_CHỨNG,Tiểu tiện vàng,Tiểu tiện vàng,6541456,U55.561.02.Đ09,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541457,TRIỆU_CHỨNG,Đại tiện táo,Đại tiện táo,6541457,U55.561.02.Đ10,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541458,TRIỆU_CHỨNG,Khó thổi lửa,Khó thổi lửa,6541458,U55.561.02.K01,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541461,TRIỆU_CHỨNG,Mắt nhắm không kín,Mắt nhắm không kín,6541461,U55.561.03.Đ02,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541462,TRIỆU_CHỨNG,Nhân trung lệch về bên lành,Nhân trung lệch về bên lành,6541462,U55.561.03.Đ03,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541463,TRIỆU_CHỨNG,Nếp nhăn trán và rãnh mũi má mờ ở bên liệt,Nếp nhăn trán và rãnh mũi má mờ ở bên liệt,6541463,U55.561.03.Đ04,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541464,TRIỆU_CHỨNG,Nếp nhăn trán và rãnh mũi má mất ở bên liệt,Nếp nhăn trán và rãnh mũi má mất ở bên liệt,6541464,U55.561.03.Đ05,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541465,TRIỆU_CHỨNG,Miệng méo,Miệng méo,6541465,U55.561.03.Đ06,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541466,TRIỆU_CHỨNG,Khó huýt sáo,Khó huýt sáo,6541466,U55.561.03.Đ07,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541467,TRIỆU_CHỨNG,Ăn uống tràn ra bên liệt,Ăn uống tràn ra bên liệt,6541467,U55.561.03.Đ08,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541468,TRIỆU_CHỨNG,Khó thổi lửa,Khó thổi lửa,6541468,U55.561.03.K01,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,normalized by official symptom dictionary
+TC_6541652,TRIỆU_CHỨNG,"Sau khi nhiễm lạnh, đau từ thắt lưng và mông xuống chân","Sau khi nhiễm lạnh, đau từ thắt lưng và mông xuống chân",6541652,U62.392.01.Đ01,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541653,TRIỆU_CHỨNG,Đau có điểm khu trú,Đau có điểm khu trú,6541653,U62.392.01.Đ02,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541654,TRIỆU_CHỨNG,Đau tăng khi trời lạnh,Đau tăng khi trời lạnh,6541654,U62.392.01.Đ03,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541655,TRIỆU_CHỨNG,Chưa có teo cơ,Chưa có teo cơ,6541655,U62.392.01.Đ04,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541656,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541656,U62.392.01.Đ05,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541657,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541657,U62.392.01.Đ06,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541658,TRIỆU_CHỨNG,Đại tiện bình thường,Đại tiện bình thường,6541658,U62.392.01.Đ07,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541659,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541659,U62.392.01.Đ08,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541660,TRIỆU_CHỨNG,Tiểu tiện trong,Tiểu tiện trong,6541660,U62.392.01.Đ09,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541661,TRIỆU_CHỨNG,Chườm ấm dễ chịu,Chườm ấm dễ chịu,6541661,U62.392.01.K01,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541663,TRIỆU_CHỨNG,Đau vùng thắt lưng,Đau vùng thắt lưng,6541663,U62.392.02.Đ01,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541664,TRIỆU_CHỨNG,"Đau lan xuống mông, chân dọc theo đường đi của dây thần kinh tọa","Đau lan xuống mông, chân dọc theo đường đi của dây thần kinh tọa",6541664,U62.392.02.Đ02,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541665,TRIỆU_CHỨNG,"Đau có cảm giác tê bì, nặng nề","Đau có cảm giác tê bì, nặng nề",6541665,U62.392.02.Đ03,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541666,TRIỆU_CHỨNG,Teo cơ,Teo cơ,6541666,U62.392.02.Đ04,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541667,TRIỆU_CHỨNG,Ăn kém,Ăn kém,6541667,U62.392.02.Đ05,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541668,TRIỆU_CHỨNG,Ngủ ít,Ngủ ít,6541668,U62.392.02.Đ06,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541670,TRIỆU_CHỨNG,Đau vùng thắt lưng,Đau vùng thắt lưng,6541670,U62.392.03.Đ01,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541671,TRIỆU_CHỨNG,"Đau lan xuống mông, chân dọc theo đường đi của dây thần kinh tọa","Đau lan xuống mông, chân dọc theo đường đi của dây thần kinh tọa",6541671,U62.392.03.Đ02,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,0.95,normalized by official symptom dictionary
+TC_6541672,TRIỆU_CHỨNG,Đau có cảm nóng rát như kim châm,Đau có cảm nóng rát như kim châm,6541672,U62.392.03.Đ03,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541673,TRIỆU_CHỨNG,Chân đau nóng hơn chân bên lành,Chân đau nóng hơn chân bên lành,6541673,U62.392.03.Đ04,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,normalized by official symptom dictionary
+TC_6541710,TRIỆU_CHỨNG,"Bán thân bất toại (yếu, liệt nửa người)","Bán thân bất toại (yếu, liệt nửa người)",6541710,U58.021.01.Đ01,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541711,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541711,U58.021.01.Đ02,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541712,TRIỆU_CHỨNG,Hoa mắt,Hoa mắt,6541712,U58.021.01.Đ03,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541713,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541713,U58.021.01.Đ04,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541714,TRIỆU_CHỨNG,Ù tai,Ù tai,6541714,U58.021.01.Đ05,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541715,TRIỆU_CHỨNG,Nói ngọng,Nói ngọng,6541715,U58.021.01.Đ06,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541716,TRIỆU_CHỨNG,Miệng méo,Miệng méo,6541716,U58.021.01.Đ07,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541717,TRIỆU_CHỨNG,Chân tay cứng đờ,Chân tay cứng đờ,6541717,U58.021.01.K01,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541718,TRIỆU_CHỨNG,Chân tay co quắp,Chân tay co quắp,6541718,U58.021.01.K02,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541720,TRIỆU_CHỨNG,"Bán thân bất toại (yếu, liệt nửa người)","Bán thân bất toại (yếu, liệt nửa người)",6541720,U58.021.02.Đ01,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,0.95,normalized by official symptom dictionary
+TC_6541721,TRIỆU_CHỨNG,Nặng đầu,Nặng đầu,6541721,U58.021.02.Đ02,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541722,TRIỆU_CHỨNG,Hoa mắt,Hoa mắt,6541722,U58.021.02.Đ03,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541723,TRIỆU_CHỨNG,Chóng mặt,Chóng mặt,6541723,U58.021.02.Đ04,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541724,TRIỆU_CHỨNG,Miệng méo,Miệng méo,6541724,U58.021.02.Đ05,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541725,TRIỆU_CHỨNG,Nói ngọng,Nói ngọng,6541725,U58.021.02.Đ06,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541726,TRIỆU_CHỨNG,Chân tay tê dại,Chân tay tê dại,6541726,U58.021.02.Đ07,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541727,TRIỆU_CHỨNG,Chân tay nặng nề,Chân tay nặng nề,6541727,U58.021.02.Đ08,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541728,TRIỆU_CHỨNG,Chân tay khó cử động,Chân tay khó cử động,6541728,U58.021.02.Đ09,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541730,TRIỆU_CHỨNG,"Bán thân bất toại (yếu, liệt nửa người)","Bán thân bất toại (yếu, liệt nửa người)",6541730,U58.021.03.Đ01,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541731,TRIỆU_CHỨNG,Sắc mặt không tươi,Sắc mặt không tươi,6541731,U58.021.03.Đ02,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541732,TRIỆU_CHỨNG,"Sắc mặt không nhuận,","Sắc mặt không nhuận,",6541732,U58.021.03.Đ03,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541733,TRIỆU_CHỨNG,Nói ngọng,Nói ngọng,6541733,U58.021.03.Đ04,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541734,TRIỆU_CHỨNG,Nói khó,Nói khó,6541734,U58.021.03.Đ05,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541735,TRIỆU_CHỨNG,Miệng méo,Miệng méo,6541735,U58.021.03.Đ06,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541736,TRIỆU_CHỨNG,"Chân tay mềm, vô lực","Chân tay mềm, vô lực",6541736,U58.021.03.Đ07,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541737,TRIỆU_CHỨNG,Chân tay tê bì,Chân tay tê bì,6541737,U58.021.03.K01,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,normalized by official symptom dictionary
+TC_6541770,TRIỆU_CHỨNG,Gân xương mềm yếu,Gân xương mềm yếu,6541770,U55.611.01.Đ01,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541771,TRIỆU_CHỨNG,Chậm phát dục,Chậm phát dục,6541771,U55.611.01.Đ02,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541772,TRIỆU_CHỨNG,Thóp lâu liền,Thóp lâu liền,6541772,U55.611.01.Đ03,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541773,TRIỆU_CHỨNG,Cổ mềm,Cổ mềm,6541773,U55.611.01.Đ04,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541774,TRIỆU_CHỨNG,Lưng mềm,Lưng mềm,6541774,U55.611.01.Đ05,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541775,TRIỆU_CHỨNG,Chậm ngồi,Chậm ngồi,6541775,U55.611.01.Đ06,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541776,TRIỆU_CHỨNG,Chậm đứng,Chậm đứng,6541776,U55.611.01.Đ07,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541777,TRIỆU_CHỨNG,Chậm đi,Chậm đi,6541777,U55.611.01.Đ08,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541778,TRIỆU_CHỨNG,Chân tay cử động chậm chạp,Chân tay cử động chậm chạp,6541778,U55.611.01.Đ09,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541779,TRIỆU_CHỨNG,Chân co rút khi đứng,Chân co rút khi đứng,6541779,U55.611.01.Đ10,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541780,TRIỆU_CHỨNG,Mặt co kéo,Mặt co kéo,6541780,U55.611.01.Đ11,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541781,TRIỆU_CHỨNG,Mắt co kéo,Mắt co kéo,6541781,U55.611.01.Đ12,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541782,TRIỆU_CHỨNG,Nói ngọng,Nói ngọng,6541782,U55.611.01.Đ13,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541783,TRIỆU_CHỨNG,Chậm mọc răng,Chậm mọc răng,6541783,U55.611.01.Đ14,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541784,TRIỆU_CHỨNG,Dễ lên cơn co giật,Dễ lên cơn co giật,6541784,U55.611.01.Đ15,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541785,TRIỆU_CHỨNG,Bước đi không thẳng,Bước đi không thẳng,6541785,U55.611.01.K01,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541786,TRIỆU_CHỨNG,Nói không rõ tiếng,Nói không rõ tiếng,6541786,U55.611.01.K02,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541787,TRIỆU_CHỨNG,Ngủ không yên,Ngủ không yên,6541787,U55.611.01.K03,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541789,TRIỆU_CHỨNG,Tinh thần đần độn,Tinh thần đần độn,6541789,U55.611.02.Đ01,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541790,TRIỆU_CHỨNG,Chậm nói,Chậm nói,6541790,U55.611.02.Đ02,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541791,TRIỆU_CHỨNG,Nói ngọng,Nói ngọng,6541791,U55.611.02.Đ03,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541792,TRIỆU_CHỨNG,Miệng chảy dãi,Miệng chảy dãi,6541792,U55.611.02.Đ04,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541793,TRIỆU_CHỨNG,Biếng ăn,Biếng ăn,6541793,U55.611.02.Đ05,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541794,TRIỆU_CHỨNG,Nhai bú vô lực,Nhai bú vô lực,6541794,U55.611.02.Đ06,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541795,TRIỆU_CHỨNG,Nuốt khó,Nuốt khó,6541795,U55.611.02.Đ07,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541796,TRIỆU_CHỨNG,Tứ chi mềm yếu,Tứ chi mềm yếu,6541796,U55.611.02.Đ08,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541797,TRIỆU_CHỨNG,Cử động khó khăn,Cử động khó khăn,6541797,U55.611.02.Đ09,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541798,TRIỆU_CHỨNG,Cơ nhục mềm nhẽo,Cơ nhục mềm nhẽo,6541798,U55.611.02.Đ10,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541799,TRIỆU_CHỨNG,Bước đi không thẳng,Bước đi không thẳng,6541799,U55.611.02.K01,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541800,TRIỆU_CHỨNG,Tóc mọc chậm,Tóc mọc chậm,6541800,U55.611.02.K02,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541801,TRIỆU_CHỨNG,Cử động chậm chạp,Cử động chậm chạp,6541801,U55.611.02.K03,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541802,TRIỆU_CHỨNG,Tóc vàng khô,Tóc vàng khô,6541802,U55.611.02.K04,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541803,TRIỆU_CHỨNG,Tóc khô,Tóc khô,6541803,U55.611.02.K05,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541805,TRIỆU_CHỨNG,Tinh thần mờ tối,Tinh thần mờ tối,6541805,U55.611.03.Đ01,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541806,TRIỆU_CHỨNG,Có cơn động kinh,Có cơn động kinh,6541806,U55.611.03.Đ02,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541807,TRIỆU_CHỨNG,Thất ngôn,Thất ngôn,6541807,U55.611.03.Đ03,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541808,TRIỆU_CHỨNG,Nghe kém,Nghe kém,6541808,U55.611.03.Đ04,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541809,TRIỆU_CHỨNG,Phản ứng chậm chạp,Phản ứng chậm chạp,6541809,U55.611.03.Đ05,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541810,TRIỆU_CHỨNG,Cử động không tự chủ,Cử động không tự chủ,6541810,U55.611.03.Đ06,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541811,TRIỆU_CHỨNG,Nuốt thở khó khăn,Nuốt thở khó khăn,6541811,U55.611.03.Đ07,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541812,TRIỆU_CHỨNG,Cứng khớp,Cứng khớp,6541812,U55.611.03.Đ08,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541813,TRIỆU_CHỨNG,Cơ nhục mềm nhẽo,Cơ nhục mềm nhẽo,6541813,U55.611.03.Đ09,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541814,TRIỆU_CHỨNG,Họng có tiếng đờm khò khè,Họng có tiếng đờm khò khè,6541814,U55.611.03.Đ10,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,normalized by official symptom dictionary
+TC_6541911,TRIỆU_CHỨNG,"Đêm sốt, sáng hết sốt hoặc chỉ còn sốt nhẹ","Đêm sốt, sáng hết sốt hoặc chỉ còn sốt nhẹ",6541911,U50.481.01.Đ01,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541912,TRIỆU_CHỨNG,Tinh thần mờ tối,Tinh thần mờ tối,6541912,U50.481.01.Đ02,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541913,TRIỆU_CHỨNG,Nhận biết kém,Nhận biết kém,6541913,U50.481.01.Đ03,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541914,TRIỆU_CHỨNG,Vật vã,Vật vã,6541914,U50.481.01.Đ04,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541915,TRIỆU_CHỨNG,Run giật,Run giật,6541915,U50.481.01.Đ05,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541916,TRIỆU_CHỨNG,Mất ngủ,Mất ngủ,6541916,U50.481.01.Đ06,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541917,TRIỆU_CHỨNG,Quấy khóc,Quấy khóc,6541917,U50.481.01.Đ07,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541918,TRIỆU_CHỨNG,Không có mồ hôi,Không có mồ hôi,6541918,U50.481.01.Đ08,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541919,TRIỆU_CHỨNG,Người gầy,Người gầy,6541919,U50.481.01.Đ09,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541920,TRIỆU_CHỨNG,Miệng khô,Miệng khô,6541920,U50.481.01.Đ10,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541921,TRIỆU_CHỨNG,Môi đỏ,Môi đỏ,6541921,U50.481.01.Đ11,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541922,TRIỆU_CHỨNG,"Nằm yên, ít cử động","Nằm yên, ít cử động",6541922,U50.481.01.Đ12,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541923,TRIỆU_CHỨNG,Chân tay co cứng,Chân tay co cứng,6541923,U50.481.01.Đ13,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541924,TRIỆU_CHỨNG,Tay chân xoắn vặn,Tay chân xoắn vặn,6541924,U50.481.01.Đ14,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541925,TRIỆU_CHỨNG,Co giật,Co giật,6541925,U50.481.01.Đ15,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541926,TRIỆU_CHỨNG,Lòng bàn chân tay nóng đỏ,Lòng bàn chân tay nóng đỏ,6541926,U50.481.01.Đ16,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541927,TRIỆU_CHỨNG,Đại tiện táo,Đại tiện táo,6541927,U50.481.01.Đ17,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541928,TRIỆU_CHỨNG,Nước tiểu vàng,Nước tiểu vàng,6541928,U50.481.01.Đ18,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541929,TRIỆU_CHỨNG,La hét,La hét,6541929,U50.481.01.K01,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541930,TRIỆU_CHỨNG,Phiền nhiệt,Phiền nhiệt,6541930,U50.481.01.K02,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541932,TRIỆU_CHỨNG,Tinh thần đần độn,Tinh thần đần độn,6541932,U50.481.02.Đ01,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541933,TRIỆU_CHỨNG,Sắc mặt lúc trắng lúc đỏ,Sắc mặt lúc trắng lúc đỏ,6541933,U50.481.02.Đ02,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541934,TRIỆU_CHỨNG,Thất vận ngôn (không nói được),Thất vận ngôn (không nói được),6541934,U50.481.02.Đ03,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541935,TRIỆU_CHỨNG,Chân tay co cứng,Chân tay co cứng,6541935,U50.481.02.Đ04,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541936,TRIỆU_CHỨNG,Liệt tay chân,Liệt tay chân,6541936,U50.481.02.Đ05,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541937,TRIỆU_CHỨNG,Không ngồi được,Không ngồi được,6541937,U50.481.02.Đ06,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541938,TRIỆU_CHỨNG,Không đứng được,Không đứng được,6541938,U50.481.02.Đ07,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541939,TRIỆU_CHỨNG,Không đi được,Không đi được,6541939,U50.481.02.Đ08,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,normalized by official symptom dictionary
+TC_6541942,TRIỆU_CHỨNG,"Sắc mặt vàng ải, kém tươi nhuận","Sắc mặt vàng ải, kém tươi nhuận",6541942,U53.071.01.Đ01,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541943,TRIỆU_CHỨNG,Người gầy gò,Người gầy gò,6541943,U53.071.01.Đ02,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541944,TRIỆU_CHỨNG,Tinh thần mệt mỏi,Tinh thần mệt mỏi,6541944,U53.071.01.Đ03,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541945,TRIỆU_CHỨNG,Dễ tức giận,Dễ tức giận,6541945,U53.071.01.Đ04,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541946,TRIỆU_CHỨNG,Lông tóc thưa,Lông tóc thưa,6541946,U53.071.01.Đ05,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541947,TRIỆU_CHỨNG,Ăn uống ít,Ăn uống ít,6541947,U53.071.01.Đ06,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541948,TRIỆU_CHỨNG,Ăn nhiều dễ đói,Ăn nhiều dễ đói,6541948,U53.071.01.Đ07,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541949,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541949,U53.071.01.Đ08,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541950,TRIỆU_CHỨNG,Đại tiện bí,Đại tiện bí,6541950,U53.071.01.Đ09,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541952,TRIỆU_CHỨNG,Người gầy,Người gầy,6541952,U53.071.02.Đ01,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541953,TRIỆU_CHỨNG,Sắc mặt vàng tối,Sắc mặt vàng tối,6541953,U53.071.02.Đ02,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541954,TRIỆU_CHỨNG,Tinh thần hay phiền não,Tinh thần hay phiền não,6541954,U53.071.02.Đ03,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541955,TRIỆU_CHỨNG,Dễ kích động,Dễ kích động,6541955,U53.071.02.Đ04,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541956,TRIỆU_CHỨNG,Ngủ không yên,Ngủ không yên,6541956,U53.071.02.Đ05,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541957,TRIỆU_CHỨNG,Có các hành động khác thường,Có các hành động khác thường,6541957,U53.071.02.Đ06,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541958,TRIỆU_CHỨNG,Lông tóc thưa,Lông tóc thưa,6541958,U53.071.02.Đ07,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541959,TRIỆU_CHỨNG,Ăn uống ít hoặc nhiều,Ăn uống ít hoặc nhiều,6541959,U53.071.02.Đ08,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541960,TRIỆU_CHỨNG,"Bụng chướng to, nổi gân xanh","Bụng chướng to, nổi gân xanh",6541960,U53.071.02.Đ09,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541961,TRIỆU_CHỨNG,Đại tiện nhiều,Đại tiện nhiều,6541961,U53.071.02.Đ10,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541963,TRIỆU_CHỨNG,Người tiêu gầy,Người tiêu gầy,6541963,U53.071.03.Đ01,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541964,TRIỆU_CHỨNG,Vẻ mặt cụ già,Vẻ mặt cụ già,6541964,U53.071.03.Đ02,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541965,TRIỆU_CHỨNG,Da khô,Da khô,6541965,U53.071.03.Đ03,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541966,TRIỆU_CHỨNG,Tinh thần mệt mỏi,Tinh thần mệt mỏi,6541966,U53.071.03.Đ04,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541967,TRIỆU_CHỨNG,Có lúc hạ thân nhiệt,Có lúc hạ thân nhiệt,6541967,U53.071.03.Đ05,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541968,TRIỆU_CHỨNG,Mắt mờ hoặc có màng,Mắt mờ hoặc có màng,6541968,U53.071.03.Đ06,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541969,TRIỆU_CHỨNG,Lông tóc khô,Lông tóc khô,6541969,U53.071.03.Đ07,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541970,TRIỆU_CHỨNG,Tiếng khóc nhỏ yếu,Tiếng khóc nhỏ yếu,6541970,U53.071.03.Đ08,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541971,TRIỆU_CHỨNG,Cơ teo,Cơ teo,6541971,U53.071.03.Đ09,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541972,TRIỆU_CHỨNG,Da bọc xương,Da bọc xương,6541972,U53.071.03.Đ10,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541973,TRIỆU_CHỨNG,Ngửi không muốn ăn,Ngửi không muốn ăn,6541973,U53.071.03.Đ11,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541974,TRIỆU_CHỨNG,Bụng lõm lòng thuyền,Bụng lõm lòng thuyền,6541974,U53.071.03.Đ12,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541975,TRIỆU_CHỨNG,Đại tiện phân khuôn bé,Đại tiện phân khuôn bé,6541975,U53.071.03.Đ13,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6541976,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541976,U53.071.03.Đ14,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,normalized by official symptom dictionary
+TC_6542017,TRIỆU_CHỨNG,Đau bụng vùng thượng vị thành cơn,Đau bụng vùng thượng vị thành cơn,6542017,U60.471.01.01.Đ01,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542018,TRIỆU_CHỨNG,Đau lan ra mạn sườn,Đau lan ra mạn sườn,6542018,U60.471.01.01.Đ02,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542019,TRIỆU_CHỨNG,Có khi đau lan ra sau lưng,Có khi đau lan ra sau lưng,6542019,U60.471.01.01.Đ03,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542020,TRIỆU_CHỨNG,Bụng đầy chướng,Bụng đầy chướng,6542020,U60.471.01.01.Đ04,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542021,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6542021,U60.471.01.01.Đ05,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542022,TRIỆU_CHỨNG,Hay ợ chua,Hay ợ chua,6542022,U60.471.01.01.Đ06,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542023,TRIỆU_CHỨNG,"Ợ hợi, khi ợ hơi được thì đỡ đau","Ợ hợi, khi ợ hơi được thì đỡ đau",6542023,U60.471.01.01.Đ07,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542025,TRIỆU_CHỨNG,Đau thượng vị nhiều,Đau thượng vị nhiều,6542025,U60.471.01.02.Đ01,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542026,TRIỆU_CHỨNG,Đau nóng rát,Đau nóng rát,6542026,U60.471.01.02.Đ02,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542027,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6542027,U60.471.01.02.Đ03,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542028,TRIỆU_CHỨNG,Miệng khô đắng,Miệng khô đắng,6542028,U60.471.01.02.Đ04,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542029,TRIỆU_CHỨNG,Ợ chua nhiều,Ợ chua nhiều,6542029,U60.471.01.02.Đ05,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542031,TRIỆU_CHỨNG,Đau dữ dội ở một vị trí nhất định vùng thượng vị,Đau dữ dội ở một vị trí nhất định vùng thượng vị,6542031,U60.471.01.03.Đ01,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542032,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6542032,U60.471.01.03.Đ02,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542033,TRIỆU_CHỨNG,Nôn ra máu (thể cấp),Nôn ra máu (thể cấp),6542033,U60.471.01.03.Đ03,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542034,TRIỆU_CHỨNG,Đi ngoài phân đen (thể cấp),Đi ngoài phân đen (thể cấp),6542034,U60.471.01.03.Đ04,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542035,TRIỆU_CHỨNG,Người mệt mỏi (thể hoãn),Người mệt mỏi (thể hoãn),6542035,U60.471.01.03.Đ05,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542036,TRIỆU_CHỨNG,Sắc mặt nhợt nhạt (thể hoãn),Sắc mặt nhợt nhạt (thể hoãn),6542036,U60.471.01.03.Đ06,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542037,TRIỆU_CHỨNG,Môi nhợt (thể hoãn),Môi nhợt (thể hoãn),6542037,U60.471.01.03.Đ07,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542038,TRIỆU_CHỨNG,Chân tay lạnh (thể hoãn),Chân tay lạnh (thể hoãn),6542038,U60.471.01.03.Đ08,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542039,TRIỆU_CHỨNG,Ra mồ hôi (thể hoãn),Ra mồ hôi (thể hoãn),6542039,U60.471.01.03.Đ09,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542041,TRIỆU_CHỨNG,Đau thượng vị âm ỉ,Đau thượng vị âm ỉ,6542041,U60.471.02.Đ01,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542042,TRIỆU_CHỨNG,Đau liên miên,Đau liên miên,6542042,U60.471.02.Đ02,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542043,TRIỆU_CHỨNG,Gặp lạnh đau tăng,Gặp lạnh đau tăng,6542043,U60.471.02.Đ03,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542044,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6542044,U60.471.02.Đ04,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542045,TRIỆU_CHỨNG,Tay chân lạnh,Tay chân lạnh,6542045,U60.471.02.Đ05,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542046,TRIỆU_CHỨNG,Nôn nhiều,Nôn nhiều,6542046,U60.471.02.Đ06,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542047,TRIỆU_CHỨNG,Nôn ra nước trong,Nôn ra nước trong,6542047,U60.471.02.Đ07,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542048,TRIỆU_CHỨNG,Ăn kém,Ăn kém,6542048,U60.471.02.Đ08,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542049,TRIỆU_CHỨNG,Thích ăn đồ ấm nóng,Thích ăn đồ ấm nóng,6542049,U60.471.02.Đ09,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542050,TRIỆU_CHỨNG,Bụng đầy chướng,Bụng đầy chướng,6542050,U60.471.02.Đ10,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,0.95,normalized by official symptom dictionary
+TC_6542051,TRIỆU_CHỨNG,"Khi đau thích xoa bóp, chườm nóng","Khi đau thích xoa bóp, chườm nóng",6542051,U60.471.02.Đ11,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542052,TRIỆU_CHỨNG,Đại tiện lỏng nát,Đại tiện lỏng nát,6542052,U60.471.02.Đ12,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,normalized by official symptom dictionary
+TC_6542166,TRIỆU_CHỨNG,Đau tức nặng ở vùng hạ sườn phải,Đau tức nặng ở vùng hạ sườn phải,6542166,U50.102.01.Đ01,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542167,TRIỆU_CHỨNG,"Triệu chứng đau tức tăng khi kích động, tức giận","Triệu chứng đau tức tăng khi kích động, tức giận",6542167,U50.102.01.Đ02,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,0.95,normalized by official symptom dictionary
+TC_6542168,TRIỆU_CHỨNG,Mệt mỏi,Mệt mỏi,6542168,U50.102.01.Đ03,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542169,TRIỆU_CHỨNG,Ăn uống kém,Ăn uống kém,6542169,U50.102.01.Đ04,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542170,TRIỆU_CHỨNG,Miệng đắng,Miệng đắng,6542170,U50.102.01.Đ05,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542171,TRIỆU_CHỨNG,Nước tiểu vàng khi gắng sức,Nước tiểu vàng khi gắng sức,6542171,U50.102.01.Đ06,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542173,TRIỆU_CHỨNG,"Đau vùng hạ sườn phải cố định, không di chuyển","Đau vùng hạ sườn phải cố định, không di chuyển",6542173,U50.102.02.Đ01,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542174,TRIỆU_CHỨNG,Cảm giác đau như kim châm,Cảm giác đau như kim châm,6542174,U50.102.02.Đ02,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542175,TRIỆU_CHỨNG,Triệu chứng đau thường tăng về đêm,Triệu chứng đau thường tăng về đêm,6542175,U50.102.02.Đ03,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,0.95,normalized by official symptom dictionary
+TC_6542176,TRIỆU_CHỨNG,Sờ thấy khối rắn ở hạ sườn phải,Sờ thấy khối rắn ở hạ sườn phải,6542176,U50.102.02.Đ04,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542178,TRIỆU_CHỨNG,Đau tức nặng ở vùng hạ sườn phải,Đau tức nặng ở vùng hạ sườn phải,6542178,U50.102.03.Đ01,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,0.95,normalized by official symptom dictionary
+TC_6542179,TRIỆU_CHỨNG,Ngực đầy tức,Ngực đầy tức,6542179,U50.102.03.Đ02,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542180,TRIỆU_CHỨNG,Sốt,Sốt,6542180,U50.102.03.Đ03,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542181,TRIỆU_CHỨNG,Da vàng,Da vàng,6542181,U50.102.03.Đ04,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542182,TRIỆU_CHỨNG,Củng mạc mắt vàng,Củng mạc mắt vàng,6542182,U50.102.03.Đ05,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542183,TRIỆU_CHỨNG,"Ăn kém, không muốn ăn","Ăn kém, không muốn ăn",6542183,U50.102.03.Đ06,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542184,TRIỆU_CHỨNG,Miệng đắng,Miệng đắng,6542184,U50.102.03.Đ07,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542185,TRIỆU_CHỨNG,"Buồn nôn, nôn","Buồn nôn, nôn",6542185,U50.102.03.Đ08,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542186,TRIỆU_CHỨNG,Nước tiểu vàng,Nước tiểu vàng,6542186,U50.102.03.Đ09,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542187,TRIỆU_CHỨNG,Đại tiện táo,Đại tiện táo,6542187,U50.102.03.Đ10,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542189,TRIỆU_CHỨNG,Đau tức nặng ở vùng hạ sườn phải,Đau tức nặng ở vùng hạ sườn phải,6542189,U50.102.04.Đ01,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,0.95,normalized by official symptom dictionary
+TC_6542190,TRIỆU_CHỨNG,"Triệu chứng tăng lên khi lao lực, mệt mỏi","Triệu chứng tăng lên khi lao lực, mệt mỏi",6542190,U50.102.04.Đ02,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542191,TRIỆU_CHỨNG,Ăn uống kém,Ăn uống kém,6542191,U50.102.04.Đ03,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,0.95,normalized by official symptom dictionary
+TC_6542192,TRIỆU_CHỨNG,Miệng đắng,Miệng đắng,6542192,U50.102.04.Đ04,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542193,TRIỆU_CHỨNG,Họng khô,Họng khô,6542193,U50.102.04.Đ05,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542194,TRIỆU_CHỨNG,Miệng khô,Miệng khô,6542194,U50.102.04.Đ06,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542195,TRIỆU_CHỨNG,Đại tiện táo,Đại tiện táo,6542195,U50.102.04.Đ07,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542196,TRIỆU_CHỨNG,Nước tiểu vàng,Nước tiểu vàng,6542196,U50.102.04.Đ08,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,normalized by official symptom dictionary
+TC_6542245,TRIỆU_CHỨNG,Ho nhiều,Ho nhiều,6542245,U59.231.01.Đ01,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542246,TRIỆU_CHỨNG,Tiếng ho nặng,Tiếng ho nặng,6542246,U59.231.01.Đ02,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542247,TRIỆU_CHỨNG,Họng đau,Họng đau,6542247,U59.231.01.Đ03,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542249,TRIỆU_CHỨNG,Sốt cao,Sốt cao,6542249,U59.231.01.Đ05,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542250,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6542250,U59.231.01.Đ06,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542251,TRIỆU_CHỨNG,Toàn thân đau mỏi,Toàn thân đau mỏi,6542251,U59.231.01.Đ07,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542252,TRIỆU_CHỨNG,Miệng khát,Miệng khát,6542252,U59.231.01.Đ08,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542253,TRIỆU_CHỨNG,Nước mũi vàng đục,Nước mũi vàng đục,6542253,U59.231.01.Đ09,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542254,TRIỆU_CHỨNG,Ra mồ hôi,Ra mồ hôi,6542254,U59.231.01.Đ10,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542255,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6542255,U59.231.01.Đ11,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542257,TRIỆU_CHỨNG,Ho,Ho,6542257,U59.231.02.Đ01,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542258,TRIỆU_CHỨNG,Khàn tiếng,Khàn tiếng,6542258,U59.231.02.Đ02,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542259,TRIỆU_CHỨNG,"Đàm sắc trắng, trong loãng","Đàm sắc trắng, trong loãng",6542259,U59.231.02.Đ03,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,0.95,normalized by official symptom dictionary
+TC_6542260,TRIỆU_CHỨNG,Đàm dễ khạc,Đàm dễ khạc,6542260,U59.231.02.Đ04,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,0.95,normalized by official symptom dictionary
+TC_6542261,TRIỆU_CHỨNG,Sốt,Sốt,6542261,U59.231.02.Đ05,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542262,TRIỆU_CHỨNG,Toàn thân đau mỏi,Toàn thân đau mỏi,6542262,U59.231.02.Đ06,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542263,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6542263,U59.231.02.Đ07,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542264,TRIỆU_CHỨNG,Chảy nước mũi trong,Chảy nước mũi trong,6542264,U59.231.02.Đ08,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542265,TRIỆU_CHỨNG,Tắc mũi,Tắc mũi,6542265,U59.231.02.Đ09,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542266,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6542266,U59.231.02.Đ10,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542267,TRIỆU_CHỨNG,Không ra mồ hôi,Không ra mồ hôi,6542267,U59.231.02.Đ11,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542269,TRIỆU_CHỨNG,Ho khan,Ho khan,6542269,U59.231.03.Đ01,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542270,TRIỆU_CHỨNG,Ho lẫn ít đàm trong có tia máu,Ho lẫn ít đàm trong có tia máu,6542270,U59.231.03.Đ02,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,0.95,normalized by official symptom dictionary
+TC_6542271,TRIỆU_CHỨNG,Họng đau,Họng đau,6542271,U59.231.03.Đ03,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542272,TRIỆU_CHỨNG,Họng khô,Họng khô,6542272,U59.231.03.Đ04,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542273,TRIỆU_CHỨNG,Sốt,Sốt,6542273,U59.231.03.Đ05,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542274,TRIỆU_CHỨNG,Mũi khô,Mũi khô,6542274,U59.231.03.Đ06,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542275,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6542275,U59.231.03.Đ07,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542277,TRIỆU_CHỨNG,Ho khạc,Ho khạc,6542277,U59.231.04.Đ01,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542279,TRIỆU_CHỨNG,Đàm trắng dính loãng hoặc thành cục,Đàm trắng dính loãng hoặc thành cục,6542279,U59.231.04.Đ03,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,0.95,normalized by official symptom dictionary
+TC_6542280,TRIỆU_CHỨNG,Ăn kém,Ăn kém,6542280,U59.231.04.Đ04,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542281,TRIỆU_CHỨNG,Mệt mỏi,Mệt mỏi,6542281,U59.231.04.Đ05,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542282,TRIỆU_CHỨNG,Ngực bụng đầy tức,Ngực bụng đầy tức,6542282,U59.231.04.Đ06,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542284,TRIỆU_CHỨNG,"Ho kéo dài hay tái phát, đàm trắng loãng","Ho kéo dài hay tái phát, đàm trắng loãng",6542284,U59.231.05.Đ01,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,0.95,normalized by official symptom dictionary
+TC_6542285,TRIỆU_CHỨNG,Trời lạnh ho tăng,Trời lạnh ho tăng,6542285,U59.231.05.Đ02,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542286,TRIỆU_CHỨNG,Khó thở,Khó thở,6542286,U59.231.05.Đ03,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542287,TRIỆU_CHỨNG,Đôi khi phải nằm gối cao,Đôi khi phải nằm gối cao,6542287,U59.231.05.Đ04,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,0.95,normalized by official symptom dictionary
+TC_6542288,TRIỆU_CHỨNG,Vận động triệu chứng tăng,Vận động triệu chứng tăng,6542288,U59.231.05.Đ05,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,normalized by official symptom dictionary
+TC_6542291,TRIỆU_CHỨNG,Sẩn phù màu trắng,Sẩn phù màu trắng,6542291,U61.011.01.Đ01,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542293,TRIỆU_CHỨNG,Không khát,Không khát,6542293,U61.011.01.K01,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542295,TRIỆU_CHỨNG,Sẩn phù màu đỏ tươi,Sẩn phù màu đỏ tươi,6542295,U61.011.02.Đ01,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542296,TRIỆU_CHỨNG,Ngứa dữ dội,Ngứa dữ dội,6542296,U61.011.02.Đ02,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542297,TRIỆU_CHỨNG,"Người nóng, phát sốt, sợ nóng","Người nóng, phát sốt, sợ nóng",6542297,U61.011.02.Đ03,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542298,TRIỆU_CHỨNG,Triệu chứng nặng thêm khi gặp nóng,Triệu chứng nặng thêm khi gặp nóng,6542298,U61.011.02.Đ04,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,0.95,normalized by official symptom dictionary
+TC_6542299,TRIỆU_CHỨNG,"Hầu họng sưng, đau","Hầu họng sưng, đau",6542299,U61.011.02.Đ05,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542301,TRIỆU_CHỨNG,Tổn thương màu trắng,Tổn thương màu trắng,6542301,U61.011.03.Đ01,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542303,TRIỆU_CHỨNG,Mệt mỏi,Mệt mỏi,6542303,U61.011.03.Đ03,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542304,TRIỆU_CHỨNG,Sắc mặt không tươi nhuận,Sắc mặt không tươi nhuận,6542304,U61.011.03.Đ04,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542305,TRIỆU_CHỨNG,Bệnh tái đi tái lại,Bệnh tái đi tái lại,6542305,U61.011.03.Đ05,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,normalized by official symptom dictionary
+TC_6542380,TRIỆU_CHỨNG,Tiểu lượng ít,Tiểu lượng ít,6542380,U66.372.01.Đ01,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542381,TRIỆU_CHỨNG,Tiểu nhỏ giọt,Tiểu nhỏ giọt,6542381,U66.372.01.Đ02,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542382,TRIỆU_CHỨNG,Tiểu nóng rát,Tiểu nóng rát,6542382,U66.372.01.Đ03,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542383,TRIỆU_CHỨNG,Nước tiểu vàng,Nước tiểu vàng,6542383,U66.372.01.Đ04,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542384,TRIỆU_CHỨNG,Không tiểu được,Không tiểu được,6542384,U66.372.01.Đ05,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542385,TRIỆU_CHỨNG,Bụng dưới đầy,Bụng dưới đầy,6542385,U66.372.01.Đ06,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542386,TRIỆU_CHỨNG,Miệng đắng và khô,Miệng đắng và khô,6542386,U66.372.01.Đ07,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542387,TRIỆU_CHỨNG,Không muốn uống nước,Không muốn uống nước,6542387,U66.372.01.Đ08,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542388,TRIỆU_CHỨNG,Đại tiện khó,Đại tiện khó,6542388,U66.372.01.Đ09,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542390,TRIỆU_CHỨNG,Họng khô,Họng khô,6542390,U66.372.02.Đ01,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542391,TRIỆU_CHỨNG,Thở ngắn gấp,Thở ngắn gấp,6542391,U66.372.02.Đ02,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542392,TRIỆU_CHỨNG,Phiền khát,Phiền khát,6542392,U66.372.02.Đ03,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542393,TRIỆU_CHỨNG,Thích uống nước,Thích uống nước,6542393,U66.372.02.Đ04,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542394,TRIỆU_CHỨNG,Tiểu khó,Tiểu khó,6542394,U66.372.02.Đ05,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542395,TRIỆU_CHỨNG,Tiểu nhỏ giọt,Tiểu nhỏ giọt,6542395,U66.372.02.Đ06,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542396,TRIỆU_CHỨNG,Tia nước tiểu nhỏ không thông,Tia nước tiểu nhỏ không thông,6542396,U66.372.02.Đ07,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542397,TRIỆU_CHỨNG,Không tiểu được,Không tiểu được,6542397,U66.371.02.Đ08,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542399,TRIỆU_CHỨNG,Khởi phát sau khi tình chí uất hận,Khởi phát sau khi tình chí uất hận,6542399,U66.372.03.Đ01,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,0.95,normalized by official symptom dictionary
+TC_6542401,TRIỆU_CHỨNG,Tiểu không thông đột ngột,Tiểu không thông đột ngột,6542401,U66.372.03.Đ03,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542403,TRIỆU_CHỨNG,Đau giang môn/Đau vùng hậu môn,Đau giang môn/Đau vùng hậu môn,6542403,U66.372.03.Đ05,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,0.95,normalized by official symptom dictionary
+TC_6542404,TRIỆU_CHỨNG,Đau bụng,Đau bụng,6542404,U66.372.03.Đ06,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542405,TRIỆU_CHỨNG,Bụng đầy trướng,Bụng đầy trướng,6542405,U66.372.03.Đ07,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542406,TRIỆU_CHỨNG,Dễ xúc động,Dễ xúc động,6542406,U66.372.03.K01,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542407,TRIỆU_CHỨNG,Dễ buồn phiền,Dễ buồn phiền,6542407,U66.372.03.K02,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542408,TRIỆU_CHỨNG,Dễ cáu giận,Dễ cáu giận,6542408,U66.372.03.K03,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542410,TRIỆU_CHỨNG,Tiểu khó,Tiểu khó,6542410,U66.372.04.Đ01,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542411,TRIỆU_CHỨNG,Tiểu ít,Tiểu ít,6542411,U66.372.04.Đ02,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542412,TRIỆU_CHỨNG,Thường gặp ở người cao tuổi,Thường gặp ở người cao tuổi,6542412,U66.372.04.Đ03,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542413,TRIỆU_CHỨNG,Đau lưng,Đau lưng,6542413,U66.372.04.Đ04,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542414,TRIỆU_CHỨNG,Mỏi gối,Mỏi gối,6542414,U66.372.04.Đ05,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542415,TRIỆU_CHỨNG,Chân không ấm,Chân không ấm,6542415,U66.372.04.Đ06,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,normalized by official symptom dictionary
+TC_6542418,TRIỆU_CHỨNG,Đại tiện táo kết,Đại tiện táo kết,6542418,U58.762.01.Đ01,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542419,TRIỆU_CHỨNG,Đại tiện kèm máu đỏ tươi,Đại tiện kèm máu đỏ tươi,6542419,U58.762.01.Đ02,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542420,TRIỆU_CHỨNG,Hậu môn nóng,Hậu môn nóng,6542420,U58.762.01.Đ03,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542421,TRIỆU_CHỨNG,Khối trĩ sa ít,Khối trĩ sa ít,6542421,U58.762.01.Đ04,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542422,TRIỆU_CHỨNG,Khối trĩ không sa,Khối trĩ không sa,6542422,U58.762.01.Đ05,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542423,TRIỆU_CHỨNG,Người nóng,Người nóng,6542423,U58.762.01.Đ06,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542424,TRIỆU_CHỨNG,Tiểu ít,Tiểu ít,6542424,U58.762.01.Đ07,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542425,TRIỆU_CHỨNG,Tiểu tiện vàng,Tiểu tiện vàng,6542425,U58.762.01.Đ08,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542426,TRIỆU_CHỨNG,"Khối trĩ không chảy dịch, không chảy mủ","Khối trĩ không chảy dịch, không chảy mủ",6542426,U58.762.01.K01,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542428,TRIỆU_CHỨNG,"Búi trĩ sưng, chắc","Búi trĩ sưng, chắc",6542428,U58.762.02.Đ01,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542429,TRIỆU_CHỨNG,Búi trĩ đau nhức,Búi trĩ đau nhức,6542429,U58.762.02.Đ02,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542430,TRIỆU_CHỨNG,Búi trĩ tím sẫm,Búi trĩ tím sẫm,6542430,U58.762.02.Đ03,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542431,TRIỆU_CHỨNG,Ấn đau búi trĩ,Ấn đau búi trĩ,6542431,U58.762.02.Đ04,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542432,TRIỆU_CHỨNG,Đại tiện có máu tươi,Đại tiện có máu tươi,6542432,U58.762.02.Đ05,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542433,TRIỆU_CHỨNG,"Khối trĩ không chảy dịch, không chảy mủ","Khối trĩ không chảy dịch, không chảy mủ",6542433,U58.762.02.K01,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,0.95,normalized by official symptom dictionary
+TC_6542435,TRIỆU_CHỨNG,Vùng hậu môn đau,Vùng hậu môn đau,6542435,U58.762.03.Đ01,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542436,TRIỆU_CHỨNG,Trĩ sa ra ngoài khó đẩy vào,Trĩ sa ra ngoài khó đẩy vào,6542436,U58.762.03.Đ02,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542437,TRIỆU_CHỨNG,Khối trĩ tiết nhiều dịch,Khối trĩ tiết nhiều dịch,6542437,U58.762.03.Đ03,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,0.95,normalized by official symptom dictionary
+TC_6542438,TRIỆU_CHỨNG,Có điểm hoại tử bề mặt búi trĩ,Có điểm hoại tử bề mặt búi trĩ,6542438,U58.762.03.Đ04,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542439,TRIỆU_CHỨNG,Búi trĩ có điểm loét,Búi trĩ có điểm loét,6542439,U58.762.03.Đ05,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542440,TRIỆU_CHỨNG,Búi trĩ có dịch vàng hôi,Búi trĩ có dịch vàng hôi,6542440,U58.762.03.Đ06,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542441,TRIỆU_CHỨNG,Đại tiện táo,Đại tiện táo,6542441,U58.762.03.Đ07,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542443,TRIỆU_CHỨNG,Đại tiện ra máu lâu ngày,Đại tiện ra máu lâu ngày,6542443,U58.762.04.Đ01,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542444,TRIỆU_CHỨNG,Hoa mắt chóng mặt,Hoa mắt chóng mặt,6542444,U58.762.04.Đ02,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542445,TRIỆU_CHỨNG,Ù tai,Ù tai,6542445,U58.762.04.Đ03,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542446,TRIỆU_CHỨNG,Mặt trắng nhợt,Mặt trắng nhợt,6542446,U58.762.04.Đ04,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542447,TRIỆU_CHỨNG,Người mệt mỏi,Người mệt mỏi,6542447,U58.762.04.Đ05,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary
+TC_6542448,TRIỆU_CHỨNG,Đoản hơi,Đoản hơi,6542448,U58.762.04.Đ06,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,normalized by official symptom dictionary

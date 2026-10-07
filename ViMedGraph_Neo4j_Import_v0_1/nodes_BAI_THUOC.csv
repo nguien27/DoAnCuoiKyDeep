@@ -1,0 +1,218 @@
+﻿entity_id,entity_type,canonical_name,observed_name,official_id,official_code,source_id,disease_id,section_type,pdf_page_start,pdf_page_end,normalization_status,confidence,notes
+BT_6586400,BÀI_THUỐC,Can khương thương truật thang,Can khương thương truật thang,6586400,U62.392.5.01.CP001,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586401,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586401,U62.392.5.01.ĐP001,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586402,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586402,U62.392.5.01.NP001,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586403,BÀI_THUỐC,Tứ diệu tán,Tứ diệu tán,6586403,U62.392.5.02.CP002,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586404,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586404,U62.392.5.02.NP002,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586405,BÀI_THUỐC,Thân thống trục ứ thang,Thân thống trục ứ thang,6586405,U62.392.5.03.CP003,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586406,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586406,U62.392.5.03.ĐP002,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586407,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586407,U62.392.5.03.NP003,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586408,BÀI_THUỐC,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586408,U62.392.5.04.CP004,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586409,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586409,U62.392.5.04.ĐP003,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586410,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586410,U62.392.5.04.NP004,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586411,BÀI_THUỐC,Thận khí hoàn,Thận khí hoàn,6586411,U62.392.5.05.CP005,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586412,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586412,U62.392.5.05.ĐP004,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586413,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586413,U62.392.5.05.NP005,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,official_code,1.0,matched within normalized pattern
+BT_6586415,BÀI_THUỐC,Ý dĩ nhân thang,Ý dĩ nhân thang,6586415,U62.261.01.CP006,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586416,BÀI_THUỐC,Ô đầu thang,Ô đầu thang,6586416,U62.261.01.CP007,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586417,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586417,U62.261.01.ĐP005,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586418,BÀI_THUỐC,Nghiệm phương,Thấp khớp II,6586418,U62.261.01.NP006,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586419,BÀI_THUỐC,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586419,U62.261.02.CP008,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586420,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586420,U62.261.02.ĐP006,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586421,BÀI_THUỐC,Nghiệm phương,Độc hoạt phong thấp hoàn,6586421,U62.261.02.NP007,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586422,BÀI_THUỐC,Ý dĩ nhân thang hợp với Nhị diệu tán,Ý dĩ nhân thang hợp với Nhị diệu tán,6586422,U62.261.03.CP009,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586423,BÀI_THUỐC,Bạch hổ quế chi thang,Bạch hổ quế chi thang,6586423,U62.261.03.CP010,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586424,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586424,U62.261.03.ĐP007,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586425,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586425,U62.261.03.NP008,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,official_code,1.0,matched within normalized pattern
+BT_6586427,BÀI_THUỐC,Tuyên tý thang hợp Tam diệu thang,Tuyên tý thang hợp Tam diệu thang,6586427,U62.371.01.CP011,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586428,BÀI_THUỐC,Bạch hổ quế chi thang,Bạch hổ quế chi thang,6586428,U62.371.01.CP012,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586429,BÀI_THUỐC,Tứ diệu thang,Tứ diệu thang,6586429,U62.371.01.CP013,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586430,BÀI_THUỐC,Thuốc dùng ngoài,Cao Kim hoàng tán,6586430,U62.371.01.DN001,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586431,BÀI_THUỐC,Thuốc dùng ngoài,Hạt mã tiền,6586431,U62.371.01.DN002,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586432,BÀI_THUỐC,Ý dĩ nhân thang,Ý dĩ nhân thang,6586432,U62.371.02.CP014,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586433,BÀI_THUỐC,Ô đầu thang,Ô đầu thang,6586433,U62.371.02.CP015,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586434,BÀI_THUỐC,Thuốc dùng ngoài,Hạt mã tiền,6586434,U62.371.02.DN003,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586435,BÀI_THUỐC,Đào nhân ẩm hợp Nhị trần thang,Đào nhân ẩm hợp Nhị trần thang,6586435,U62.371.03.CP016,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586436,BÀI_THUỐC,Thuốc dùng ngoài,Hạt mã tiền,6586436,U62.371.03.DN004,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586437,BÀI_THUỐC,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586437,U62.371.04.CP017,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586438,BÀI_THUỐC,Thuốc dùng ngoài,Hạt mã tiền,6586438,U62.371.04.DN005,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,official_code,1.0,matched within normalized pattern
+BT_6586497,BÀI_THUỐC,Quế chi gia Cát căn thang,Quế chi gia Cát căn thang,6586497,U62.292.01.CP039,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586498,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586498,U62.292.01.ĐP024,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586499,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586499,U62.292.01.NP025,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586501,BÀI_THUỐC,Quế chi thược dược tri mẫu thang,Quế chi thược dược tri mẫu thang,6586501,U62.292.02.CP041,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586502,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586502,U62.292.02.ĐP025,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586503,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586503,U62.292.02.NP026,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586504,BÀI_THUỐC,Đào hồng ẩm,Đào hồng ẩm,6586504,U62.292.03.CP042,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586505,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586505,U62.292.03.ĐP026,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586506,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586506,U62.292.03.NP027,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586507,BÀI_THUỐC,Quyên tý thang,Quyên tý thang,6586507,U62.292.04.CP043,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586508,BÀI_THUỐC,Hổ tiềm hoàn,Hổ tiềm hoàn,6586508,U62.292.04.CP044,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586509,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586509,U62.292.04.ĐP027,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586510,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586510,U62.292.04.NP028,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,official_code,1.0,matched within normalized pattern
+BT_6586512,BÀI_THUỐC,Thiên ma câu đằng ẩm,Thiên ma câu đằng ẩm,6586512,U58.091.01.CP045,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586513,BÀI_THUỐC,Long đởm tả can thang,Long đởm tả can thang,6586513,U58.091.01.CP046,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586514,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586514,U58.091.01.ĐP028,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586515,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586515,U58.091.01.NP029,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586516,BÀI_THUỐC,Lục vị địa hoàng thang,Lục vị địa hoàng thang,6586516,U58.091.02.CP047,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586517,BÀI_THUỐC,Tri bá địa hoàng thang,Tri bá địa hoàng thang,6586517,U58.091.02.CP048,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586518,BÀI_THUỐC,Kỷ cúc địa hoàng thang,Kỷ cúc địa hoàng thang,6586518,U58.091.02.CP049,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586519,BÀI_THUỐC,Lục vị quy thược thang,Lục vị quy thược thang,6586519,U58.091.02.CP050,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586520,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586520,U58.091.02.ĐP029,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586521,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586521,U58.091.02.NP030,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586522,BÀI_THUỐC,Hữu quy hoàn,Hữu quy hoàn,6586522,U58.091.03.CP051,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586523,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586523,U58.091.03.ĐP030,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586524,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586524,U58.091.03.NP031,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586525,BÀI_THUỐC,Bán hạ bạch truật thiên ma thang,Bán hạ bạch truật thiên ma thang,6586525,U58.091.04.CP052,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586526,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586526,U58.091.04.ĐP031,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586527,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586527,U58.091.04.NP032,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,official_code,1.0,matched within normalized pattern
+BT_6586529,BÀI_THUỐC,Bán hạ bạch truật thiên ma thang,Bán hạ bạch truật thiên ma thang,6586529,U53.151.01.CP053,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586530,BÀI_THUỐC,Hương sa lục quân tử thang,Hương sa lục quân tử thang,6586530,U53.151.01.CP054,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586531,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586531,U53.151.01.ĐP032,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586532,BÀI_THUỐC,Hữu quy hoàn,Hữu quy hoàn,6586532,U53.151.02.CP055,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586533,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586533,U53.151.02.ĐP033,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586534,BÀI_THUỐC,Kỷ cúc địa hoàng thang,Kỷ cúc địa hoàng thang,6586534,U53.151.03.CP056,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586535,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586535,U53.151.03.ĐP034,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586536,BÀI_THUỐC,Tiêu dao tán,Tiêu dao tán,6586536,U53.151.04.CP057,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586537,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586537,U53.151.04.ĐP035,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586538,BÀI_THUỐC,Tứ linh tán hợp Lục nhất tán,Tứ linh tán hợp Lục nhất tán,6586538,U53.151.05.CP058,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586539,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586539,U53.151.05.ĐP036,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586540,BÀI_THUỐC,Huyết phủ trục ứ thang,Huyết phủ trục ứ thang,6586540,U53.151.06.CP059,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586541,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586541,U53.151.06.ĐP037,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,official_code,1.0,matched within normalized pattern
+BT_6586543,BÀI_THUỐC,Đại tần giao thang,Đại tần giao thang,6586543,U55.561.01.CP060,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,matched within normalized pattern
+BT_6586544,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586544,U55.561.01.ĐP038,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,matched within normalized pattern
+BT_6586545,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586545,U55.561.01.NP033,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,matched within normalized pattern
+BT_6586547,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586547,U55.561.02.NP034,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,matched within normalized pattern
+BT_6586546,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586546,U55.561.02.ĐP039,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,matched within normalized pattern
+BT_6586549,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586549,U55.561.03.ĐP040,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,matched within normalized pattern
+BT_6586550,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586550,U55.561.03.NP035,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,official_code,1.0,matched within normalized pattern
+BT_6586606,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586606,U62.392.01.ĐP063,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,matched within normalized pattern
+BT_6586607,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586607,U62.392.01.NP040,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,matched within normalized pattern
+BT_6586609,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586609,U62.392.02.ĐP064,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,matched within normalized pattern
+BT_6586610,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586610,U62.392.02.NP041,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,matched within normalized pattern
+BT_6586611,BÀI_THUỐC,Ý dĩ nhân thang hợp với Nhị diệu tán,Ý dĩ nhân thang hợp với Nhị diệu tán,6586611,U62.392.03.CP086,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,matched within normalized pattern
+BT_6586612,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586612,U62.392.03.ĐP065,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,matched within normalized pattern
+BT_6586613,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586613,U62.392.03.NP042,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,official_code,1.0,matched within normalized pattern
+BT_6586631,BÀI_THUỐC,Lục vị địa hoàng hoàn,Lục vị địa hoàng hoàn,6586631,U58.021.01.CP092,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586633,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586633,U58.021.01.ĐP071,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586634,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586634,U58.021.01.NP048,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586635,BÀI_THUỐC,Đạo đàm thang,Đạo đàm thang,6586635,U58.021.02.CP094,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586636,BÀI_THUỐC,Bán hạ bạch truật thiên ma thang,Bán hạ bạch truật thiên ma thang,6586636,U58.021.02.CP095,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586637,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586637,U58.021.02.ĐP072,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586638,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586638,U58.021.02.NP049,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586639,BÀI_THUỐC,Bổ dương hoàn ngũ thang,Bổ dương hoàn ngũ thang,6586639,U58.021.03.CP096,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586640,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586640,U58.021.03.ĐP073,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586641,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586641,U58.021.03.NP050,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,official_code,1.0,matched within normalized pattern
+BT_6586655,BÀI_THUỐC,Lục vị địa hoàng hoàn,Lục vị địa hoàng hoàn,6586655,U55.611.01.CP102,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,matched within normalized pattern
+BT_6586656,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586656,U55.611.01.ĐP077,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,matched within normalized pattern
+BT_6586658,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586658,U55.611.02.ĐP078,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,matched within normalized pattern
+BT_6586657,BÀI_THUỐC,Điều nguyên tán gia vị,Điều nguyên tán gia vị,6586657,U55.611.02.CP103,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,matched within normalized pattern
+BT_6586659,BÀI_THUỐC,Thông khiếu hoạt huyết thang kết hợp nhị trần thang,Thông khiếu hoạt huyết thang kết hợp nhị trần thang,6586659,U55.611.03.CP104,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,matched within normalized pattern
+BT_6586660,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586660,U55.611.03.ĐP079,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,official_code,1.0,matched within normalized pattern
+BT_6586676,BÀI_THUỐC,Thanh hao miết giáp thang gia giảm,Thanh hao miết giáp thang gia giảm,6586676,U50.481.01.CP111,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586677,BÀI_THUỐC,Đương quy lục hoàng thang gia giảm,Đương quy lục hoàng thang gia giảm,6586677,U50.481.01.CP112,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586678,BÀI_THUỐC,Lục vị địa hoàng thang,Lục vị địa hoàng thang,6586678,U50.481.01.CP113,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586679,BÀI_THUỐC,Tri bá địa hoàng thang,Tri bá địa hoàng thang,6586679,U50.481.01.CP114,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586680,BÀI_THUỐC,Đạo đàm thang gia giảm,Đạo đàm thang gia giảm,6586680,U50.481.01.CP115,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586682,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586682,U50.481.01.ĐP086,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586681,BÀI_THUỐC,Lục vị quy thược,Lục vị quy thược,6586681,U50.481.01.CP116,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586683,BÀI_THUỐC,Bát trân thang gia giảm,Bát trân thang gia giảm,6586683,U50.481.02.CP117,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586684,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586684,U50.481.02.ĐP087,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,official_code,1.0,matched within normalized pattern
+BT_6586686,BÀI_THUỐC,Sâm linh bạch truật tán,Sâm linh bạch truật tán,6586686,U53.071.01.CP118,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,matched within normalized pattern
+BT_6586687,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586687,U53.071.01.ĐP088,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,matched within normalized pattern
+BT_6586688,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586688,U53.071.01.NP054,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,matched within normalized pattern
+BT_6586689,BÀI_THUỐC,Phì nhi hoàn gia giảm,Phì nhi hoàn gia giảm,6586689,U53.071.02.CP119,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,matched within normalized pattern
+BT_6586690,BÀI_THUỐC,Bát trân thang gia giảm,Bát trân thang gia giảm,6586690,U53.071.03.CP120,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,official_code,1.0,matched within normalized pattern
+BT_6586701,BÀI_THUỐC,Sài hồ sơ can thang,Sài hồ sơ can thang,6586701,U60.471.01.01.CP124,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586702,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586702,U60.471.01.01.ĐP092,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586703,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586703,U60.471.01.01.NP056,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586704,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586704,U60.471.01.01.NP057,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586705,BÀI_THUỐC,Sài hồ sơ can thang,Sài hồ sơ can thang,6586705,U60.471.01.02.CP125,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586707,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586707,U60.471.01.02.ĐP093,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586708,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586708,U60.471.01.02.NP058,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586713,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586713,U60.471.01.03.ĐP094,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586714,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586714,U60.471.01.03.NP059,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586715,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586715,U60.471.01.03.NP060,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586712,BÀI_THUỐC,Điều doanh liễm can ẩm,Điều doanh liễm can ẩm,6586712,U60.471.01.03.CP130,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586717,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586717,U60.471.02.ĐP095,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586716,BÀI_THUỐC,Hoàng kỳ kiến trung thang,Hoàng kỳ kiến trung thang,6586716,U60.471.02.CP131,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586718,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586718,U60.471.02.NP061,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,official_code,1.0,matched within normalized pattern
+BT_6586785,BÀI_THUỐC,Sài hồ sơ can thang,Sài hồ sơ can thang,6586785,U50.102.01.CP152,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586786,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586786,U50.102.01.ĐP108,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586787,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586787,U50.102.01.NP090,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586788,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586788,U50.102.01.NP091,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586789,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586789,U50.102.01.NP092,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586790,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586790,U50.102.01.NP093,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586791,BÀI_THUỐC,Huyết phủ trục ứ thang,Huyết phủ trục ứ thang,6586791,U50.102.02.CP153,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586792,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586792,U50.102.02.ĐP109,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586793,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586793,U50.102.02.NP094,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586794,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586794,U50.102.02.NP095,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586795,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586795,U50.102.02.NP096,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586796,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586796,U50.102.02.NP097,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586797,BÀI_THUỐC,Nhân trần ngũ linh tán,Nhân trần ngũ linh tán,6586797,U50.102.03.CP154,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586798,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586798,U50.102.03.ĐP110,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586799,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586799,U50.102.03.NP098,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586800,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586800,U50.102.03.NP099,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586801,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586801,U50.102.03.NP100,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586802,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586802,U50.102.03.NP101,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586803,BÀI_THUỐC,Nhất quán tiễn,Nhất quán tiễn,6586803,U50.102.04.CP155,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586804,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586804,U50.102.04.ĐP111,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586805,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586805,U50.102.04.NP102,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586806,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586806,U50.102.04.NP103,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586807,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586807,U50.102.04.NP104,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586808,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586808,U50.102.04.NP105,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,official_code,1.0,matched within normalized pattern
+BT_6586828,BÀI_THUỐC,Tang cúc ẩm,Tang cúc ẩm,6586828,U59.231.01.CP164,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586829,BÀI_THUỐC,Ma hạnh thạch cam thang,Ma hạnh thạch cam thang,6586829,U59.231.01.CP165,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586830,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586830,U59.231.01.ĐP117,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586831,BÀI_THUỐC,Thuốc nam,Thuốc nam,6586831,U59.231.01.TN005,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586832,BÀI_THUỐC,Hạnh tô tán,Hạnh tô tán,6586832,U59.231.02.CP166,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586833,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586833,U59.231.02.ĐP118,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586834,BÀI_THUỐC,Thuốc nam,Thuốc nam,6586834,U59.231.02.TN006,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586835,BÀI_THUỐC,Tang hạnh thang,Tang hạnh thang,6586835,U59.231.03.CP167,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586836,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586836,U59.231.03.ĐP119,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586837,BÀI_THUỐC,Thuốc nam,Thuốc nam,6586837,U59.231.03.TN007,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586839,BÀI_THUỐC,Nhị trần thang,Nhị trần thang,6586839,U59.231.04.CP169,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586840,BÀI_THUỐC,Linh quế truật cam thang,Linh quế truật cam thang,6586840,U59.231.04.CP170,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586841,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586841,U59.231.04.ĐP120,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586842,BÀI_THUỐC,Thuốc nam,Thuốc nam,6586842,U59.231.04.TN008,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586843,BÀI_THUỐC,Tiểu thanh long thang,Tiểu thanh long thang,6586843,U59.231.05.CP171,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586844,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586844,U59.231.05.ĐP121,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,official_code,1.0,matched within normalized pattern
+BT_6586846,BÀI_THUỐC,Quế chi thang,Quế chi thang,6586846,U61.011.01.CP172,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586847,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586847,U61.011.01.ĐP122,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586848,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586848,U61.011.01.NP106,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586849,BÀI_THUỐC,Ngân kiều tán,Ngân kiều tán,6586849,U61.011.02.CP173,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586850,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586850,U61.011.02.ĐP123,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586851,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586851,U61.011.02.NP107,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586853,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586853,U61.011.03.ĐP124,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586852,BÀI_THUỐC,Tiêu phong tán,Tiêu phong tán,6586852,U61.011.03.CP174,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586854,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586854,U61.011.03.NP108,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,official_code,1.0,matched within normalized pattern
+BT_6586889,BÀI_THUỐC,Bát chính tán,Bát chính tán,6586889,U66.372.01.CP185,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586890,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586890,U66.372.01.ĐP135,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586891,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586891,U66.372.01.NP119,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586893,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586893,U66.372.02.ĐP136,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586894,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586894,U66.372.02.NP120,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586895,BÀI_THUỐC,Sài hồ sơ can thang hợp Trầm hương giải khí tán,Sài hồ sơ can thang hợp Trầm hương giải khí tán,6586895,U66.372.03.CP187,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586896,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586896,U66.372.03.ĐP137,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586897,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586897,U66.372.03.NP121,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586898,BÀI_THUỐC,Tế sinh thận khí hoàn,Tế sinh thận khí hoàn,6586898,U66.372.04.CP188,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586899,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586899,U66.372.04.ĐP138,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586900,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586900,U66.372.04.NP122,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,matched within normalized pattern
+BT_6586902,BÀI_THUỐC,Hòe hoa tán,Hòe hoa tán,6586902,U58.762.01.CP189,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586903,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586903,U58.762.01.ĐP139,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586904,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586904,U58.762.01.NP123,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586905,BÀI_THUỐC,Thuốc dùng ngoài,Lá móng,6586905,U58.762.01.DN006,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586906,BÀI_THUỐC,Thuốc dùng ngoài,Kha tử,6586906,U58.762.01.DN007,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586907,BÀI_THUỐC,Hoạt huyết địa hoàng thang,Hoạt huyết địa hoàng thang,6586907,U58.762.02.CP190,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586908,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586908,U58.762.02.ĐP140,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586909,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586909,U58.762.02.NP124,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586910,BÀI_THUỐC,Thuốc dùng ngoài,Lá móng,6586910,U58.762.02.DN008,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586911,BÀI_THUỐC,Thuốc dùng ngoài,Kha tử,6586911,U58.762.02.DN009,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586912,BÀI_THUỐC,Hòe hoa tán,Hòe hoa tán,6586912,U58.762.03.CP191,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586913,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586913,U58.762.03.ĐP141,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586914,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586914,U58.762.03.NP125,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586915,BÀI_THUỐC,Thuốc dùng ngoài,Lá móng,6586915,U58.762.03.DN010,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586916,BÀI_THUỐC,Thuốc dùng ngoài,Kha tử,6586916,U58.762.03.DN011,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586917,BÀI_THUỐC,Bổ trung ích khí thang,Bổ trung ích khí thang,6586917,U58.762.04.CP192,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586918,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586918,U58.762.04.ĐP142,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586919,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586919,U58.762.04.NP126,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586920,BÀI_THUỐC,Thuốc dùng ngoài,Lá móng,6586920,U58.762.04.DN012,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern
+BT_6586921,BÀI_THUỐC,Thuốc dùng ngoài,Kha tử,6586921,U58.762.04.DN013,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,matched within normalized pattern

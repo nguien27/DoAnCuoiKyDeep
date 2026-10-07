@@ -1,0 +1,1035 @@
+﻿relation_id,head_id,head_type,relation,tail_id,tail_type,source_id,disease_id,section_type,pdf_page_start,pdf_page_end,evidence_text,confidence,relation_status
+R000733,BT_6586400,BÀI_THUỐC,GỒM,DL_CAN_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Can khương thương truật thang -> Can khương,1.0,explicit
+R000734,BT_6586400,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Can khương thương truật thang -> Thương truật,1.0,explicit
+R000735,BT_6586400,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Can khương thương truật thang -> Xuyên khung,1.0,explicit
+R000736,BT_6586400,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Can khương thương truật thang -> Quế chi,1.0,explicit
+R000737,BT_6586400,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Can khương thương truật thang -> Ý dĩ,1.0,explicit
+R000738,BT_6586400,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Can khương thương truật thang -> Bạch linh,1.0,explicit
+R000739,BT_6586400,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Can khương thương truật thang -> Cam thảo,1.0,explicit
+R000742,BT_6586402,BÀI_THUỐC,GỒM,DL_LA_LOT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Lá lốt,1.0,explicit
+R000743,BT_6586402,BÀI_THUỐC,GỒM,DL_THIEN_NIEN_KIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Thiên niên kiện,1.0,explicit
+R000744,BT_6586402,BÀI_THUỐC,GỒM,DL_RE_CAY_XAU_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Rễ cây xấu hổ,1.0,explicit
+R000745,BT_6586402,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Quế chi,1.0,explicit
+R000746,BT_6586402,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Sinh địa,1.0,explicit
+R000747,BT_6586402,BÀI_THUỐC,GỒM,DL_SAI_DAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Sài đất,1.0,explicit
+R000748,BT_6586402,BÀI_THUỐC,GỒM,DL_THO_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Thổ phục linh,1.0,explicit
+R000749,BT_6586402,BÀI_THUỐC,GỒM,DL_HA_THU_O,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Hà thủ ô,1.0,explicit
+R000750,BT_6586402,BÀI_THUỐC,GỒM,DL_CO_XUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Cỏ xước,1.0,explicit
+R000752,BT_6586403,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Tứ diệu tán -> Thương truật,1.0,explicit
+R000753,BT_6586403,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Tứ diệu tán -> Ngưu tất,1.0,explicit
+R000754,BT_6586403,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Tứ diệu tán -> Hoàng bá,1.0,explicit
+R000755,BT_6586403,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Tứ diệu tán -> Ý dĩ,1.0,explicit
+R000757,BT_6586404,BÀI_THUỐC,GỒM,DL_BACH_TRUAT_SAO_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Bạch truật (sao cám),1.0,explicit
+R000758,BT_6586404,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Ý dĩ,1.0,explicit
+R000759,BT_6586404,BÀI_THUỐC,GỒM,DL_CAM_THAO_NAM,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Cam thảo nam,1.0,explicit
+R000760,BT_6586404,BÀI_THUỐC,GỒM,DL_HY_THIEM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Hy thiêm thảo,1.0,explicit
+R000761,BT_6586404,BÀI_THUỐC,GỒM,DL_TY_GIAI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Tỳ giải,1.0,explicit
+R000763,BT_6586405,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Đương qui,0.98,explicit
+R000764,BT_6586405,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Đào nhân,1.0,explicit
+R000765,BT_6586405,BÀI_THUỐC,GỒM,DL_MOT_DUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Một dược,1.0,explicit
+R000766,BT_6586405,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Hương phụ,1.0,explicit
+R000767,BT_6586405,BÀI_THUỐC,GỒM,DL_TAN_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Tần giao,1.0,explicit
+R000768,BT_6586405,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Ngưu tất,1.0,explicit
+R000769,BT_6586405,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Xuyên khung,1.0,explicit
+R000770,BT_6586405,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Hồng hoa,1.0,explicit
+R000771,BT_6586405,BÀI_THUỐC,GỒM,DL_KHUONG_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Khương hoạt,1.0,explicit
+R000772,BT_6586405,BÀI_THUỐC,GỒM,DL_DIA_LONG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Địa long,1.0,explicit
+R000773,BT_6586405,BÀI_THUỐC,GỒM,DL_NGU_LINH_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Ngũ linh chi,1.0,explicit
+R000774,BT_6586405,BÀI_THUỐC,GỒM,DL_CHICH_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thân thống trục ứ thang -> Chích thảo,1.0,explicit
+R000777,BT_6586407,BÀI_THUỐC,GỒM,DL_NGAI_CUU,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Ngải cứu,1.0,explicit
+R000778,BT_6586407,BÀI_THUỐC,GỒM,DL_TO_MOC,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Tô mộc,1.0,explicit
+R000779,BT_6586407,BÀI_THUỐC,GỒM,DL_NGHE_VANG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Nghệ vàng,1.0,explicit
+R000780,BT_6586407,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Trần bì,1.0,explicit
+R000781,BT_6586407,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Kinh giới,1.0,explicit
+R000782,BT_6586407,BÀI_THUỐC,GỒM,DL_UAT_KIM,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Uất kim,1.0,explicit
+R000784,BT_6586408,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Đảng sâm,1.0,explicit
+R000785,BT_6586408,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Đương qui,0.98,explicit
+R000786,BT_6586408,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Thục địa,1.0,explicit
+R000787,BT_6586408,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Đỗ trọng,1.0,explicit
+R000788,BT_6586408,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Quế chi,1.0,explicit
+R000789,BT_6586408,BÀI_THUỐC,GỒM,DL_DOC_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Độc hoạt,1.0,explicit
+R000790,BT_6586408,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Phòng phong,1.0,explicit
+R000791,BT_6586408,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Cam thảo,1.0,explicit
+R000792,BT_6586408,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Phục linh,1.0,explicit
+R000793,BT_6586408,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Bạch thược,1.0,explicit
+R000794,BT_6586408,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Xuyên khung,1.0,explicit
+R000795,BT_6586408,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Ngưu tất,1.0,explicit
+R000796,BT_6586408,BÀI_THUỐC,GỒM,DL_TE_TAN,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Tế tân,1.0,explicit
+R000797,BT_6586408,BÀI_THUỐC,GỒM,DL_TANG_KY_SINH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Tang ký sinh,1.0,explicit
+R000798,BT_6586408,BÀI_THUỐC,GỒM,DL_TAN_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Độc hoạt ký sinh thang -> Tần giao,1.0,explicit
+R000801,BT_6586410,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Đỗ trọng,1.0,explicit
+R000802,BT_6586410,BÀI_THUỐC,GỒM,DL_CAU_TICH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Cẩu tích,1.0,explicit
+R000803,BT_6586410,BÀI_THUỐC,GỒM,DL_DAY_DAU_XUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Dây đau xương,1.0,explicit
+R000804,BT_6586410,BÀI_THUỐC,GỒM,DL_TY_GIAI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Tỳ giải,1.0,explicit
+R000805,BT_6586410,BÀI_THUỐC,GỒM,DL_RE_CO_XUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Rễ cỏ xước,1.0,explicit
+R000806,BT_6586410,BÀI_THUỐC,GỒM,DL_COT_TOAI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Cốt toái,1.0,explicit
+R000807,BT_6586410,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Hoài sơn,1.0,explicit
+R000808,BT_6586410,BÀI_THUỐC,GỒM,DL_THO_TY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Thỏ ty tử,1.0,explicit
+R000810,BT_6586411,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Thục địa,1.0,explicit
+R000811,BT_6586411,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Hoài sơn,1.0,explicit
+R000812,BT_6586411,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Sơn thù,1.0,explicit
+R000813,BT_6586411,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Đan bì,1.0,explicit
+R000814,BT_6586411,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Trạch tả,1.0,explicit
+R000815,BT_6586411,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Phục linh,1.0,explicit
+R000816,BT_6586411,BÀI_THUỐC,GỒM,DL_NHUC_QUE,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Nhục quế,1.0,explicit
+R000817,BT_6586411,BÀI_THUỐC,GỒM,DL_HAC_PHU_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thận khí hoàn -> Hắc phụ tử,1.0,explicit
+R000820,BT_6586413,BÀI_THUỐC,GỒM,DL_COT_KHI_CU,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Cốt khí củ,1.0,explicit
+R000821,BT_6586413,BÀI_THUỐC,GỒM,DL_CAU_TICH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Cẩu tích,1.0,explicit
+R000822,BT_6586413,BÀI_THUỐC,GỒM,DL_TUC_DOAN,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Tục đoạn,1.0,explicit
+R000823,BT_6586413,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Ngưu tất,1.0,explicit
+R000824,BT_6586413,BÀI_THUỐC,GỒM,DL_TANG_KY_SINH,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Tang ký sinh,1.0,explicit
+R000825,BT_6586413,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Bạch truật,1.0,explicit
+R000826,BT_6586413,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Nghiệm phương -> Hoài sơn,1.0,explicit
+R000828,BT_6586415,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Ý dĩ,1.0,explicit
+R000829,BT_6586415,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Bạch thược,1.0,explicit
+R000830,BT_6586415,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Quế chi,1.0,explicit
+R000831,BT_6586415,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Cam thảo,1.0,explicit
+R000832,BT_6586415,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Bạch truật,1.0,explicit
+R000833,BT_6586415,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Đương qui,0.98,explicit
+R000834,BT_6586415,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Ma hoàng,1.0,explicit
+R000835,BT_6586415,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang -> Sinh khương,1.0,explicit
+R000837,BT_6586416,BÀI_THUỐC,GỒM,DL_HAC_PHU_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ô đầu thang -> Hắc phụ tử,1.0,explicit
+R000838,BT_6586416,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ô đầu thang -> Bạch thược,1.0,explicit
+R000839,BT_6586416,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ô đầu thang -> Cam thảo,1.0,explicit
+R000840,BT_6586416,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ô đầu thang -> Ma hoàng,1.0,explicit
+R000841,BT_6586416,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ô đầu thang -> Hoàng kỳ,1.0,explicit
+R000842,BT_6586416,BÀI_THUỐC,GỒM,DL_MAT_ONG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ô đầu thang -> Mật ong,1.0,explicit
+R000845,BT_6586418,BÀI_THUỐC,GỒM,DL_RE_XAU_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Rễ xấu hổ,1.0,explicit
+R000846,BT_6586418,BÀI_THUỐC,GỒM,DL_DAY_GAM,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Dây gắm,1.0,explicit
+R000847,BT_6586418,BÀI_THUỐC,GỒM,DL_THIEN_NIEN_KIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Thiên niên kiện,1.0,explicit
+R000848,BT_6586418,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Ngưu tất,1.0,explicit
+R000849,BT_6586418,BÀI_THUỐC,GỒM,DL_DAY_DAU_XUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Dây đau xương,1.0,explicit
+R000850,BT_6586418,BÀI_THUỐC,GỒM,DL_THO_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Thổ phục linh,1.0,explicit
+R000851,BT_6586418,BÀI_THUỐC,GỒM,DL_KE_HUYET_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Kê huyết đằng,1.0,explicit
+R000852,BT_6586418,BÀI_THUỐC,GỒM,DL_HY_THIEM,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thấp khớp II -> Hy thiêm,1.0,explicit
+R000854,BT_6586419,BÀI_THUỐC,GỒM,DL_DOC_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Độc hoạt,1.0,explicit
+R000855,BT_6586419,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Phòng phong,1.0,explicit
+R000856,BT_6586419,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Đương qui,0.98,explicit
+R000857,BT_6586419,BÀI_THUỐC,GỒM,DL_TE_TAN,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Tế tân,1.0,explicit
+R000858,BT_6586419,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Xuyên khung,1.0,explicit
+R000859,BT_6586419,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Cam thảo,1.0,explicit
+R000860,BT_6586419,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Ngưu tất,1.0,explicit
+R000861,BT_6586419,BÀI_THUỐC,GỒM,DL_TANG_KY_SINH,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Tang ký sinh,1.0,explicit
+R000862,BT_6586419,BÀI_THUỐC,GỒM,DL_TAN_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Tần giao,1.0,explicit
+R000863,BT_6586419,BÀI_THUỐC,GỒM,DL_QUE_TAM,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Quế tâm,1.0,explicit
+R000864,BT_6586419,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Phục linh,1.0,explicit
+R000865,BT_6586419,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Xích thược,1.0,explicit
+R000866,BT_6586419,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Thục địa,1.0,explicit
+R000867,BT_6586419,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Đỗ trọng,1.0,explicit
+R000868,BT_6586419,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt ký sinh thang -> Đảng sâm,1.0,explicit
+R000871,BT_6586421,BÀI_THUỐC,GỒM,DL_DOC_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Độc hoạt,1.0,explicit
+R000872,BT_6586421,BÀI_THUỐC,GỒM,DL_HY_THIEM,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Hy thiêm,1.0,explicit
+R000873,BT_6586421,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Đương quy,1.0,explicit
+R000874,BT_6586421,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Xuyên khung,1.0,explicit
+R000875,BT_6586421,BÀI_THUỐC,GỒM,DL_CAN_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Can khương,1.0,explicit
+R000876,BT_6586421,BÀI_THUỐC,GỒM,DL_KE_HUYET_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Kê huyết đằng,1.0,explicit
+R000877,BT_6586421,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Thục địa,1.0,explicit
+R000878,BT_6586421,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Ngưu tất,1.0,explicit
+R000879,BT_6586421,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Cam thảo,1.0,explicit
+R000880,BT_6586421,BÀI_THUỐC,GỒM,DL_THO_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Thổ phục linh,1.0,explicit
+R000881,BT_6586421,BÀI_THUỐC,GỒM,DL_HA_THU_O,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Hà thủ ô,1.0,explicit
+R000882,BT_6586421,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Quế chi,1.0,explicit
+R000883,BT_6586421,BÀI_THUỐC,GỒM,DL_COT_TOAI_BO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Cốt toái bổ,1.0,explicit
+R000884,BT_6586421,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Đảng sâm,1.0,explicit
+R000885,BT_6586421,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Đỗ trọng,1.0,explicit
+R000886,BT_6586421,BÀI_THUỐC,GỒM,DL_KIM_NGAN_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Độc hoạt phong thấp hoàn -> Kim ngân hoa,1.0,explicit
+R000888,BT_6586422,BÀI_THUỐC,GỒM,DL_Y_DI_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Ý dĩ nhân,1.0,explicit
+R000889,BT_6586422,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Cam thảo,1.0,explicit
+R000890,BT_6586422,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Ma hoàng,1.0,explicit
+R000891,BT_6586422,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Bạch truật,1.0,explicit
+R000892,BT_6586422,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Đương qui,0.98,explicit
+R000893,BT_6586422,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Quế chi,1.0,explicit
+R000894,BT_6586422,BÀI_THUỐC,GỒM,DL_THUOC_DUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Thược dược,1.0,explicit
+R000895,BT_6586422,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Hoàng bá,1.0,explicit
+R000896,BT_6586422,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Ý dĩ nhân thang hợp với Nhị diệu tán -> Thương truật,1.0,explicit
+R000898,BT_6586423,BÀI_THUỐC,GỒM,DL_SINH_THACH_CAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Bạch hổ quế chi thang -> Sinh thạch cao,1.0,explicit
+R000899,BT_6586423,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Bạch hổ quế chi thang -> Tri mẫu,1.0,explicit
+R000900,BT_6586423,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Bạch hổ quế chi thang -> Quế chi,1.0,explicit
+R000901,BT_6586423,BÀI_THUỐC,GỒM,DL_NGANH_ME,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Bạch hổ quế chi thang -> Ngạnh mễ,1.0,explicit
+R000902,BT_6586423,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Bạch hổ quế chi thang -> Cam thảo,1.0,explicit
+R000905,BT_6586425,BÀI_THUỐC,GỒM,DL_HY_THIEM,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Nghiệm phương -> Hy thiêm,1.0,explicit
+R000906,BT_6586425,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Nghiệm phương -> Ngưu tất,1.0,explicit
+R000907,BT_6586425,BÀI_THUỐC,GỒM,DL_RE_LA_LOT,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Nghiệm phương -> Rễ lá lốt,1.0,explicit
+R000908,BT_6586425,BÀI_THUỐC,GỒM,DL_THO_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Nghiệm phương -> Thổ phục linh,1.0,explicit
+R000909,BT_6586425,BÀI_THUỐC,GỒM,DL_HOAI_SON_LAM_AO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Nghiệm phương -> Hoài sơn (làm áo),1.0,explicit
+R000910,BT_6586425,BÀI_THUỐC,GỒM,DL_CHI_TU_NHUOM_BOT_AO,DƯỢC_LIỆU,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Nghiệm phương -> Chi tử (nhuộm bột áo),1.0,explicit
+R000912,BT_6586427,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Thương truật,1.0,explicit
+R000913,BT_6586427,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Ngưu tất,1.0,explicit
+R000914,BT_6586427,BÀI_THUỐC,GỒM,DL_HOAT_THACH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Hoạt thạch,1.0,explicit
+R000915,BT_6586427,BÀI_THUỐC,GỒM,DL_HANH_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Hạnh nhân,1.0,explicit
+R000916,BT_6586427,BÀI_THUỐC,GỒM,DL_XICH_TIEU_DAU,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Xích tiểu đậu,1.0,explicit
+R000917,BT_6586427,BÀI_THUỐC,GỒM,DL_CHI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Chi tử,1.0,explicit
+R000918,BT_6586427,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Hoàng bá,1.0,explicit
+R000919,BT_6586427,BÀI_THUỐC,GỒM,DL_TY_GIAI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Tỳ giải,1.0,explicit
+R000920,BT_6586427,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Ý dĩ,1.0,explicit
+R000921,BT_6586427,BÀI_THUỐC,GỒM,DL_HY_THIEM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Hy thiêm thảo,1.0,explicit
+R000922,BT_6586427,BÀI_THUỐC,GỒM,DL_LIEN_KIEU,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tuyên tý thang hợp Tam diệu thang -> Liên kiều,1.0,explicit
+R000924,BT_6586428,BÀI_THUỐC,GỒM,DL_SINH_THACH_CAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Bạch hổ quế chi thang -> Sinh thạch cao,1.0,explicit
+R000925,BT_6586428,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Bạch hổ quế chi thang -> Tri mẫu,1.0,explicit
+R000926,BT_6586428,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Bạch hổ quế chi thang -> Quế chi,1.0,explicit
+R000927,BT_6586428,BÀI_THUỐC,GỒM,DL_NGANH_ME,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Bạch hổ quế chi thang -> Ngạnh mễ,1.0,explicit
+R000928,BT_6586428,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Bạch hổ quế chi thang -> Cam thảo,1.0,explicit
+R000930,BT_6586429,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tứ diệu thang -> Thương truật,1.0,explicit
+R000931,BT_6586429,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tứ diệu thang -> Hoàng bá,1.0,explicit
+R000932,BT_6586429,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tứ diệu thang -> Ngưu tất,1.0,explicit
+R000933,BT_6586429,BÀI_THUỐC,GỒM,DL_SINH_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Tứ diệu thang -> Sinh ý dĩ,1.0,explicit
+R000935,BT_6586430,BÀI_THUỐC,GỒM,DL_DAI_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Đại hoàng,1.0,explicit
+R000936,BT_6586430,BÀI_THUỐC,GỒM,DL_KHUONG_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Khương hoàng,1.0,explicit
+R000937,BT_6586430,BÀI_THUỐC,GỒM,DL_NAM_TINH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Nam tinh,1.0,explicit
+R000938,BT_6586430,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Thương truật,1.0,explicit
+R000939,BT_6586430,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Cam thảo,1.0,explicit
+R000940,BT_6586430,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Hoàng bá,1.0,explicit
+R000941,BT_6586430,BÀI_THUỐC,GỒM,DL_BACH_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Bạch chỉ,1.0,explicit
+R000942,BT_6586430,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Trần bì,1.0,explicit
+R000943,BT_6586430,BÀI_THUỐC,GỒM,DL_HAU_PHAC,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Hậu phác,1.0,explicit
+R000944,BT_6586430,BÀI_THUỐC,GỒM,DL_THIEN_HOA_PHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Cao Kim hoàng tán -> Thiên hoa phấn,1.0,explicit
+R000946,BT_6586431,BÀI_THUỐC,GỒM,DL_HAT_MA_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hạt mã tiền,1.0,explicit
+R000947,BT_6586431,BÀI_THUỐC,GỒM,DL_NGAI_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Ngải diệp,1.0,explicit
+R000948,BT_6586431,BÀI_THUỐC,GỒM,DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Vương bất lưu hành,1.0,explicit
+R000949,BT_6586431,BÀI_THUỐC,GỒM,DL_HANH_TUOI_CA_RE,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hành tươi cả rễ,1.0,explicit
+R000950,BT_6586431,BÀI_THUỐC,GỒM,DL_SINH_BAN_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Sinh bán hạ,1.0,explicit
+R000951,BT_6586431,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hồng hoa,1.0,explicit
+R000952,BT_6586431,BÀI_THUỐC,GỒM,DL_DAI_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Đại hoàng,1.0,explicit
+R000954,BT_6586432,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ý dĩ nhân thang -> Ma hoàng,1.0,explicit
+R000955,BT_6586432,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ý dĩ nhân thang -> Bạch truật,1.0,explicit
+R000956,BT_6586432,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ý dĩ nhân thang -> Quế chi,1.0,explicit
+R000957,BT_6586432,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ý dĩ nhân thang -> Cam thảo,1.0,explicit
+R000958,BT_6586432,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ý dĩ nhân thang -> Đương qui,0.98,explicit
+R000959,BT_6586432,BÀI_THUỐC,GỒM,DL_Y_DI_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ý dĩ nhân thang -> Ý dĩ nhân,1.0,explicit
+R000960,BT_6586432,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ý dĩ nhân thang -> Bạch thược,1.0,explicit
+R000962,BT_6586433,BÀI_THUỐC,GỒM,DL_PHU_TU_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ô đầu thang -> Phụ tử chế,1.0,explicit
+R000963,BT_6586433,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ô đầu thang -> Bạch thược,1.0,explicit
+R000964,BT_6586433,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ô đầu thang -> Cam thảo,1.0,explicit
+R000965,BT_6586433,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ô đầu thang -> Ma hoàng,1.0,explicit
+R000966,BT_6586433,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Ô đầu thang -> Hoàng kỳ,1.0,explicit
+R000968,BT_6586434,BÀI_THUỐC,GỒM,DL_HAT_MA_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hạt mã tiền,1.0,explicit
+R000969,BT_6586434,BÀI_THUỐC,GỒM,DL_NGAI_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Ngải diệp,1.0,explicit
+R000970,BT_6586434,BÀI_THUỐC,GỒM,DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Vương bất lưu hành,1.0,explicit
+R000971,BT_6586434,BÀI_THUỐC,GỒM,DL_HANH_TUOI_CA_RAU,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hành tươi cả râu,1.0,explicit
+R000972,BT_6586434,BÀI_THUỐC,GỒM,DL_SINH_BAN_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Sinh bán hạ,1.0,explicit
+R000973,BT_6586434,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hồng hoa,1.0,explicit
+R000974,BT_6586434,BÀI_THUỐC,GỒM,DL_DAI_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Đại hoàng,1.0,explicit
+R000976,BT_6586435,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Đào nhân,1.0,explicit
+R000977,BT_6586435,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Đương qui,0.98,explicit
+R000978,BT_6586435,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Phục linh,1.0,explicit
+R000979,BT_6586435,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Cam thảo,1.0,explicit
+R000980,BT_6586435,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Bán hạ chế,1.0,explicit
+R000981,BT_6586435,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Hồng hoa,1.0,explicit
+R000982,BT_6586435,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Xuyên khung,1.0,explicit
+R000983,BT_6586435,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Trần bì,1.0,explicit
+R000984,BT_6586435,BÀI_THUỐC,GỒM,DL_UY_LINH_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Đào nhân ẩm hợp Nhị trần thang -> Uy linh tiên,1.0,explicit
+R000986,BT_6586436,BÀI_THUỐC,GỒM,DL_HAT_MA_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hạt mã tiền,1.0,explicit
+R000987,BT_6586436,BÀI_THUỐC,GỒM,DL_NGAI_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Ngải diệp,1.0,explicit
+R000988,BT_6586436,BÀI_THUỐC,GỒM,DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Vương bất lưu hành,1.0,explicit
+R000989,BT_6586436,BÀI_THUỐC,GỒM,DL_HANH_TUOI_CA_RAU,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hành tươi cả râu,1.0,explicit
+R000990,BT_6586436,BÀI_THUỐC,GỒM,DL_SINH_BAN_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Sinh bán hạ,1.0,explicit
+R000991,BT_6586436,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hồng hoa,1.0,explicit
+R000992,BT_6586436,BÀI_THUỐC,GỒM,DL_DAI_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Đại hoàng,1.0,explicit
+R000994,BT_6586437,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Đảng sâm,1.0,explicit
+R000995,BT_6586437,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Đương qui,0.98,explicit
+R000996,BT_6586437,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Thục địa,1.0,explicit
+R000997,BT_6586437,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Đỗ trọng,1.0,explicit
+R000998,BT_6586437,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Quế chi,1.0,explicit
+R000999,BT_6586437,BÀI_THUỐC,GỒM,DL_DOC_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Độc hoạt,1.0,explicit
+R001000,BT_6586437,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Phòng phong,1.0,explicit
+R001001,BT_6586437,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Cam thảo,1.0,explicit
+R001002,BT_6586437,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Phục linh,1.0,explicit
+R001003,BT_6586437,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Bạch thược,1.0,explicit
+R001004,BT_6586437,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Xuyên khung,1.0,explicit
+R001005,BT_6586437,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Ngưu tất,1.0,explicit
+R001006,BT_6586437,BÀI_THUỐC,GỒM,DL_TE_TAN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Tế tân,1.0,explicit
+R001007,BT_6586437,BÀI_THUỐC,GỒM,DL_TANG_KY_SINH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Tang ký sinh,1.0,explicit
+R001008,BT_6586437,BÀI_THUỐC,GỒM,DL_TAN_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Độc hoạt ký sinh thang -> Tần giao,1.0,explicit
+R001010,BT_6586438,BÀI_THUỐC,GỒM,DL_HAT_MA_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hạt mã tiền,1.0,explicit
+R001011,BT_6586438,BÀI_THUỐC,GỒM,DL_NGAI_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Ngải diệp,1.0,explicit
+R001012,BT_6586438,BÀI_THUỐC,GỒM,DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Vương bất lưu hành,1.0,explicit
+R001013,BT_6586438,BÀI_THUỐC,GỒM,DL_HANH_TUOI_CA_RAU,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hành tươi cả râu,1.0,explicit
+R001014,BT_6586438,BÀI_THUỐC,GỒM,DL_SINH_BAN_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Sinh bán hạ,1.0,explicit
+R001015,BT_6586438,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Hồng hoa,1.0,explicit
+R001016,BT_6586438,BÀI_THUỐC,GỒM,DL_DAI_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Hạt mã tiền -> Đại hoàng,1.0,explicit
+R001018,BT_6586497,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi gia Cát căn thang -> Quế chi,1.0,explicit
+R001019,BT_6586497,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi gia Cát căn thang -> Đại táo,1.0,explicit
+R001020,BT_6586497,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi gia Cát căn thang -> Cam thảo,1.0,explicit
+R001021,BT_6586497,BÀI_THUỐC,GỒM,DL_THUOC_DUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi gia Cát căn thang -> Thược dược,1.0,explicit
+R001022,BT_6586497,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi gia Cát căn thang -> Sinh khương,1.0,explicit
+R001023,BT_6586497,BÀI_THUỐC,GỒM,DL_CAT_CAN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi gia Cát căn thang -> Cát căn,1.0,explicit
+R001026,BT_6586499,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Quế chi,1.0,explicit
+R001027,BT_6586499,BÀI_THUỐC,GỒM,DL_KHUONG_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Khương hoàng,1.0,explicit
+R001028,BT_6586499,BÀI_THUỐC,GỒM,DL_KE_HUYET_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Kê huyết đằng,1.0,explicit
+R001029,BT_6586499,BÀI_THUỐC,GỒM,DL_BACH_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Bạch chỉ,1.0,explicit
+R001030,BT_6586499,BÀI_THUỐC,GỒM,DL_TANG_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Tang chi,1.0,explicit
+R001031,BT_6586499,BÀI_THUỐC,GỒM,DL_CAT_CAN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Cát căn,1.0,explicit
+R001032,BT_6586499,BÀI_THUỐC,GỒM,DL_THIEN_NIEN_KIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Thiên niên kiện,1.0,explicit
+R001033,BT_6586499,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Sinh khương,1.0,explicit
+R001035,BT_6586501,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Quế chi,1.0,explicit
+R001036,BT_6586501,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Tri mẫu,1.0,explicit
+R001037,BT_6586501,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Cam thảo,1.0,explicit
+R001038,BT_6586501,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Phòng phong,1.0,explicit
+R001039,BT_6586501,BÀI_THUỐC,GỒM,DL_PHU_TU_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Phụ tử chế,1.0,explicit
+R001040,BT_6586501,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Bạch thược,1.0,explicit
+R001041,BT_6586501,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Bạch truật,1.0,explicit
+R001042,BT_6586501,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Ma hoàng,1.0,explicit
+R001043,BT_6586501,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quế chi thược dược tri mẫu thang -> Sinh khương,1.0,explicit
+R001046,BT_6586503,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Ý dĩ,1.0,explicit
+R001047,BT_6586503,BÀI_THUỐC,GỒM,DL_KIM_NGAN_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Kim ngân hoa,1.0,explicit
+R001048,BT_6586503,BÀI_THUỐC,GỒM,DL_HY_THIEM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Hy thiêm thảo,1.0,explicit
+R001049,BT_6586503,BÀI_THUỐC,GỒM,DL_TAN_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Tần giao,1.0,explicit
+R001050,BT_6586503,BÀI_THUỐC,GỒM,DL_KHUONG_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Khương hoạt,1.0,explicit
+R001051,BT_6586503,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Hoàng bá,1.0,explicit
+R001052,BT_6586503,BÀI_THUỐC,GỒM,DL_KHUONG_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Khương hoàng,1.0,explicit
+R001053,BT_6586503,BÀI_THUỐC,GỒM,DL_LIEN_KIEU,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Liên kiều,1.0,explicit
+R001055,BT_6586504,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Đào hồng ẩm -> Đào nhân,1.0,explicit
+R001056,BT_6586504,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Đào hồng ẩm -> Đương qui,0.98,explicit
+R001057,BT_6586504,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Đào hồng ẩm -> Xuyên khung,1.0,explicit
+R001058,BT_6586504,BÀI_THUỐC,GỒM,DL_UY_LINH_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Đào hồng ẩm -> Uy linh tiên,1.0,explicit
+R001061,BT_6586506,BÀI_THUỐC,GỒM,DL_TO_MOC,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Tô mộc,1.0,explicit
+R001062,BT_6586506,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Đào nhân,1.0,explicit
+R001063,BT_6586506,BÀI_THUỐC,GỒM,DL_CAT_CAN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Cát căn,1.0,explicit
+R001064,BT_6586506,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Trần bì,1.0,explicit
+R001065,BT_6586506,BÀI_THUỐC,GỒM,DL_KHUONG_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Khương hoàng,1.0,explicit
+R001066,BT_6586506,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Hồng hoa,1.0,explicit
+R001067,BT_6586506,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Xích thược,1.0,explicit
+R001068,BT_6586506,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Cam thảo,1.0,explicit
+R001070,BT_6586507,BÀI_THUỐC,GỒM,DL_KHUONG_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Khương hoạt,1.0,explicit
+R001071,BT_6586507,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Xích thược,1.0,explicit
+R001072,BT_6586507,BÀI_THUỐC,GỒM,DL_SINH_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Sinh hoàng kỳ,1.0,explicit
+R001073,BT_6586507,BÀI_THUỐC,GỒM,DL_KHUONG_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Khương hoàng,1.0,explicit
+R001074,BT_6586507,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Đại táo,1.0,explicit
+R001075,BT_6586507,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Phòng phong,1.0,explicit
+R001076,BT_6586507,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Đương qui,0.98,explicit
+R001077,BT_6586507,BÀI_THUỐC,GỒM,DL_TANG_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Tang chi,1.0,explicit
+R001078,BT_6586507,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Quyên tý thang -> Cam thảo,1.0,explicit
+R001080,BT_6586508,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Thục địa,1.0,explicit
+R001081,BT_6586508,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Bạch thược,1.0,explicit
+R001082,BT_6586508,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Tri mẫu,1.0,explicit
+R001083,BT_6586508,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Trần bì,1.0,explicit
+R001084,BT_6586508,BÀI_THUỐC,GỒM,DL_QUY_BAN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Quy bản,1.0,explicit
+R001085,BT_6586508,BÀI_THUỐC,GỒM,DL_TOA_DUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Tỏa dương,1.0,explicit
+R001086,BT_6586508,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Hoàng bá,1.0,explicit
+R001087,BT_6586508,BÀI_THUỐC,GỒM,DL_CAN_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Hổ tiềm hoàn -> Can khương,1.0,explicit
+R001090,BT_6586510,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Thục địa,1.0,explicit
+R001091,BT_6586510,BÀI_THUỐC,GỒM,DL_TUC_DOAN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Tục đoạn,1.0,explicit
+R001092,BT_6586510,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Bạch thược,1.0,explicit
+R001093,BT_6586510,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Quế chi,1.0,explicit
+R001094,BT_6586510,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Đương quy,1.0,explicit
+R001095,BT_6586510,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Đỗ trọng,1.0,explicit
+R001096,BT_6586510,BÀI_THUỐC,GỒM,DL_TANG_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Tang chi,1.0,explicit
+R001097,BT_6586510,BÀI_THUỐC,GỒM,DL_UY_LINH_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Nghiệm phương -> Uy linh tiên,1.0,explicit
+R001099,BT_6586512,BÀI_THUỐC,GỒM,DL_THIEN_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Thiên ma,1.0,explicit
+R001100,BT_6586512,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Ngưu tất,1.0,explicit
+R001101,BT_6586512,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Đỗ trọng,1.0,explicit
+R001102,BT_6586512,BÀI_THUỐC,GỒM,DL_CHI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Chi tử,1.0,explicit
+R001103,BT_6586512,BÀI_THUỐC,GỒM,DL_ICH_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Ích mẫu,1.0,explicit
+R001104,BT_6586512,BÀI_THUỐC,GỒM,DL_PHUC_THAN,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Phục thần,1.0,explicit
+R001105,BT_6586512,BÀI_THUỐC,GỒM,DL_CAU_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Câu đằng,1.0,explicit
+R001106,BT_6586512,BÀI_THUỐC,GỒM,DL_THACH_QUYET_MINH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Thạch quyết minh,1.0,explicit
+R001107,BT_6586512,BÀI_THUỐC,GỒM,DL_TANG_KY_SINH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Tang ký sinh,1.0,explicit
+R001108,BT_6586512,BÀI_THUỐC,GỒM,DL_HOANG_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Hoàng cầm,1.0,explicit
+R001109,BT_6586512,BÀI_THUỐC,GỒM,DL_DA_GIAO_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thiên ma câu đằng ẩm -> Dạ giao đằng,1.0,explicit
+R001111,BT_6586513,BÀI_THUỐC,GỒM,DL_LONG_DOM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Long đởm thảo,1.0,explicit
+R001112,BT_6586513,BÀI_THUỐC,GỒM,DL_HOANG_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Hoàng cầm,1.0,explicit
+R001113,BT_6586513,BÀI_THUỐC,GỒM,DL_CHI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Chi tử,1.0,explicit
+R001114,BT_6586513,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Trạch tả,1.0,explicit
+R001115,BT_6586513,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Đương quy,1.0,explicit
+R001116,BT_6586513,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Sinh địa,1.0,explicit
+R001117,BT_6586513,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Sài hồ,1.0,explicit
+R001118,BT_6586513,BÀI_THUỐC,GỒM,DL_SA_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Sa tiền,1.0,explicit
+R001119,BT_6586513,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Cam thảo,1.0,explicit
+R001120,BT_6586513,BÀI_THUỐC,GỒM,DL_MOC_THONG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Long đởm tả can thang -> Mộc thông,1.0,explicit
+R001123,BT_6586515,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Hương phụ,1.0,explicit
+R001124,BT_6586515,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Kinh giới,1.0,explicit
+R001125,BT_6586515,BÀI_THUỐC,GỒM,DL_CUC_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Cúc hoa,1.0,explicit
+R001126,BT_6586515,BÀI_THUỐC,GỒM,DL_BAC_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Bạc hà,1.0,explicit
+R001128,BT_6586516,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị địa hoàng thang -> Thục địa,1.0,explicit
+R001129,BT_6586516,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị địa hoàng thang -> Hoài sơn,1.0,explicit
+R001130,BT_6586516,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị địa hoàng thang -> Đan bì,1.0,explicit
+R001131,BT_6586516,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị địa hoàng thang -> Sơn thù,1.0,explicit
+R001132,BT_6586516,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị địa hoàng thang -> Bạch linh,1.0,explicit
+R001133,BT_6586516,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị địa hoàng thang -> Trạch tả,1.0,explicit
+R001135,BT_6586517,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Tri mẫu,1.0,explicit
+R001136,BT_6586517,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Thục địa,1.0,explicit
+R001137,BT_6586517,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Hoài sơn,1.0,explicit
+R001138,BT_6586517,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Đan bì,1.0,explicit
+R001139,BT_6586517,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Hoàng bá,1.0,explicit
+R001140,BT_6586517,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Sơn thù,1.0,explicit
+R001141,BT_6586517,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Bạch linh,1.0,explicit
+R001142,BT_6586517,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Tri bá địa hoàng thang -> Trạch tả,1.0,explicit
+R001144,BT_6586518,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Thục địa,1.0,explicit
+R001145,BT_6586518,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Hoài sơn,1.0,explicit
+R001146,BT_6586518,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Đan bì,1.0,explicit
+R001147,BT_6586518,BÀI_THUỐC,GỒM,DL_KY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Kỷ tử,1.0,explicit
+R001148,BT_6586518,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Sơn thù,1.0,explicit
+R001149,BT_6586518,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Bạch linh,1.0,explicit
+R001150,BT_6586518,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Trạch tả,1.0,explicit
+R001151,BT_6586518,BÀI_THUỐC,GỒM,DL_CUC_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Kỷ cúc địa hoàng thang -> Cúc hoa,1.0,explicit
+R001153,BT_6586519,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Thục địa,1.0,explicit
+R001154,BT_6586519,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Hoài sơn,1.0,explicit
+R001155,BT_6586519,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Đan bì,1.0,explicit
+R001156,BT_6586519,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Đương qui,0.98,explicit
+R001157,BT_6586519,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Sơn thù,1.0,explicit
+R001158,BT_6586519,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Bạch linh,1.0,explicit
+R001159,BT_6586519,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Trạch tả,1.0,explicit
+R001160,BT_6586519,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Lục vị quy thược thang -> Bạch thược,1.0,explicit
+R001163,BT_6586521,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Thục địa,1.0,explicit
+R001164,BT_6586521,BÀI_THUỐC,GỒM,DL_QUY_BAN,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Quy bản,1.0,explicit
+R001165,BT_6586521,BÀI_THUỐC,GỒM,DL_THO_TY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Thỏ ty tử,1.0,explicit
+R001166,BT_6586521,BÀI_THUỐC,GỒM,DL_TY_GIAI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Tỳ giải,1.0,explicit
+R001167,BT_6586521,BÀI_THUỐC,GỒM,DL_LOC_GIAC_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Lộc giác giao,1.0,explicit
+R001168,BT_6586521,BÀI_THUỐC,GỒM,DL_CU_MAI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Củ mài,1.0,explicit
+R001169,BT_6586521,BÀI_THUỐC,GỒM,DL_THACH_HOC,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Thạch hộc,1.0,explicit
+R001170,BT_6586521,BÀI_THUỐC,GỒM,DL_MAT_ONG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Mật ong,1.0,explicit
+R001172,BT_6586522,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Thục địa,1.0,explicit
+R001173,BT_6586522,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Hoài sơn,1.0,explicit
+R001174,BT_6586522,BÀI_THUỐC,GỒM,DL_THO_TY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Thỏ ty tử,1.0,explicit
+R001175,BT_6586522,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Đương qui,0.98,explicit
+R001176,BT_6586522,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Đỗ trọng,1.0,explicit
+R001177,BT_6586522,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Sơn thù,1.0,explicit
+R001178,BT_6586522,BÀI_THUỐC,GỒM,DL_KY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Kỷ tử,1.0,explicit
+R001179,BT_6586522,BÀI_THUỐC,GỒM,DL_HAC_PHU_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Hắc phụ tử,1.0,explicit
+R001180,BT_6586522,BÀI_THUỐC,GỒM,DL_NHUC_QUE,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Nhục quế,1.0,explicit
+R001181,BT_6586522,BÀI_THUỐC,GỒM,DL_LOC_GIAC_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Hữu quy hoàn -> Lộc giác giao,1.0,explicit
+R001184,BT_6586524,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Thục địa,1.0,explicit
+R001185,BT_6586524,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Hoài sơn,1.0,explicit
+R001186,BT_6586524,BÀI_THUỐC,GỒM,DL_TIEU_HOI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Tiểu hồi,1.0,explicit
+R001187,BT_6586524,BÀI_THUỐC,GỒM,DL_NHUC_QUE,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Nhục quế,1.0,explicit
+R001188,BT_6586524,BÀI_THUỐC,GỒM,DL_SUNG_HUOU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Sừng hươu,1.0,explicit
+R001189,BT_6586524,BÀI_THUỐC,GỒM,DL_BA_KICH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Ba kích,1.0,explicit
+R001190,BT_6586524,BÀI_THUỐC,GỒM,DL_HAC_PHU_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Hắc phụ tử,1.0,explicit
+R001192,BT_6586525,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Bán hạ chế,1.0,explicit
+R001193,BT_6586525,BÀI_THUỐC,GỒM,DL_THIEN_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Thiên ma,1.0,explicit
+R001194,BT_6586525,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Trần bì,1.0,explicit
+R001195,BT_6586525,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Sinh khương,1.0,explicit
+R001196,BT_6586525,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Bạch truật,1.0,explicit
+R001197,BT_6586525,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Cam thảo,1.0,explicit
+R001198,BT_6586525,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Bạch linh,1.0,explicit
+R001199,BT_6586525,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Bán hạ bạch truật thiên ma thang -> Đại táo,1.0,explicit
+R001202,BT_6586527,BÀI_THUỐC,GỒM,DL_CAN_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Can khương,1.0,explicit
+R001203,BT_6586527,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Nghiệm phương -> Cam thảo,1.0,explicit
+R001205,BT_6586529,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Bán hạ bạch truật thiên ma thang -> Bán hạ chế,1.0,explicit
+R001206,BT_6586529,BÀI_THUỐC,GỒM,DL_THIEN_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Bán hạ bạch truật thiên ma thang -> Thiên ma,1.0,explicit
+R001207,BT_6586529,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Bán hạ bạch truật thiên ma thang -> Trần bì,1.0,explicit
+R001208,BT_6586529,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Bán hạ bạch truật thiên ma thang -> Bạch truật,1.0,explicit
+R001209,BT_6586529,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Bán hạ bạch truật thiên ma thang -> Cam thảo,1.0,explicit
+R001210,BT_6586529,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Bán hạ bạch truật thiên ma thang -> Bạch linh,1.0,explicit
+R001212,BT_6586530,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Đảng sâm,1.0,explicit
+R001213,BT_6586530,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Phục linh,1.0,explicit
+R001214,BT_6586530,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Bạch truật,1.0,explicit
+R001215,BT_6586530,BÀI_THUỐC,GỒM,DL_MOC_HUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Mộc hương,1.0,explicit
+R001216,BT_6586530,BÀI_THUỐC,GỒM,DL_CHICH_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Chích cam thảo,1.0,explicit
+R001217,BT_6586530,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Trần bì,1.0,explicit
+R001218,BT_6586530,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Bán hạ chế,1.0,explicit
+R001219,BT_6586530,BÀI_THUỐC,GỒM,DL_SA_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hương sa lục quân tử thang -> Sa nhân,1.0,explicit
+R001222,BT_6586532,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Thục địa,1.0,explicit
+R001223,BT_6586532,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Hoài sơn,1.0,explicit
+R001224,BT_6586532,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Sơn thù,1.0,explicit
+R001225,BT_6586532,BÀI_THUỐC,GỒM,DL_PHU_TU_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Phụ tử chế,1.0,explicit
+R001226,BT_6586532,BÀI_THUỐC,GỒM,DL_NHUC_QUE,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Nhục quế,1.0,explicit
+R001227,BT_6586532,BÀI_THUỐC,GỒM,DL_DO_TRONG,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Đỗ trọng,1.0,explicit
+R001228,BT_6586532,BÀI_THUỐC,GỒM,DL_KY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Kỷ tử,1.0,explicit
+R001229,BT_6586532,BÀI_THUỐC,GỒM,DL_THO_TY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Thỏ ty tử,1.0,explicit
+R001230,BT_6586532,BÀI_THUỐC,GỒM,DL_LOC_GIAC_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Lộc giác giao,1.0,explicit
+R001231,BT_6586532,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Hữu quy hoàn -> Đương quy,1.0,explicit
+R001234,BT_6586534,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Thục địa,1.0,explicit
+R001235,BT_6586534,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Sơn thù,1.0,explicit
+R001236,BT_6586534,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Đan bì,1.0,explicit
+R001237,BT_6586534,BÀI_THUỐC,GỒM,DL_KY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Kỷ tử,1.0,explicit
+R001238,BT_6586534,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Hoài sơn,1.0,explicit
+R001239,BT_6586534,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Trạch tả,1.0,explicit
+R001240,BT_6586534,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Phục linh,1.0,explicit
+R001241,BT_6586534,BÀI_THUỐC,GỒM,DL_CUC_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Kỷ cúc địa hoàng thang -> Cúc hoa,1.0,explicit
+R001244,BT_6586536,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Sài hồ,1.0,explicit
+R001245,BT_6586536,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Bạch thược,1.0,explicit
+R001246,BT_6586536,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Bạch truật,1.0,explicit
+R001247,BT_6586536,BÀI_THUỐC,GỒM,DL_BAC_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Bạc hà,1.0,explicit
+R001248,BT_6586536,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Đương quy,1.0,explicit
+R001249,BT_6586536,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Phục linh,1.0,explicit
+R001250,BT_6586536,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Cam thảo,1.0,explicit
+R001251,BT_6586536,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tiêu dao tán -> Sinh khương,1.0,explicit
+R001254,BT_6586538,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tứ linh tán hợp Lục nhất tán -> Bạch linh,1.0,explicit
+R001255,BT_6586538,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tứ linh tán hợp Lục nhất tán -> Bạch truật,1.0,explicit
+R001256,BT_6586538,BÀI_THUỐC,GỒM,DL_HOAT_THACH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tứ linh tán hợp Lục nhất tán -> Hoạt thạch,1.0,explicit
+R001257,BT_6586538,BÀI_THUỐC,GỒM,DL_TRU_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tứ linh tán hợp Lục nhất tán -> Trư linh,1.0,explicit
+R001258,BT_6586538,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tứ linh tán hợp Lục nhất tán -> Trạch tả,1.0,explicit
+R001259,BT_6586538,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Tứ linh tán hợp Lục nhất tán -> Cam thảo,1.0,explicit
+R001262,BT_6586540,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Đương quy,1.0,explicit
+R001263,BT_6586540,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Sinh địa,1.0,explicit
+R001264,BT_6586540,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Đào nhân,1.0,explicit
+R001265,BT_6586540,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Hồng hoa,1.0,explicit
+R001266,BT_6586540,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Xuyên khung,1.0,explicit
+R001267,BT_6586540,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Chỉ xác,1.0,explicit
+R001268,BT_6586540,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Ngưu tất,1.0,explicit
+R001269,BT_6586540,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Xích thược,1.0,explicit
+R001270,BT_6586540,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Sài hồ,1.0,explicit
+R001271,BT_6586540,BÀI_THUỐC,GỒM,DL_CAT_CANH,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Cát cánh,1.0,explicit
+R001272,BT_6586540,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Huyết phủ trục ứ thang -> Cam thảo,1.0,explicit
+R001275,BT_6586543,BÀI_THUỐC,GỒM,DL_KHUONG_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Khương hoạt,1.0,explicit
+R001276,BT_6586543,BÀI_THUỐC,GỒM,DL_DOC_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Độc hoạt,1.0,explicit
+R001277,BT_6586543,BÀI_THUỐC,GỒM,DL_TAN_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Tần giao,1.0,explicit
+R001278,BT_6586543,BÀI_THUỐC,GỒM,DL_BACH_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Bạch chỉ,1.0,explicit
+R001279,BT_6586543,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Cam thảo,1.0,explicit
+R001280,BT_6586543,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Bạch truật,1.0,explicit
+R001281,BT_6586543,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Đương qui,0.98,explicit
+R001282,BT_6586543,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Bạch thược,1.0,explicit
+R001283,BT_6586543,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Xuyên khung,1.0,explicit
+R001284,BT_6586543,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Đảng sâm,1.0,explicit
+R001285,BT_6586543,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Bạch linh,1.0,explicit
+R001286,BT_6586543,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Ngưu tất,1.0,explicit
+R001287,BT_6586543,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Thục địa,1.0,explicit
+R001288,BT_6586543,BÀI_THUỐC,GỒM,DL_HOANG_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Đại tần giao thang -> Hoàng cầm,1.0,explicit
+R001291,BT_6586545,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Quế chi,1.0,explicit
+R001292,BT_6586545,BÀI_THUỐC,GỒM,DL_KE_DAU_NGUA,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Ké đầu ngựa,1.0,explicit
+R001293,BT_6586545,BÀI_THUỐC,GỒM,DL_KE_HUYET_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Kê huyết đằng,1.0,explicit
+R001294,BT_6586545,BÀI_THUỐC,GỒM,DL_BACH_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Bạch chỉ,1.0,explicit
+R001295,BT_6586545,BÀI_THUỐC,GỒM,DL_CO_XUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Cỏ xước,1.0,explicit
+R001296,BT_6586545,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Hương phụ,1.0,explicit
+R001297,BT_6586545,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Trần bì,1.0,explicit
+R001298,BT_6586545,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Kinh giới,1.0,explicit
+R001300,BT_6586547,BÀI_THUỐC,GỒM,DL_KIM_NGAN_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Kim ngân hoa,1.0,explicit
+R001301,BT_6586547,BÀI_THUỐC,GỒM,DL_BO_CONG_ANH,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Bồ công anh,1.0,explicit
+R001302,BT_6586547,BÀI_THUỐC,GỒM,DL_THO_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Thổ phục linh,1.0,explicit
+R001303,BT_6586547,BÀI_THUỐC,GỒM,DL_KE_DAU_NGUA,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Ké đầu ngựa,1.0,explicit
+R001304,BT_6586547,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Xuyên khung,1.0,explicit
+R001305,BT_6586547,BÀI_THUỐC,GỒM,DL_DAN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Đan sâm,1.0,explicit
+R001306,BT_6586547,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Ngưu tất,1.0,explicit
+R001307,BT_6586547,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Trần bì,1.0,explicit
+R001311,BT_6586550,BÀI_THUỐC,GỒM,DL_DAN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Đan sâm,1.0,explicit
+R001312,BT_6586550,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Xuyên khung,1.0,explicit
+R001313,BT_6586550,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Ngưu tất,1.0,explicit
+R001314,BT_6586550,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Hương phụ,1.0,explicit
+R001315,BT_6586550,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Chỉ xác,1.0,explicit
+R001316,BT_6586550,BÀI_THUỐC,GỒM,DL_UAT_KIM,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Uất kim,1.0,explicit
+R001317,BT_6586550,BÀI_THUỐC,GỒM,DL_TO_MOC,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Tô mộc,1.0,explicit
+R001318,BT_6586550,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Nghiệm phương -> Trần bì,1.0,explicit
+R001321,BT_6586607,BÀI_THUỐC,GỒM,DL_DOC_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Độc hoạt,1.0,explicit
+R001322,BT_6586607,BÀI_THUỐC,GỒM,DL_UY_LINH_TIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Uy linh tiên,1.0,explicit
+R001323,BT_6586607,BÀI_THUỐC,GỒM,DL_TE_TAN,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Tế tân,1.0,explicit
+R001324,BT_6586607,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Trần bì,1.0,explicit
+R001325,BT_6586607,BÀI_THUỐC,GỒM,DL_DAN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Đan sâm,1.0,explicit
+R001326,BT_6586607,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Xuyên khung,1.0,explicit
+R001327,BT_6586607,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Phòng phong,1.0,explicit
+R001328,BT_6586607,BÀI_THUỐC,GỒM,DL_TANG_KY_SINH,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Tang ký sinh,1.0,explicit
+R001329,BT_6586607,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Quế chi,1.0,explicit
+R001330,BT_6586607,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Chỉ xác,1.0,explicit
+R001331,BT_6586607,BÀI_THUỐC,GỒM,DL_RE_CO_XUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Rễ cỏ xước,1.0,explicit
+R001334,BT_6586610,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Thục địa,1.0,explicit
+R001335,BT_6586610,BÀI_THUỐC,GỒM,DL_CAU_TICH,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Cẩu tích,1.0,explicit
+R001336,BT_6586610,BÀI_THUỐC,GỒM,DL_TUC_DOAN,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Tục đoạn,1.0,explicit
+R001337,BT_6586610,BÀI_THUỐC,GỒM,DL_TANG_KY_SINH,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Tang ký sinh,1.0,explicit
+R001338,BT_6586610,BÀI_THUỐC,GỒM,DL_RE_CO_XUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Rễ cỏ xước,1.0,explicit
+R001339,BT_6586610,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Đảng sâm,1.0,explicit
+R001340,BT_6586610,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Ý dĩ,1.0,explicit
+R001341,BT_6586610,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Bạch truật,1.0,explicit
+R001342,BT_6586610,BÀI_THUỐC,GỒM,DL_CU_MAI,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Củ mài,1.0,explicit
+R001343,BT_6586610,BÀI_THUỐC,GỒM,DL_TY_GIAI,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Tỳ giải,1.0,explicit
+R001344,BT_6586610,BÀI_THUỐC,GỒM,DL_HA_THU_O_DO,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Hà thủ ô đỏ,1.0,explicit
+R001346,BT_6586611,BÀI_THUỐC,GỒM,DL_Y_DI_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Ý dĩ nhân,1.0,explicit
+R001347,BT_6586611,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Cam thảo,1.0,explicit
+R001348,BT_6586611,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Ma hoàng,1.0,explicit
+R001349,BT_6586611,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Bạch truật,1.0,explicit
+R001350,BT_6586611,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Đương quy,1.0,explicit
+R001351,BT_6586611,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Quế chi,1.0,explicit
+R001352,BT_6586611,BÀI_THUỐC,GỒM,DL_THUOC_DUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Thược dược,1.0,explicit
+R001353,BT_6586611,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Hoàng bá,1.0,explicit
+R001354,BT_6586611,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Ý dĩ nhân thang hợp với Nhị diệu tán -> Thương truật,1.0,explicit
+R001357,BT_6586613,BÀI_THUỐC,GỒM,DL_NUC_NAC,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Núc nác,1.0,explicit
+R001358,BT_6586613,BÀI_THUỐC,GỒM,DL_THO_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Thổ phục linh,1.0,explicit
+R001359,BT_6586613,BÀI_THUỐC,GỒM,DL_TAN_GIAO,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Tần giao,1.0,explicit
+R001360,BT_6586613,BÀI_THUỐC,GỒM,DL_KE_HUYET_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Kê huyết đằng,1.0,explicit
+R001361,BT_6586613,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Hương phụ,1.0,explicit
+R001362,BT_6586613,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Thương truật,1.0,explicit
+R001363,BT_6586613,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Ý dĩ,1.0,explicit
+R001364,BT_6586613,BÀI_THUỐC,GỒM,DL_HUYET_GIAC,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Huyết giác,1.0,explicit
+R001365,BT_6586613,BÀI_THUỐC,GỒM,DL_DAN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Đan sâm,1.0,explicit
+R001366,BT_6586613,BÀI_THUỐC,GỒM,DL_VO_QUYT,DƯỢC_LIỆU,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Nghiệm phương -> Vỏ quýt,1.0,explicit
+R001368,BT_6586631,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Thục địa,1.0,explicit
+R001369,BT_6586631,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Hoài sơn,1.0,explicit
+R001370,BT_6586631,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Sơn thù,1.0,explicit
+R001371,BT_6586631,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Đan bì,1.0,explicit
+R001372,BT_6586631,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Trạch tả,1.0,explicit
+R001373,BT_6586631,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Phục linh,1.0,explicit
+R001374,BT_6586631,BÀI_THUỐC,GỒM,DL_MAU_LE,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Mẫu lệ,1.0,explicit
+R001375,BT_6586631,BÀI_THUỐC,GỒM,DL_MIET_GIAP,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Lục vị địa hoàng hoàn -> Miết giáp,1.0,explicit
+R001378,BT_6586634,BÀI_THUỐC,GỒM,DL_LONG_COT,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Long cốt,1.0,explicit
+R001379,BT_6586634,BÀI_THUỐC,GỒM,DL_QUY_BAN,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Quy bản,1.0,explicit
+R001380,BT_6586634,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Bạch thược,1.0,explicit
+R001381,BT_6586634,BÀI_THUỐC,GỒM,DL_THIEN_MON,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Thiên môn,1.0,explicit
+R001382,BT_6586634,BÀI_THUỐC,GỒM,DL_CAU_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Câu đằng,1.0,explicit
+R001383,BT_6586634,BÀI_THUỐC,GỒM,DL_MAU_LE,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Mẫu lệ,1.0,explicit
+R001384,BT_6586634,BÀI_THUỐC,GỒM,DL_MIET_GIAP,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Miết giáp,1.0,explicit
+R001385,BT_6586634,BÀI_THUỐC,GỒM,DL_HUYEN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Huyền sâm,1.0,explicit
+R001386,BT_6586634,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Ngưu tất,1.0,explicit
+R001387,BT_6586634,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Cam thảo,1.0,explicit
+R001389,BT_6586635,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Bán hạ chế,1.0,explicit
+R001390,BT_6586635,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Trần bì,1.0,explicit
+R001391,BT_6586635,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Phục linh,1.0,explicit
+R001392,BT_6586635,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Cam thảo,1.0,explicit
+R001393,BT_6586635,BÀI_THUỐC,GỒM,DL_DOM_NAM_TINH,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Đởm nam tinh,1.0,explicit
+R001394,BT_6586635,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Đảng sâm,1.0,explicit
+R001395,BT_6586635,BÀI_THUỐC,GỒM,DL_TRUC_NHU,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Trúc nhự,1.0,explicit
+R001396,BT_6586635,BÀI_THUỐC,GỒM,DL_XUONG_BO,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Xương bồ,1.0,explicit
+R001397,BT_6586635,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Đại táo,1.0,explicit
+R001398,BT_6586635,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Đạo đàm thang -> Sinh khương,1.0,explicit
+R001400,BT_6586636,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bán hạ bạch truật thiên ma thang -> Bán hạ chế,1.0,explicit
+R001401,BT_6586636,BÀI_THUỐC,GỒM,DL_THIEN_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bán hạ bạch truật thiên ma thang -> Thiên ma,1.0,explicit
+R001402,BT_6586636,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bán hạ bạch truật thiên ma thang -> Bạch truật,1.0,explicit
+R001403,BT_6586636,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bán hạ bạch truật thiên ma thang -> Trần bì,1.0,explicit
+R001404,BT_6586636,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bán hạ bạch truật thiên ma thang -> Cam thảo,1.0,explicit
+R001405,BT_6586636,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bán hạ bạch truật thiên ma thang -> Bạch linh,1.0,explicit
+R001408,BT_6586638,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Bán hạ chế,1.0,explicit
+R001409,BT_6586638,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Phục linh,1.0,explicit
+R001410,BT_6586638,BÀI_THUỐC,GỒM,DL_KHUONG_HOAT,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Khương hoạt,1.0,explicit
+R001411,BT_6586638,BÀI_THUỐC,GỒM,DL_THIEN_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Thiên ma,1.0,explicit
+R001412,BT_6586638,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Bạch truật,1.0,explicit
+R001413,BT_6586638,BÀI_THUỐC,GỒM,DL_THACH_XUONG_BO,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Thạch xương bồ,1.0,explicit
+R001414,BT_6586638,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Trần bì,1.0,explicit
+R001415,BT_6586638,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Cam thảo,1.0,explicit
+R001417,BT_6586639,BÀI_THUỐC,GỒM,DL_SINH_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bổ dương hoàn ngũ thang -> Sinh hoàng kỳ,1.0,explicit
+R001418,BT_6586639,BÀI_THUỐC,GỒM,DL_DIA_LONG,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bổ dương hoàn ngũ thang -> Địa long,1.0,explicit
+R001419,BT_6586639,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bổ dương hoàn ngũ thang -> Đào nhân,1.0,explicit
+R001420,BT_6586639,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bổ dương hoàn ngũ thang -> Hồng hoa,1.0,explicit
+R001421,BT_6586639,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bổ dương hoàn ngũ thang -> Xuyên khung,1.0,explicit
+R001422,BT_6586639,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Bổ dương hoàn ngũ thang -> Xích thược,1.0,explicit
+R001425,BT_6586641,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Đảng sâm,1.0,explicit
+R001426,BT_6586641,BÀI_THUỐC,GỒM,DL_SINH_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Sinh hoàng kỳ,1.0,explicit
+R001427,BT_6586641,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Đương quy,1.0,explicit
+R001428,BT_6586641,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Bạch truật,1.0,explicit
+R001429,BT_6586641,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Xuyên khung,1.0,explicit
+R001430,BT_6586641,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Xích thược,1.0,explicit
+R001431,BT_6586641,BÀI_THUỐC,GỒM,DL_DAN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Đan sâm,1.0,explicit
+R001432,BT_6586641,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Nghiệm phương -> Ngưu tất,1.0,explicit
+R001434,BT_6586655,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Lục vị địa hoàng hoàn -> Thục địa,1.0,explicit
+R001435,BT_6586655,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Lục vị địa hoàng hoàn -> Hoài sơn,1.0,explicit
+R001436,BT_6586655,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Lục vị địa hoàng hoàn -> Sơn thù,1.0,explicit
+R001437,BT_6586655,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Lục vị địa hoàng hoàn -> Bạch linh,1.0,explicit
+R001438,BT_6586655,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Lục vị địa hoàng hoàn -> Đan bì,1.0,explicit
+R001439,BT_6586655,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Lục vị địa hoàng hoàn -> Trạch tả,1.0,explicit
+R001443,BT_6586657,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Phục linh,1.0,explicit
+R001444,BT_6586657,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Bạch thược,1.0,explicit
+R001445,BT_6586657,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Bạch truật,1.0,explicit
+R001446,BT_6586657,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Hoài sơn,1.0,explicit
+R001447,BT_6586657,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Cam thảo,1.0,explicit
+R001448,BT_6586657,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Đương quy,1.0,explicit
+R001449,BT_6586657,BÀI_THUỐC,GỒM,DL_NHAN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Nhân sâm,1.0,explicit
+R001450,BT_6586657,BÀI_THUỐC,GỒM,DL_PHUC_THAN,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Phục thần,1.0,explicit
+R001451,BT_6586657,BÀI_THUỐC,GỒM,DL_THACH_XUONG_BO,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Thạch xương bồ,1.0,explicit
+R001452,BT_6586657,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Xuyên khung,1.0,explicit
+R001453,BT_6586657,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Thục địa,1.0,explicit
+R001454,BT_6586657,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Điều nguyên tán gia vị -> Hoàng kỳ,1.0,explicit
+R001456,BT_6586659,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Xích thược,1.0,explicit
+R001457,BT_6586659,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Xuyên khung,1.0,explicit
+R001458,BT_6586659,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Đào nhân,1.0,explicit
+R001459,BT_6586659,BÀI_THUỐC,GỒM,DL_DAN_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Đan sâm,1.0,explicit
+R001460,BT_6586659,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Bạch linh,1.0,explicit
+R001461,BT_6586659,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Cam thảo,1.0,explicit
+R001462,BT_6586659,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Hồng hoa,1.0,explicit
+R001463,BT_6586659,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Sinh khương,1.0,explicit
+R001464,BT_6586659,BÀI_THUỐC,GỒM,DL_THONG_BACH,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Thông bạch,1.0,explicit
+R001465,BT_6586659,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Bán hạ chế,1.0,explicit
+R001466,BT_6586659,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Thông khiếu hoạt huyết thang kết hợp nhị trần thang -> Trần bì,1.0,explicit
+R001469,BT_6586676,BÀI_THUỐC,GỒM,DL_THANH_HAO,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Thanh hao miết giáp thang gia giảm -> Thanh hao,1.0,explicit
+R001470,BT_6586676,BÀI_THUỐC,GỒM,DL_MIET_GIAP,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Thanh hao miết giáp thang gia giảm -> Miết giáp,1.0,explicit
+R001471,BT_6586676,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Thanh hao miết giáp thang gia giảm -> Sinh địa,1.0,explicit
+R001472,BT_6586676,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Thanh hao miết giáp thang gia giảm -> Tri mẫu,1.0,explicit
+R001473,BT_6586676,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Thanh hao miết giáp thang gia giảm -> Đan bì,1.0,explicit
+R001475,BT_6586677,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đương quy lục hoàng thang gia giảm -> Đương quy,1.0,explicit
+R001476,BT_6586677,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đương quy lục hoàng thang gia giảm -> Sinh địa,1.0,explicit
+R001477,BT_6586677,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đương quy lục hoàng thang gia giảm -> Thục địa,1.0,explicit
+R001478,BT_6586677,BÀI_THUỐC,GỒM,DL_HOANG_LIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đương quy lục hoàng thang gia giảm -> Hoàng liên,1.0,explicit
+R001479,BT_6586677,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đương quy lục hoàng thang gia giảm -> Hoàng bá,1.0,explicit
+R001480,BT_6586677,BÀI_THUỐC,GỒM,DL_HOANG_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đương quy lục hoàng thang gia giảm -> Hoàng cầm,1.0,explicit
+R001481,BT_6586677,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đương quy lục hoàng thang gia giảm -> Hoàng kỳ,1.0,explicit
+R001483,BT_6586678,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị địa hoàng thang -> Thục địa,1.0,explicit
+R001484,BT_6586678,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị địa hoàng thang -> Hoài sơn,1.0,explicit
+R001485,BT_6586678,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị địa hoàng thang -> Sơn thù,1.0,explicit
+R001486,BT_6586678,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị địa hoàng thang -> Trạch tả,1.0,explicit
+R001487,BT_6586678,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị địa hoàng thang -> Bạch linh,1.0,explicit
+R001488,BT_6586678,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị địa hoàng thang -> Đan bì,1.0,explicit
+R001490,BT_6586679,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Thục địa,1.0,explicit
+R001491,BT_6586679,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Hoài sơn,1.0,explicit
+R001492,BT_6586679,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Sơn thù,1.0,explicit
+R001493,BT_6586679,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Tri mẫu,1.0,explicit
+R001494,BT_6586679,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Đan bì,1.0,explicit
+R001495,BT_6586679,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Bạch linh,1.0,explicit
+R001496,BT_6586679,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Trạch tả,1.0,explicit
+R001497,BT_6586679,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Tri bá địa hoàng thang -> Hoàng bá,1.0,explicit
+R001499,BT_6586680,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đạo đàm thang gia giảm -> Bán hạ chế,1.0,explicit
+R001500,BT_6586680,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đạo đàm thang gia giảm -> Trần bì,1.0,explicit
+R001501,BT_6586680,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đạo đàm thang gia giảm -> Phục linh,1.0,explicit
+R001502,BT_6586680,BÀI_THUỐC,GỒM,DL_CHI_THUC,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đạo đàm thang gia giảm -> Chỉ thực,1.0,explicit
+R001503,BT_6586680,BÀI_THUỐC,GỒM,DL_THIEN_NAM_TINH,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đạo đàm thang gia giảm -> Thiên nam tinh,1.0,explicit
+R001504,BT_6586680,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Đạo đàm thang gia giảm -> Cam thảo,1.0,explicit
+R001507,BT_6586681,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Thục địa,1.0,explicit
+R001508,BT_6586681,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Hoài sơn,1.0,explicit
+R001509,BT_6586681,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Sơn thù,1.0,explicit
+R001510,BT_6586681,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Đương quy,1.0,explicit
+R001511,BT_6586681,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Trạch tả,1.0,explicit
+R001512,BT_6586681,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Bạch linh,1.0,explicit
+R001513,BT_6586681,BÀI_THUỐC,GỒM,DL_DAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Đan bì,1.0,explicit
+R001514,BT_6586681,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Lục vị quy thược -> Bạch thược,1.0,explicit
+R001516,BT_6586683,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Đảng sâm,1.0,explicit
+R001517,BT_6586683,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Phục linh,1.0,explicit
+R001518,BT_6586683,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Đương quy,1.0,explicit
+R001519,BT_6586683,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Bạch truật,1.0,explicit
+R001520,BT_6586683,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Hoàng kỳ,1.0,explicit
+R001521,BT_6586683,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Thục địa,1.0,explicit
+R001522,BT_6586683,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Bạch thược,1.0,explicit
+R001523,BT_6586683,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Bát trân thang gia giảm -> Cam thảo,1.0,explicit
+R001526,BT_6586686,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Đảng sâm,1.0,explicit
+R001527,BT_6586686,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Bạch linh,1.0,explicit
+R001528,BT_6586686,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Bạch truật,1.0,explicit
+R001529,BT_6586686,BÀI_THUỐC,GỒM,DL_SA_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Sa nhân,1.0,explicit
+R001530,BT_6586686,BÀI_THUỐC,GỒM,DL_CAT_CANH,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Cát cánh,1.0,explicit
+R001531,BT_6586686,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Ý dĩ,1.0,explicit
+R001532,BT_6586686,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Hoài sơn,1.0,explicit
+R001533,BT_6586686,BÀI_THUỐC,GỒM,DL_LIEN_NHUC,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Liên nhục,1.0,explicit
+R001534,BT_6586686,BÀI_THUỐC,GỒM,DL_BACH_BIEN_DAU,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Bạch biển đậu,1.0,explicit
+R001535,BT_6586686,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Cam thảo,1.0,explicit
+R001536,BT_6586686,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Sâm linh bạch truật tán -> Trần bì,1.0,explicit
+R001539,BT_6586688,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Đảng sâm,1.0,explicit
+R001540,BT_6586688,BÀI_THUỐC,GỒM,DL_LIEN_NHUC,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Liên nhục,1.0,explicit
+R001541,BT_6586688,BÀI_THUỐC,GỒM,DL_BACH_BIEN_DAU,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Bạch biển đậu,1.0,explicit
+R001542,BT_6586688,BÀI_THUỐC,GỒM,DL_SA_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Sa nhân,1.0,explicit
+R001543,BT_6586688,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Hoài sơn,1.0,explicit
+R001544,BT_6586688,BÀI_THUỐC,GỒM,DL_Y_DI,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Ý dĩ,1.0,explicit
+R001545,BT_6586688,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Bạch truật,1.0,explicit
+R001546,BT_6586688,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Bạch linh,1.0,explicit
+R001547,BT_6586688,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Trạch tả,1.0,explicit
+R001548,BT_6586688,BÀI_THUỐC,GỒM,DL_MACH_NHA,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Mạch nha,1.0,explicit
+R001549,BT_6586688,BÀI_THUỐC,GỒM,DL_HOAC_HUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Hoắc hương,1.0,explicit
+R001550,BT_6586688,BÀI_THUỐC,GỒM,DL_SON_TRA,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Nghiệm phương -> Sơn tra,1.0,explicit
+R001552,BT_6586689,BÀI_THUỐC,GỒM,DL_HOANG_LIEN,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Hoàng liên,1.0,explicit
+R001553,BT_6586689,BÀI_THUỐC,GỒM,DL_MACH_NHA,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Mạch nha,1.0,explicit
+R001554,BT_6586689,BÀI_THUỐC,GỒM,DL_THAN_KHUC,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Thần khúc,1.0,explicit
+R001555,BT_6586689,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Đảng sâm,1.0,explicit
+R001556,BT_6586689,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Bạch linh,1.0,explicit
+R001557,BT_6586689,BÀI_THUỐC,GỒM,DL_SON_TRA,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Sơn tra,1.0,explicit
+R001558,BT_6586689,BÀI_THUỐC,GỒM,DL_BINH_LANG,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Binh lang,1.0,explicit
+R001559,BT_6586689,BÀI_THUỐC,GỒM,DL_MOC_HUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Mộc hương,1.0,explicit
+R001560,BT_6586689,BÀI_THUỐC,GỒM,DL_SU_QUAN_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Sử quân tử,1.0,explicit
+R001561,BT_6586689,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Cam thảo,1.0,explicit
+R001562,BT_6586689,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Phì nhi hoàn gia giảm -> Bạch truật,1.0,explicit
+R001564,BT_6586690,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Đảng sâm,1.0,explicit
+R001565,BT_6586690,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Phục linh,1.0,explicit
+R001566,BT_6586690,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Đương quy,1.0,explicit
+R001567,BT_6586690,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Trần bì,1.0,explicit
+R001568,BT_6586690,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Bạch truật,1.0,explicit
+R001569,BT_6586690,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Xuyên khung,1.0,explicit
+R001570,BT_6586690,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Hoàng kỳ,1.0,explicit
+R001571,BT_6586690,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Cam thảo,1.0,explicit
+R001572,BT_6586690,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Bạch thược,1.0,explicit
+R001573,BT_6586690,BÀI_THUỐC,GỒM,DL_BACH_BIEN_DAU,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Bạch biển đậu,1.0,explicit
+R001574,BT_6586690,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Thục địa,1.0,explicit
+R001575,BT_6586690,BÀI_THUỐC,GỒM,DL_SA_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Bát trân thang gia giảm -> Sa nhân,1.0,explicit
+R001577,BT_6586701,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Sài hồ,1.0,explicit
+R001578,BT_6586701,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Chỉ xác,1.0,explicit
+R001579,BT_6586701,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Bạch thược,1.0,explicit
+R001580,BT_6586701,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Cam thảo,1.0,explicit
+R001581,BT_6586701,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Xuyên khung,1.0,explicit
+R001582,BT_6586701,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Hương phụ,1.0,explicit
+R001583,BT_6586701,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Trần bì,1.0,explicit
+R001587,BT_6586704,BÀI_THUỐC,GỒM,DL_DA_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Dạ cẩm,1.0,explicit
+R001588,BT_6586704,BÀI_THUỐC,GỒM,DL_DUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Đường,1.0,explicit
+R001590,BT_6586705,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Sài hồ,1.0,explicit
+R001591,BT_6586705,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Bạch thược,1.0,explicit
+R001592,BT_6586705,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Trần bì,1.0,explicit
+R001593,BT_6586705,BÀI_THUỐC,GỒM,DL_XUYEN_LUYEN_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Xuyên luyện tử,1.0,explicit
+R001594,BT_6586705,BÀI_THUỐC,GỒM,DL_O_TAC_COT,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Sài hồ sơ can thang -> Ô tặc cốt,1.0,explicit
+R001597,BT_6586708,BÀI_THUỐC,GỒM,DL_LA_KHOI,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Lá khôi,1.0,explicit
+R001598,BT_6586708,BÀI_THUỐC,GỒM,DL_RE_CHUT_CHIT,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Rễ chút chít,1.0,explicit
+R001599,BT_6586708,BÀI_THUỐC,GỒM,DL_LA_KHO_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Lá khổ sâm,1.0,explicit
+R001600,BT_6586708,BÀI_THUỐC,GỒM,DL_BO_CONG_ANH_NAM,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Bồ công anh nam,1.0,explicit
+R001601,BT_6586708,BÀI_THUỐC,GỒM,DL_NHAN_TRAN,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Nhân trần,1.0,explicit
+R001605,BT_6586715,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Đảng sâm,1.0,explicit
+R001607,BT_6586712,BÀI_THUỐC,GỒM,DL_A_GIAO_NUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> A giao (nướng),1.0,explicit
+R001608,BT_6586712,BÀI_THUỐC,GỒM,DL_CAU_KY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Câu kỷ tử,1.0,explicit
+R001609,BT_6586712,BÀI_THUỐC,GỒM,DL_MOC_HUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Mộc hương,1.0,explicit
+R001610,BT_6586712,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Phục linh,1.0,explicit
+R001611,BT_6586712,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Trần bì,1.0,explicit
+R001612,BT_6586712,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Đại táo,1.0,explicit
+R001613,BT_6586712,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Bạch thược,1.0,explicit
+R001614,BT_6586712,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Đương qui,0.98,explicit
+R001615,BT_6586712,BÀI_THUỐC,GỒM,DL_NGU_VI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Ngũ vị tử,1.0,explicit
+R001616,BT_6586712,BÀI_THUỐC,GỒM,DL_TAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Táo nhân,1.0,explicit
+R001617,BT_6586712,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Xuyên khung,1.0,explicit
+R001618,BT_6586712,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Điều doanh liễm can ẩm -> Sinh khương,1.0,explicit
+R001621,BT_6586716,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Hoàng kỳ,1.0,explicit
+R001622,BT_6586716,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Cam thảo,1.0,explicit
+R001623,BT_6586716,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Hương phụ,1.0,explicit
+R001624,BT_6586716,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Đại táo,1.0,explicit
+R001625,BT_6586716,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Sinh khương,1.0,explicit
+R001626,BT_6586716,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Bạch thược,1.0,explicit
+R001627,BT_6586716,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Quế chi,1.0,explicit
+R001628,BT_6586716,BÀI_THUỐC,GỒM,DL_MACH_NHA,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Hoàng kỳ kiến trung thang -> Mạch nha,1.0,explicit
+R001630,BT_6586718,BÀI_THUỐC,GỒM,DL_BO_CHINH_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Bố chính sâm,1.0,explicit
+R001631,BT_6586718,BÀI_THUỐC,GỒM,DL_LA_KHOI,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Lá khôi,1.0,explicit
+R001632,BT_6586718,BÀI_THUỐC,GỒM,DL_GUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Gừng,1.0,explicit
+R001633,BT_6586718,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Bán hạ chế,1.0,explicit
+R001634,BT_6586718,BÀI_THUỐC,GỒM,DL_SA_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Sa nhân,1.0,explicit
+R001635,BT_6586718,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Trần bì,1.0,explicit
+R001636,BT_6586718,BÀI_THUỐC,GỒM,DL_VO_RUT_NAM_MOC_HUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Nghiệm phương -> Vỏ rụt (Nam mộc hương),1.0,explicit
+R001638,BT_6586785,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Sài hồ sơ can thang -> Sài hồ,1.0,explicit
+R001639,BT_6586785,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Sài hồ sơ can thang -> Bạch thược,1.0,explicit
+R001640,BT_6586785,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Sài hồ sơ can thang -> Chỉ xác,1.0,explicit
+R001641,BT_6586785,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Sài hồ sơ can thang -> Trần bì,1.0,explicit
+R001642,BT_6586785,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Sài hồ sơ can thang -> Cam thảo,1.0,explicit
+R001643,BT_6586785,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Sài hồ sơ can thang -> Xuyên khung,1.0,explicit
+R001644,BT_6586785,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Sài hồ sơ can thang -> Hương phụ,1.0,explicit
+R001650,BT_6586790,BÀI_THUỐC,GỒM,DL_NHAN_TRAN,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nghiệm phương -> Nhân trần,1.0,explicit
+R001651,BT_6586790,BÀI_THUỐC,GỒM,DL_KHUONG_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nghiệm phương -> Khương hoàng,1.0,explicit
+R001652,BT_6586790,BÀI_THUỐC,GỒM,DL_CAM_THAO_DAT,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nghiệm phương -> Cam thảo đất,1.0,explicit
+R001654,BT_6586791,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Đương qui,0.98,explicit
+R001655,BT_6586791,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Sài hồ,1.0,explicit
+R001656,BT_6586791,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Chỉ xác,1.0,explicit
+R001657,BT_6586791,BÀI_THUỐC,GỒM,DL_DAO_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Đào nhân,1.0,explicit
+R001658,BT_6586791,BÀI_THUỐC,GỒM,DL_CAT_CANH,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Cát cánh,1.0,explicit
+R001659,BT_6586791,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Ngưu tất,1.0,explicit
+R001660,BT_6586791,BÀI_THUỐC,GỒM,DL_HONG_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Hồng hoa,1.0,explicit
+R001661,BT_6586791,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Sinh địa,1.0,explicit
+R001662,BT_6586791,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Cam thảo,1.0,explicit
+R001663,BT_6586791,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Xích thược,1.0,explicit
+R001664,BT_6586791,BÀI_THUỐC,GỒM,DL_XUYEN_KHUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Huyết phủ trục ứ thang -> Xuyên khung,1.0,explicit
+R001671,BT_6586797,BÀI_THUỐC,GỒM,DL_NHAN_TRAN,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhân trần ngũ linh tán -> Nhân trần,1.0,explicit
+R001672,BT_6586797,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhân trần ngũ linh tán -> Phục linh,1.0,explicit
+R001673,BT_6586797,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhân trần ngũ linh tán -> Trạch tả,1.0,explicit
+R001674,BT_6586797,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhân trần ngũ linh tán -> Bạch truật,1.0,explicit
+R001675,BT_6586797,BÀI_THUỐC,GỒM,DL_TRU_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhân trần ngũ linh tán -> Trư linh,1.0,explicit
+R001676,BT_6586797,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhân trần ngũ linh tán -> Quế chi,1.0,explicit
+R001683,BT_6586803,BÀI_THUỐC,GỒM,DL_SA_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhất quán tiễn -> Sa sâm,1.0,explicit
+R001684,BT_6586803,BÀI_THUỐC,GỒM,DL_KY_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhất quán tiễn -> Kỷ tử,1.0,explicit
+R001685,BT_6586803,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhất quán tiễn -> Sinh địa,1.0,explicit
+R001686,BT_6586803,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhất quán tiễn -> Đương qui,0.98,explicit
+R001687,BT_6586803,BÀI_THUỐC,GỒM,DL_MACH_MON,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhất quán tiễn -> Mạch môn,1.0,explicit
+R001688,BT_6586803,BÀI_THUỐC,GỒM,DL_XUYEN_LUYEN_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Nhất quán tiễn -> Xuyên luyện tử,1.0,explicit
+R001695,BT_6586828,BÀI_THUỐC,GỒM,DL_TANG_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Tang diệp,1.0,explicit
+R001696,BT_6586828,BÀI_THUỐC,GỒM,DL_LIEN_KIEU,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Liên kiều,1.0,explicit
+R001697,BT_6586828,BÀI_THUỐC,GỒM,DL_CAT_CANH,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Cát cánh,1.0,explicit
+R001698,BT_6586828,BÀI_THUỐC,GỒM,DL_LO_CAN,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Lô căn,1.0,explicit
+R001699,BT_6586828,BÀI_THUỐC,GỒM,DL_CUC_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Cúc hoa,1.0,explicit
+R001700,BT_6586828,BÀI_THUỐC,GỒM,DL_BAC_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Bạc hà,1.0,explicit
+R001701,BT_6586828,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Cam thảo,1.0,explicit
+R001702,BT_6586828,BÀI_THUỐC,GỒM,DL_HANH_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang cúc ẩm -> Hạnh nhân,1.0,explicit
+R001704,BT_6586829,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Ma hạnh thạch cam thang -> Ma hoàng,1.0,explicit
+R001705,BT_6586829,BÀI_THUỐC,GỒM,DL_THACH_CAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Ma hạnh thạch cam thang -> Thạch cao,1.0,explicit
+R001706,BT_6586829,BÀI_THUỐC,GỒM,DL_HANH_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Ma hạnh thạch cam thang -> Hạnh nhân,1.0,explicit
+R001707,BT_6586829,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Ma hạnh thạch cam thang -> Cam thảo,1.0,explicit
+R001710,BT_6586831,BÀI_THUỐC,GỒM,DL_LA_DAU,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Lá dâu,1.0,explicit
+R001711,BT_6586831,BÀI_THUỐC,GỒM,DL_BAC_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Bạc hà,1.0,explicit
+R001712,BT_6586831,BÀI_THUỐC,GỒM,DL_LA_HE,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Lá hẹ,1.0,explicit
+R001713,BT_6586831,BÀI_THUỐC,GỒM,DL_RAU_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Rau má,1.0,explicit
+R001714,BT_6586831,BÀI_THUỐC,GỒM,DL_CUC_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Cúc hoa,1.0,explicit
+R001715,BT_6586831,BÀI_THUỐC,GỒM,DL_RE_CO_TRANH_SAO_VANG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Rễ cỏ tranh (sao vàng),1.0,explicit
+R001717,BT_6586832,BÀI_THUỐC,GỒM,DL_HANH_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Hạnh nhân,1.0,explicit
+R001718,BT_6586832,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Trần bì,1.0,explicit
+R001719,BT_6586832,BÀI_THUỐC,GỒM,DL_TIEN_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Tiền hồ,1.0,explicit
+R001720,BT_6586832,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Bán hạ chế,1.0,explicit
+R001721,BT_6586832,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Sinh khương,1.0,explicit
+R001722,BT_6586832,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Đại táo,1.0,explicit
+R001723,BT_6586832,BÀI_THUỐC,GỒM,DL_TO_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Tô diệp,1.0,explicit
+R001724,BT_6586832,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Chỉ xác,1.0,explicit
+R001725,BT_6586832,BÀI_THUỐC,GỒM,DL_CAT_CANH,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Cát cánh,1.0,explicit
+R001726,BT_6586832,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Phục linh,1.0,explicit
+R001727,BT_6586832,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Hạnh tô tán -> Cam thảo,1.0,explicit
+R001730,BT_6586834,BÀI_THUỐC,GỒM,DL_TO_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Tô diệp,1.0,explicit
+R001731,BT_6586834,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Sinh khương,1.0,explicit
+R001732,BT_6586834,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Kinh giới,1.0,explicit
+R001733,BT_6586834,BÀI_THUỐC,GỒM,DL_LA_XUONG_SONG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Lá xương sông,1.0,explicit
+R001734,BT_6586834,BÀI_THUỐC,GỒM,DL_LA_HE,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Lá hẹ,1.0,explicit
+R001736,BT_6586835,BÀI_THUỐC,GỒM,DL_TANG_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang hạnh thang -> Tang diệp,1.0,explicit
+R001737,BT_6586835,BÀI_THUỐC,GỒM,DL_HANH_NHAN,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang hạnh thang -> Hạnh nhân,1.0,explicit
+R001738,BT_6586835,BÀI_THUỐC,GỒM,DL_CHI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang hạnh thang -> Chi tử,1.0,explicit
+R001739,BT_6586835,BÀI_THUỐC,GỒM,DL_LE_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang hạnh thang -> Lê bì,1.0,explicit
+R001740,BT_6586835,BÀI_THUỐC,GỒM,DL_THO_BOI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang hạnh thang -> Thổ bối mẫu,1.0,explicit
+R001741,BT_6586835,BÀI_THUỐC,GỒM,DL_SA_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang hạnh thang -> Sa sâm,1.0,explicit
+R001742,BT_6586835,BÀI_THUỐC,GỒM,DL_DAM_DAU_XI,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tang hạnh thang -> Đạm đậu xị,1.0,explicit
+R001745,BT_6586837,BÀI_THUỐC,GỒM,DL_RAU_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Rau má,1.0,explicit
+R001746,BT_6586837,BÀI_THUỐC,GỒM,DL_LA_CHANH,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Lá chanh,1.0,explicit
+R001747,BT_6586837,BÀI_THUỐC,GỒM,DL_CAM_THAO_DAY,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Cam thảo dây,1.0,explicit
+R001748,BT_6586837,BÀI_THUỐC,GỒM,DL_TANG_BACH_BI_SAO_MAT,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Tang bạch bì (sao mật),1.0,explicit
+R001749,BT_6586837,BÀI_THUỐC,GỒM,DL_TRUC_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Trúc diệp,1.0,explicit
+R001750,BT_6586837,BÀI_THUỐC,GỒM,DL_QUA_DANH_DANH_SAO_VANG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Quả dành dành (sao vàng),1.0,explicit
+R001752,BT_6586839,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Nhị trần thang -> Trần bì,1.0,explicit
+R001753,BT_6586839,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Nhị trần thang -> Bán hạ chế,1.0,explicit
+R001754,BT_6586839,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Nhị trần thang -> Phục linh,1.0,explicit
+R001755,BT_6586839,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Nhị trần thang -> Cam thảo,1.0,explicit
+R001757,BT_6586840,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Linh quế truật cam thang -> Bạch truật,1.0,explicit
+R001758,BT_6586840,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Linh quế truật cam thang -> Cam thảo,1.0,explicit
+R001759,BT_6586840,BÀI_THUỐC,GỒM,DL_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Linh quế truật cam thang -> Phục linh,1.0,explicit
+R001760,BT_6586840,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Linh quế truật cam thang -> Quế chi,1.0,explicit
+R001763,BT_6586842,BÀI_THUỐC,GỒM,DL_TRAN_BI_SAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Trần bì (sao),1.0,explicit
+R001764,BT_6586842,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Bán hạ chế,1.0,explicit
+R001765,BT_6586842,BÀI_THUỐC,GỒM,DL_BACH_GIOI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Bạch giới tử,1.0,explicit
+R001766,BT_6586842,BÀI_THUỐC,GỒM,DL_LA_BAC_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> La bạc tử,1.0,explicit
+R001767,BT_6586842,BÀI_THUỐC,GỒM,DL_GUNG_TUOI,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Gừng tươi,1.0,explicit
+R001768,BT_6586842,BÀI_THUỐC,GỒM,DL_HAU_PHAC_NAM,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Hậu phác nam,1.0,explicit
+R001769,BT_6586842,BÀI_THUỐC,GỒM,DL_CAM_THAO_NAM,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thuốc nam -> Cam thảo nam,1.0,explicit
+R001771,BT_6586843,BÀI_THUỐC,GỒM,DL_MA_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Ma hoàng,1.0,explicit
+R001772,BT_6586843,BÀI_THUỐC,GỒM,DL_TE_TAN,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Tế tân,1.0,explicit
+R001773,BT_6586843,BÀI_THUỐC,GỒM,DL_BAN_HA_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Bán hạ chế,1.0,explicit
+R001774,BT_6586843,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Bạch thược,1.0,explicit
+R001775,BT_6586843,BÀI_THUỐC,GỒM,DL_NHUC_QUE,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Nhục quế,1.0,explicit
+R001776,BT_6586843,BÀI_THUỐC,GỒM,DL_CAN_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Can khương,1.0,explicit
+R001777,BT_6586843,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Cam thảo,1.0,explicit
+R001778,BT_6586843,BÀI_THUỐC,GỒM,DL_NGU_VI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Tiểu thanh long thang -> Ngũ vị tử,1.0,explicit
+R001781,BT_6586846,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Quế chi thang -> Quế chi,1.0,explicit
+R001782,BT_6586846,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Quế chi thang -> Bạch thược,1.0,explicit
+R001783,BT_6586846,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Quế chi thang -> Sinh khương,1.0,explicit
+R001784,BT_6586846,BÀI_THUỐC,GỒM,DL_CHICH_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Quế chi thang -> Chích cam thảo,1.0,explicit
+R001785,BT_6586846,BÀI_THUỐC,GỒM,DL_DAI_TAO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Quế chi thang -> Đại táo,1.0,explicit
+R001788,BT_6586848,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Quế chi,1.0,explicit
+R001789,BT_6586848,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Phòng phong,1.0,explicit
+R001790,BT_6586848,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Kinh giới,1.0,explicit
+R001791,BT_6586848,BÀI_THUỐC,GỒM,DL_TU_TO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Tử tô,1.0,explicit
+R001792,BT_6586848,BÀI_THUỐC,GỒM,DL_PHU_BINH,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Phù bình,1.0,explicit
+R001793,BT_6586848,BÀI_THUỐC,GỒM,DL_BACH_CUONG_TAM,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Bạch cương tàm,1.0,explicit
+R001794,BT_6586848,BÀI_THUỐC,GỒM,DL_SINH_KHUONG,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Sinh khương,1.0,explicit
+R001795,BT_6586848,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Cam thảo,1.0,explicit
+R001797,BT_6586849,BÀI_THUỐC,GỒM,DL_KIM_NGAN_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Kim ngân hoa,1.0,explicit
+R001798,BT_6586849,BÀI_THUỐC,GỒM,DL_LIEN_KIEU,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Liên kiều,1.0,explicit
+R001799,BT_6586849,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Kinh giới,1.0,explicit
+R001800,BT_6586849,BÀI_THUỐC,GỒM,DL_CAT_CANH,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Cát cánh,1.0,explicit
+R001801,BT_6586849,BÀI_THUỐC,GỒM,DL_NGUU_BANG_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Ngưu bàng tử,1.0,explicit
+R001802,BT_6586849,BÀI_THUỐC,GỒM,DL_BAC_HA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Bạc hà,1.0,explicit
+R001803,BT_6586849,BÀI_THUỐC,GỒM,DL_DAM_DAU_XI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Đạm đậu xị,1.0,explicit
+R001804,BT_6586849,BÀI_THUỐC,GỒM,DL_DAM_TRUC_DIEP,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Đạm trúc diệp,1.0,explicit
+R001805,BT_6586849,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Ngân kiều tán -> Cam thảo,1.0,explicit
+R001808,BT_6586851,BÀI_THUỐC,GỒM,DL_SAI_DAT,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Sài đất,1.0,explicit
+R001809,BT_6586851,BÀI_THUỐC,GỒM,DL_CO_MAN_TRAU,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Cỏ mần trầu,1.0,explicit
+R001810,BT_6586851,BÀI_THUỐC,GỒM,DL_THO_PHUC_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Thổ phục linh,1.0,explicit
+R001811,BT_6586851,BÀI_THUỐC,GỒM,DL_KE_DAU_NGUA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Ké đầu ngựa,1.0,explicit
+R001812,BT_6586851,BÀI_THUỐC,GỒM,DL_KIM_NGAN_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Kim ngân hoa,1.0,explicit
+R001815,BT_6586852,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Kinh giới,1.0,explicit
+R001816,BT_6586852,BÀI_THUỐC,GỒM,DL_PHONG_PHONG,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Phòng phong,1.0,explicit
+R001817,BT_6586852,BÀI_THUỐC,GỒM,DL_THUYEN_THOAI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Thuyền thoái,1.0,explicit
+R001818,BT_6586852,BÀI_THUỐC,GỒM,DL_NGUU_BANG_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Ngưu bàng tử,1.0,explicit
+R001819,BT_6586852,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Đương qui,0.98,explicit
+R001820,BT_6586852,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Sinh địa,1.0,explicit
+R001821,BT_6586852,BÀI_THUỐC,GỒM,DL_KHO_SAM_CHO_LA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Khổ sâm cho lá,1.0,explicit
+R001822,BT_6586852,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Thương truật,1.0,explicit
+R001823,BT_6586852,BÀI_THUỐC,GỒM,DL_THACH_CAO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Thạch cao,1.0,explicit
+R001824,BT_6586852,BÀI_THUỐC,GỒM,DL_TRI_MAU,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Tri mẫu,1.0,explicit
+R001825,BT_6586852,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Tiêu phong tán -> Cam thảo,1.0,explicit
+R001827,BT_6586854,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Sinh địa,1.0,explicit
+R001828,BT_6586854,BÀI_THUỐC,GỒM,DL_HUYET_DU_LA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Huyết dụ (lá),1.0,explicit
+R001829,BT_6586854,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Bạch thược,1.0,explicit
+R001830,BT_6586854,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Cam thảo,1.0,explicit
+R001831,BT_6586854,BÀI_THUỐC,GỒM,DL_HA_THU_O,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Hà thủ ô,1.0,explicit
+R001832,BT_6586854,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Kinh giới,1.0,explicit
+R001833,BT_6586854,BÀI_THUỐC,GỒM,DL_KE_DAU_NGUA,DƯỢC_LIỆU,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Nghiệm phương -> Ké đầu ngựa,1.0,explicit
+R001835,BT_6586889,BÀI_THUỐC,GỒM,DL_MOC_THONG,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Mộc thông,1.0,explicit
+R001836,BT_6586889,BÀI_THUỐC,GỒM,DL_CU_MACH,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Cù mạch,1.0,explicit
+R001837,BT_6586889,BÀI_THUỐC,GỒM,DL_HOAT_THACH,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Hoạt thạch,1.0,explicit
+R001838,BT_6586889,BÀI_THUỐC,GỒM,DL_DAI_HOANG,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Đại hoàng,1.0,explicit
+R001839,BT_6586889,BÀI_THUỐC,GỒM,DL_XA_TIEN_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Xa tiền tử,1.0,explicit
+R001840,BT_6586889,BÀI_THUỐC,GỒM,DL_BIEN_SUC,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Biển súc,1.0,explicit
+R001841,BT_6586889,BÀI_THUỐC,GỒM,DL_CHI_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Chi tử,1.0,explicit
+R001842,BT_6586889,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Bát chính tán -> Cam thảo,1.0,explicit
+R001845,BT_6586891,BÀI_THUỐC,GỒM,DL_MA_DE,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Mã đề,1.0,explicit
+R001846,BT_6586891,BÀI_THUỐC,GỒM,DL_RAU_NGO,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Râu ngô,1.0,explicit
+R001847,BT_6586891,BÀI_THUỐC,GỒM,DL_RE_CO_TRANH,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Rễ cỏ tranh,1.0,explicit
+R001850,BT_6586894,BÀI_THUỐC,GỒM,DL_RAU_MEO,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Râu mèo,1.0,explicit
+R001851,BT_6586894,BÀI_THUỐC,GỒM,DL_KIM_TIEN_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Kim tiền thảo,1.0,explicit
+R001852,BT_6586894,BÀI_THUỐC,GỒM,DL_VO_RE_CAY_DAU,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Vỏ rễ cây dâu,1.0,explicit
+R001853,BT_6586894,BÀI_THUỐC,GỒM,DL_RAU_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Rau má,1.0,explicit
+R001854,BT_6586894,BÀI_THUỐC,GỒM,DL_LA_TRE,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Lá tre,1.0,explicit
+R001855,BT_6586894,BÀI_THUỐC,GỒM,DL_VO_BUOI,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Vỏ bưởi,1.0,explicit
+R001857,BT_6586895,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Sài hồ sơ can thang hợp Trầm hương giải khí tán -> Sài hồ,1.0,explicit
+R001858,BT_6586895,BÀI_THUỐC,GỒM,DL_HUONG_PHU,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Sài hồ sơ can thang hợp Trầm hương giải khí tán -> Hương phụ,1.0,explicit
+R001859,BT_6586895,BÀI_THUỐC,GỒM,DL_HOAT_THACH,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Sài hồ sơ can thang hợp Trầm hương giải khí tán -> Hoạt thạch,1.0,explicit
+R001860,BT_6586895,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Sài hồ sơ can thang hợp Trầm hương giải khí tán -> Đương quy,1.0,explicit
+R001861,BT_6586895,BÀI_THUỐC,GỒM,DL_THANH_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Sài hồ sơ can thang hợp Trầm hương giải khí tán -> Thanh bì,1.0,explicit
+R001862,BT_6586895,BÀI_THUỐC,GỒM,DL_O_DUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Sài hồ sơ can thang hợp Trầm hương giải khí tán -> Ô dược,1.0,explicit
+R001863,BT_6586895,BÀI_THUỐC,GỒM,DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Sài hồ sơ can thang hợp Trầm hương giải khí tán -> Vương bất lưu hành,1.0,explicit
+R001866,BT_6586897,BÀI_THUỐC,GỒM,DL_RAU_MEO,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Râu mèo,1.0,explicit
+R001867,BT_6586897,BÀI_THUỐC,GỒM,DL_KIM_TIEN_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Kim tiền thảo,1.0,explicit
+R001868,BT_6586897,BÀI_THUỐC,GỒM,DL_RAU_DANG_DAT,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Rau đắng đất,1.0,explicit
+R001869,BT_6586897,BÀI_THUỐC,GỒM,DL_RAU_DUA_NUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Rau dừa nước,1.0,explicit
+R001870,BT_6586897,BÀI_THUỐC,GỒM,DL_VO_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Vỏ cam,1.0,explicit
+R001872,BT_6586898,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Thục địa,1.0,explicit
+R001873,BT_6586898,BÀI_THUỐC,GỒM,DL_SON_THU,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Sơn thù,1.0,explicit
+R001874,BT_6586898,BÀI_THUỐC,GỒM,DL_BACH_LINH,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Bạch linh,1.0,explicit
+R001875,BT_6586898,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Hoài sơn,1.0,explicit
+R001876,BT_6586898,BÀI_THUỐC,GỒM,DL_TRACH_TA,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Trạch tả,1.0,explicit
+R001877,BT_6586898,BÀI_THUỐC,GỒM,DL_DON_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Đơn bì,1.0,explicit
+R001878,BT_6586898,BÀI_THUỐC,GỒM,DL_PHU_TU_CHE,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Phụ tử chế,1.0,explicit
+R001879,BT_6586898,BÀI_THUỐC,GỒM,DL_QUE_CHI,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Quế chi,1.0,explicit
+R001880,BT_6586898,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Ngưu tất,1.0,explicit
+R001881,BT_6586898,BÀI_THUỐC,GỒM,DL_XA_TIEN_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Tế sinh thận khí hoàn -> Xa tiền tử,1.0,explicit
+R001884,BT_6586900,BÀI_THUỐC,GỒM,DL_THONG_BACH,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Thông bạch,1.0,explicit
+R001885,BT_6586900,BÀI_THUỐC,GỒM,DL_GUNG,DƯỢC_LIỆU,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Nghiệm phương -> Gừng,1.0,explicit
+R001887,BT_6586902,BÀI_THUỐC,GỒM,DL_HOE_HOA_SAO_VANG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Hòe hoa sao vàng,1.0,explicit
+R001888,BT_6586902,BÀI_THUỐC,GỒM,DL_TRAC_BA_DIEP_SAO_CHAY,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Trắc bá diệp sao cháy,1.0,explicit
+R001889,BT_6586902,BÀI_THUỐC,GỒM,DL_KINH_GIOI_TUE_SAO_DEN,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Kinh giới tuệ sao đen,1.0,explicit
+R001890,BT_6586902,BÀI_THUỐC,GỒM,DL_CHI_XAC_SAO,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Chỉ xác sao,1.0,explicit
+R001893,BT_6586904,BÀI_THUỐC,GỒM,DL_SAI_DAT,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Sài đất,1.0,explicit
+R001894,BT_6586904,BÀI_THUỐC,GỒM,DL_BO_CONG_ANH,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Bồ công anh,1.0,explicit
+R001895,BT_6586904,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hoàng bá,1.0,explicit
+R001896,BT_6586904,BÀI_THUỐC,GỒM,DL_HOE_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hòe hoa,1.0,explicit
+R001897,BT_6586904,BÀI_THUỐC,GỒM,DL_RAU_NGO,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Râu ngô,1.0,explicit
+R001898,BT_6586904,BÀI_THUỐC,GỒM,DL_RE_CO_TRANH,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Rễ cỏ tranh,1.0,explicit
+R001900,BT_6586905,BÀI_THUỐC,GỒM,DL_LA_MONG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Lá móng,1.0,explicit
+R001901,BT_6586905,BÀI_THUỐC,GỒM,DL_BINH_LANG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Binh lang,1.0,explicit
+R001902,BT_6586905,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Hoàng bá,1.0,explicit
+R001903,BT_6586905,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Phèn phi,1.0,explicit
+R001905,BT_6586906,BÀI_THUỐC,GỒM,DL_KHA_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Kha tử,1.0,explicit
+R001906,BT_6586906,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Phèn phi,1.0,explicit
+R001908,BT_6586907,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hoạt huyết địa hoàng thang -> Sinh địa,1.0,explicit
+R001909,BT_6586907,BÀI_THUỐC,GỒM,DL_KINH_GIOI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hoạt huyết địa hoàng thang -> Kinh giới,1.0,explicit
+R001910,BT_6586907,BÀI_THUỐC,GỒM,DL_HOANG_CAM,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hoạt huyết địa hoàng thang -> Hoàng cầm,1.0,explicit
+R001911,BT_6586907,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hoạt huyết địa hoàng thang -> Đương quy,1.0,explicit
+R001912,BT_6586907,BÀI_THUỐC,GỒM,DL_HOE_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hoạt huyết địa hoàng thang -> Hòe hoa,1.0,explicit
+R001913,BT_6586907,BÀI_THUỐC,GỒM,DL_DIA_DU,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hoạt huyết địa hoàng thang -> Địa du,1.0,explicit
+R001914,BT_6586907,BÀI_THUỐC,GỒM,DL_XICH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hoạt huyết địa hoàng thang -> Xích thược,1.0,explicit
+R001917,BT_6586909,BÀI_THUỐC,GỒM,DL_KE_HUYET_DANG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Kê huyết đằng,1.0,explicit
+R001918,BT_6586909,BÀI_THUỐC,GỒM,DL_HUYET_GIAC,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Huyết giác,1.0,explicit
+R001919,BT_6586909,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Trần bì,1.0,explicit
+R001920,BT_6586909,BÀI_THUỐC,GỒM,DL_NGUU_TAT,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Ngưu tất,1.0,explicit
+R001921,BT_6586909,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Bạch thược,1.0,explicit
+R001922,BT_6586909,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hoài sơn,1.0,explicit
+R001923,BT_6586909,BÀI_THUỐC,GỒM,DL_HOE_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hòe hoa,1.0,explicit
+R001924,BT_6586909,BÀI_THUỐC,GỒM,DL_CHI_XAC,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Chỉ xác,1.0,explicit
+R001925,BT_6586909,BÀI_THUỐC,GỒM,DL_CO_NGOT,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Cỏ ngọt,1.0,explicit
+R001927,BT_6586910,BÀI_THUỐC,GỒM,DL_LA_MONG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Lá móng,1.0,explicit
+R001928,BT_6586910,BÀI_THUỐC,GỒM,DL_BINH_LANG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Binh lang,1.0,explicit
+R001929,BT_6586910,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Hoàng bá,1.0,explicit
+R001930,BT_6586910,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Phèn phi,1.0,explicit
+R001932,BT_6586911,BÀI_THUỐC,GỒM,DL_KHA_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Kha tử,1.0,explicit
+R001933,BT_6586911,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Phèn phi,1.0,explicit
+R001935,BT_6586912,BÀI_THUỐC,GỒM,DL_HOE_HOA_SAO_VANG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Hòe hoa sao vàng,1.0,explicit
+R001936,BT_6586912,BÀI_THUỐC,GỒM,DL_TRAC_BA_DIEP_SAO_CHAY,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Trắc bá diệp sao cháy,1.0,explicit
+R001937,BT_6586912,BÀI_THUỐC,GỒM,DL_KINH_GIOI_SAO_DEN,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Kinh giới sao đen,1.0,explicit
+R001938,BT_6586912,BÀI_THUỐC,GỒM,DL_CHI_XAC_SAO,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Hòe hoa tán -> Chỉ xác sao,1.0,explicit
+R001941,BT_6586914,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hoàng bá,1.0,explicit
+R001942,BT_6586914,BÀI_THUỐC,GỒM,DL_BO_CONG_ANH,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Bồ công anh,1.0,explicit
+R001943,BT_6586914,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Sinh địa,1.0,explicit
+R001944,BT_6586914,BÀI_THUỐC,GỒM,DL_HOE_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hòe hoa,1.0,explicit
+R001945,BT_6586914,BÀI_THUỐC,GỒM,DL_RAU_NGO,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Râu ngô,1.0,explicit
+R001946,BT_6586914,BÀI_THUỐC,GỒM,DL_THUONG_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Thương truật,1.0,explicit
+R001947,BT_6586914,BÀI_THUỐC,GỒM,DL_CO_NGOT,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Cỏ ngọt,1.0,explicit
+R001949,BT_6586915,BÀI_THUỐC,GỒM,DL_LA_MONG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Lá móng,1.0,explicit
+R001950,BT_6586915,BÀI_THUỐC,GỒM,DL_BINH_LANG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Binh lang,1.0,explicit
+R001951,BT_6586915,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Hoàng bá,1.0,explicit
+R001952,BT_6586915,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Phèn phi,1.0,explicit
+R001954,BT_6586916,BÀI_THUỐC,GỒM,DL_KHA_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Kha tử,1.0,explicit
+R001955,BT_6586916,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Phèn phi,1.0,explicit
+R001957,BT_6586917,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Đảng sâm,1.0,explicit
+R001958,BT_6586917,BÀI_THUỐC,GỒM,DL_HOANG_KY,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Hoàng kỳ,1.0,explicit
+R001959,BT_6586917,BÀI_THUỐC,GỒM,DL_BACH_TRUAT,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Bạch truật,1.0,explicit
+R001960,BT_6586917,BÀI_THUỐC,GỒM,DL_CAM_THAO,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Cam thảo,1.0,explicit
+R001961,BT_6586917,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Trần bì,1.0,explicit
+R001962,BT_6586917,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Đương quy,1.0,explicit
+R001963,BT_6586917,BÀI_THUỐC,GỒM,DL_THANG_MA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Thăng ma,1.0,explicit
+R001964,BT_6586917,BÀI_THUỐC,GỒM,DL_SAI_HO,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Bổ trung ích khí thang -> Sài hồ,1.0,explicit
+R001967,BT_6586919,BÀI_THUỐC,GỒM,DL_DANG_SAM,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Đảng sâm,1.0,explicit
+R001968,BT_6586919,BÀI_THUỐC,GỒM,DL_HOAI_SON,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hoài sơn,1.0,explicit
+R001969,BT_6586919,BÀI_THUỐC,GỒM,DL_BACH_THUOC,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Bạch thược,1.0,explicit
+R001970,BT_6586919,BÀI_THUỐC,GỒM,DL_TRAN_BI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Trần bì,1.0,explicit
+R001971,BT_6586919,BÀI_THUỐC,GỒM,DL_HOE_HOA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Hòe hoa,1.0,explicit
+R001972,BT_6586919,BÀI_THUỐC,GỒM,DL_SINH_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Sinh địa,1.0,explicit
+R001973,BT_6586919,BÀI_THUỐC,GỒM,DL_THUC_DIA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Thục địa,1.0,explicit
+R001974,BT_6586919,BÀI_THUỐC,GỒM,DL_DUONG_QUY,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Nghiệm phương -> Đương quy,1.0,explicit
+R001976,BT_6586920,BÀI_THUỐC,GỒM,DL_LA_MONG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Lá móng,1.0,explicit
+R001977,BT_6586920,BÀI_THUỐC,GỒM,DL_BINH_LANG,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Binh lang,1.0,explicit
+R001978,BT_6586920,BÀI_THUỐC,GỒM,DL_HOANG_BA,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Hoàng bá,1.0,explicit
+R001979,BT_6586920,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Lá móng -> Phèn phi,1.0,explicit
+R001981,BT_6586921,BÀI_THUỐC,GỒM,DL_KHA_TU,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Kha tử,1.0,explicit
+R001982,BT_6586921,BÀI_THUỐC,GỒM,DL_PHEN_PHI,DƯỢC_LIỆU,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Kha tử -> Phèn phi,1.0,explicit

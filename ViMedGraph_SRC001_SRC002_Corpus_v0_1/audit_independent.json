@@ -1,0 +1,30 @@
+{
+  "checks": {
+    "chunks_total": 351,
+    "chunks_exactly_found_in_original_pdf_page_range": 351,
+    "chunks_source_match_fail": 0,
+    "hash_fail": 0,
+    "page_bound_fail": 0,
+    "metadata_fail": 0,
+    "sections_missing_disease": 0,
+    "chunks_missing_disease": 0,
+    "chunks_missing_section": 0,
+    "duplicate_disease_ids": 0,
+    "duplicate_section_ids": 0,
+    "duplicate_chunk_ids": 0,
+    "section_range_fail": 0,
+    "chunk_range_fail": 0,
+    "reference_flag_mismatch": 0,
+    "bad_encoding_chunks": 0,
+    "watermark_chunks": 0,
+    "disease_start_toc_mismatch": 0
+  },
+  "fail_samples": {
+    "source_match_fail": [],
+    "hash_fail": [],
+    "page_bound_fail": [],
+    "metadata_fail": [],
+    "section_range_fail": [],
+    "chunk_range_fail": []
+  }
+}

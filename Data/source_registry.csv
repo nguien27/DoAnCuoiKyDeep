@@ -1,0 +1,10 @@
+source_id,file_name,title,year,source_type,publisher,purpose,url,status,notes
+SRC_001,SRC_001_2020_QD5013_BYT_Huong_dan_chan_doan_dieu_tri_YHCT_Tap_I.pdf,Hướng dẫn chẩn đoán điều trị YHCT - Tập I,2020,Quyết định,Bộ Y tế,Hướng dẫn chẩn đoán và điều trị Y học cổ truyền,,active,Quyết định 5013/QĐ-BYT
+SRC_002,SRC_002_2025_QD3991_BYT_Huong_dan_chan_doan_dieu_tri_YHCT_Tap_II.pdf,Hướng dẫn chẩn đoán điều trị YHCT - Tập II,2025,Quyết định,Bộ Y tế,Hướng dẫn chẩn đoán và điều trị Y học cổ truyền,,active,Quyết định 3991/QĐ-BYT
+SRC_003,SRC_003_2025_QD2552_BYT_Danh_muc_thuat_ngu_YHCT_Dot_1.pdf,Danh mục thuật ngữ YHCT - Đợt 1,2025,Quyết định,Bộ Y tế,Danh mục thuật ngữ Y học cổ truyền,,active,Quyết định 2552/QĐ-BYT
+SRC_003_PL01,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,Danh mục thể lâm sàng,2025,Phụ lục,Bộ Y tế,Phụ lục 01 - Danh mục thể lâm sàng,,active,Phụ lục của SRC_003
+SRC_004,SRC_004_2025_QD3080_BYT_Danh_muc_thuat_ngu_YHCT_Dot_2.pdf,Danh mục thuật ngữ YHCT - Đợt 2,2025,Quyết định,Bộ Y tế,Danh mục thuật ngữ Y học cổ truyền,,active,Quyết định 3080/QĐ-BYT
+SRC_004_PL01,SRC_004_PL01_Danh_muc_trieu_chung.pdf,Danh mục triệu chứng,2025,Phụ lục,Bộ Y tế,Phụ lục 01 - Danh mục triệu chứng,,active,Phụ lục của SRC_004
+SRC_004_PL06,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,Bài thuốc thành phần dược liệu thể bệnh,2025,Phụ lục,Bộ Y tế,Phụ lục 06 - Bài thuốc và dược liệu theo thể bệnh,,active,Phụ lục của SRC_004
+SRC_006,SRC_006_2025_TT55_BYT_Ke_don_thuoc_co_truyen_duoc_lieu.pdf,Kê đơn thuốc cổ truyền dược liệu,2025,Thông tư,Bộ Y tế,Hướng dẫn kê đơn thuốc cổ truyền và dược liệu,,active,Thông tư 55/TT-BYT
+SRC_007,SRC_007_2020_QD5480_BYT_Quy_trinh_ky_thuat_YHCT.pdf,Quy trình kỹ thuật YHCT,2020,Quyết định,Bộ Y tế,Quy trình kỹ thuật Y học cổ truyền,,active,Quyết định 5480/QĐ-BYT

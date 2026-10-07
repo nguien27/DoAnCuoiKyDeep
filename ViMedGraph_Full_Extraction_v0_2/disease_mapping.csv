@@ -1,0 +1,37 @@
+﻿disease_id,source_id,disease_name,yhct_name,mapping_status,official_code,candidate_official_codes,mapping_reason
+SRC_001_D01,SRC_001,Đau cột sống thắt lưng,Yêu thống,unique,U62.392.5,U62.392.5,exact title + YHCT
+SRC_001_D02,SRC_001,Thoái hóa khớp gối,Hạc tất phong,unique,U62.261,U62.261,exact title + YHCT
+SRC_001_D03,SRC_001,Gout,Thống phong,unique,U62.371,U62.371,YHCT exact
+SRC_001_D04,SRC_001,Viêm khớp dạng thấp,Chứng tý,ambiguous,,U62.021 | U62.031 | U62.031.0,source chapter does not specify rheumatoid serostatus
+SRC_001_D05,SRC_001,Hội chứng cổ vai cánh tay,Chứng tý,unique,U62.292,U62.292,modern condition + YHCT Chứng tý
+SRC_001_D06,SRC_001,Tăng huyết áp vô căn,Huyễn vựng,unique,U58.091,U58.091,modern condition + YHCT exact
+SRC_001_D07,SRC_001,Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác,Chứng đàm,unique,U53.151,U53.151,exact condition + YHCT
+SRC_001_D08,SRC_001,Bệnh dây thần kinh mặt,Khẩu nhãn oa tà,unique,U55.561,U55.561,exact condition + YHCT
+SRC_001_D09,SRC_001,Đau dây thần kinh liên sườn,Hiếp thống,ambiguous,,U55.541 | U55.531,two official Hiếp thống codes correspond to intercostal neuralgia variants
+SRC_001_D10,SRC_001,Đau thần kinh tọa,Yêu cước thống,unique,U62.392,U62.392,Yêu cước thống exact
+SRC_001_D11,SRC_001,Di chứng nhồi máu não,Bán thân bất toại,unique,U58.021,U58.021,YHCT Bán thân bất toại exact
+SRC_001_D12,SRC_001,Bại não trẻ em,Ngũ trì,unique,U55.611,U55.611,YHCT Ngũ trì exact
+SRC_001_D13,SRC_001,Di chứng viêm não do virus,Ôn bệnh,unique,U50.481,U50.481,exact condition + YHCT
+SRC_001_D14,SRC_001,Suy dinh dưỡng thể marasmus,Cam tích,unique,U53.071,U53.071,YHCT Cam tích exact
+SRC_001_D15,SRC_001,Viêm dạ dày và tá tràng,Vị quản thống,unique,U60.471,U60.471,general Viêm dạ dày và tá tràng / Vị quản thống
+SRC_001_D16,SRC_001,Viêm gan virus mạn,Hiếp thống,unique,U50.102,U50.102,modern condition + YHCT Hiếp thống
+SRC_001_D17,SRC_001,Bệnh phổi tắc nghẽn mạn tính (COPD),Khái suyễn,unique,U59.231,U59.231,source pattern diagnosis explicitly uses Khái thấu
+SRC_001_D18,SRC_001,Mày đay,Ẩn chẩn,unique,U61.011,U61.011,YHCT Ẩn chẩn exact
+SRC_001_D19,SRC_001,Bí đái cơ năng,Long bế,unique,U66.372,U66.372,source diagnosis says Long bế; reference uses Lung bế spelling
+SRC_001_D20,SRC_001,Bệnh trĩ,Hạ trĩ,unique,U58.762,U58.762,YHCT Hạ trĩ exact
+SRC_002_D01,SRC_002,Cảm mạo,Cảm mạo,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D02,SRC_002,Viêm mũi do vận mạch và dị ứng,"Tỵ cừu, tỵ uyên",unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D03,SRC_002,Sốt xuất huyết Dengue,Ôn bệnh,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D04,SRC_002,Bệnh trào ngược dạ dày - thực quản,Vị khí nghịch,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D05,SRC_002,Hội chứng ruột kích thích,"Tiết tả, táo bón hoặc xen kẽ",unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D06,SRC_002,Táo bón,Tiện bí,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D07,SRC_002,Đái dầm,Di niệu,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D08,SRC_002,Sỏi tiết niệu,Thạch lâm,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D09,SRC_002,Tăng sinh lành tính tuyến tiền liệt,Long bế,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D10,SRC_002,Loãng xương không kèm gẫy xương bệnh lý,Cốt tý,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D11,SRC_002,Đái tháo đường không phụ thuộc insulin,Tiêu khát,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D12,SRC_002,Suy nhược cơ thể (khó ở và mệt mỏi),Hư lao,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D13,SRC_002,Mất ngủ không thực tổn,Thất miên,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D14,SRC_002,Rối loạn chức năng tiền đình,Huyễn vựng,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D15,SRC_002,Nhồi máu não,Trúng phong thiên khô,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions
+SRC_002_D16,SRC_002,Xuất huyết não,Trúng phong,unmapped,,,SRC_002 disease not safely represented by current parsed terminology registry; do not reuse codes from different modern conditions

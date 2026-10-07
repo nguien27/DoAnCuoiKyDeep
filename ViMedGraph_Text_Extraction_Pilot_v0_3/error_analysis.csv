@@ -1,0 +1,2 @@
+﻿issue_type,item_id,item_code,source_a,source_b,description,action
+reference_vs_corpus_mismatch,6541008,U62.392.5.02.Đ03,SRC_004_PL01,SRC_001,"PL01 ghi 'Cảm giác nóng hậu môn', nhưng prose SRC_001 của Thể thấp nhiệt/Yêu thống ghi 'cảm giác nóng bứt rứt'; không có bằng chứng cho 'hậu môn'.",exclude_from_text_gold_no_auto_correction

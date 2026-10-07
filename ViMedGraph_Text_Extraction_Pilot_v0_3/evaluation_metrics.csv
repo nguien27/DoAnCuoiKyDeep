@@ -1,0 +1,13 @@
+﻿scope,gold_count,pred_count,TP,FP,FN,precision,recall,f1
+Entity overall,323,323,323,0,0,1.0,1.0,1.0
+Entity BỆNH_CHỨNG,4,4,4,0,0,1.0,1.0,1.0
+Entity THỂ_BỆNH,16,16,16,0,0,1.0,1.0,1.0
+Entity TRIỆU_CHỨNG,140,140,140,0,0,1.0,1.0,1.0
+Entity BÀI_THUỐC,51,51,51,0,0,1.0,1.0,1.0
+Entity DƯỢC_LIỆU,112,112,112,0,0,1.0,1.0,1.0
+Explicit relation overall,543,543,543,0,0,1.0,1.0,1.0
+Relation CÓ_THỂ_BỆNH,16,16,16,0,0,1.0,1.0,1.0
+Relation CÓ_TRIỆU_CHỨNG,140,140,140,0,0,1.0,1.0,1.0
+Relation ĐIỀU_TRỊ_BẰNG,51,51,51,0,0,1.0,1.0,1.0
+Relation GỒM,336,336,336,0,0,1.0,1.0,1.0
+Derived relation,140,140,140,0,0,1.0,1.0,1.0

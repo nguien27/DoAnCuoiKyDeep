@@ -1,0 +1,30 @@
+{
+  "version": "v0.1",
+  "source_package": "ViMedGraph_Full_Extraction_v0_2",
+  "neo4j_runtime_executed_in_this_environment": false,
+  "reason": "Neo4j executable is not installed in the current runtime; import package was generated and fully validated offline.",
+  "nodes_total": 1117,
+  "nodes_by_type": {
+    "BỆNH_CHỨNG": 18,
+    "THỂ_BỆNH": 67,
+    "TRIỆU_CHỨNG": 572,
+    "BÀI_THUỐC": 217,
+    "DƯỢC_LIỆU": 243
+  },
+  "explicit_relations_total": 1890,
+  "explicit_relations_by_type": {
+    "CÓ_THỂ_BỆNH": 67,
+    "CÓ_TRIỆU_CHỨNG": 572,
+    "ĐIỀU_TRỊ_BẰNG": 217,
+    "GỒM": 1034
+  },
+  "derived_relations_total": 572,
+  "offline_qa": {
+    "duplicate_entity_ids": 0,
+    "duplicate_explicit_relations": 0,
+    "duplicate_derived_relations": 0,
+    "dangling_endpoints": 0,
+    "schema_violations": 0,
+    "explicit_relations_missing_provenance": 0
+  }
+}

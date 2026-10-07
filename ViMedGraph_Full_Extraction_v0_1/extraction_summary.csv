@@ -1,0 +1,3 @@
+﻿source_id,diseases,diseases_unique_mapped,diseases_ambiguous,diseases_unmapped,patterns,patterns_normalized,patterns_ambiguous,patterns_unmapped,entities,explicit_relations,derived_relations,candidates
+SRC_001,20,18,2,0,77,67,10,0,1129,1900,572,63
+SRC_002,16,0,0,16,82,0,0,82,98,82,0,401

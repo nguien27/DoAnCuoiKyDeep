@@ -1,0 +1,244 @@
+﻿entity_id,entity_type,canonical_name,observed_name,official_id,official_code,source_id,disease_id,section_type,pdf_page_start,pdf_page_end,normalization_status,confidence,notes
+DL_CAN_KHUONG,DƯỢC_LIỆU,Can khương,Can khương,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THUONG_TRUAT,DƯỢC_LIỆU,Thương truật,Thương truật,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_XUYEN_KHUNG,DƯỢC_LIỆU,Xuyên khung,Xuyên khung,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_QUE_CHI,DƯỢC_LIỆU,Quế chi,Quế chi,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_Y_DI,DƯỢC_LIỆU,Ý dĩ,Ý dĩ,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_LINH,DƯỢC_LIỆU,Bạch linh,Bạch linh,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAM_THAO,DƯỢC_LIỆU,Cam thảo,Cam thảo,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_LOT,DƯỢC_LIỆU,Lá lốt,Lá lốt,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THIEN_NIEN_KIEN,DƯỢC_LIỆU,Thiên niên kiện,Thiên niên kiện,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RE_CAY_XAU_HO,DƯỢC_LIỆU,Rễ cây xấu hổ,Rễ cây xấu hổ,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SINH_DIA,DƯỢC_LIỆU,Sinh địa,Sinh địa,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SAI_DAT,DƯỢC_LIỆU,Sài đất,Sài đất,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THO_PHUC_LINH,DƯỢC_LIỆU,Thổ phục linh,Thổ phục linh,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HA_THU_O,DƯỢC_LIỆU,Hà thủ ô,Hà thủ ô,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CO_XUOC,DƯỢC_LIỆU,Cỏ xước,Cỏ xước,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGUU_TAT,DƯỢC_LIỆU,Ngưu tất,Ngưu tất,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOANG_BA,DƯỢC_LIỆU,Hoàng bá,Hoàng bá,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_TRUAT_SAO_CAM,DƯỢC_LIỆU,Bạch truật (sao cám),Bạch truật (sao cám),,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAM_THAO_NAM,DƯỢC_LIỆU,Cam thảo nam,Cam thảo nam,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HY_THIEM_THAO,DƯỢC_LIỆU,Hy thiêm thảo,Hy thiêm thảo,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TY_GIAI,DƯỢC_LIỆU,Tỳ giải,Tỳ giải,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DUONG_QUY,DƯỢC_LIỆU,Đương quy,Đương qui,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,0.98,no PL05 code available in current project files
+DL_DAO_NHAN,DƯỢC_LIỆU,Đào nhân,Đào nhân,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MOT_DUOC,DƯỢC_LIỆU,Một dược,Một dược,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HUONG_PHU,DƯỢC_LIỆU,Hương phụ,Hương phụ,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TAN_GIAO,DƯỢC_LIỆU,Tần giao,Tần giao,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HONG_HOA,DƯỢC_LIỆU,Hồng hoa,Hồng hoa,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KHUONG_HOAT,DƯỢC_LIỆU,Khương hoạt,Khương hoạt,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DIA_LONG,DƯỢC_LIỆU,Địa long,Địa long,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGU_LINH_CHI,DƯỢC_LIỆU,Ngũ linh chi,Ngũ linh chi,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CHICH_THAO,DƯỢC_LIỆU,Chích thảo,Chích thảo,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGAI_CUU,DƯỢC_LIỆU,Ngải cứu,Ngải cứu,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TO_MOC,DƯỢC_LIỆU,Tô mộc,Tô mộc,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGHE_VANG,DƯỢC_LIỆU,Nghệ vàng,Nghệ vàng,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRAN_BI,DƯỢC_LIỆU,Trần bì,Trần bì,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KINH_GIOI,DƯỢC_LIỆU,Kinh giới,Kinh giới,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_UAT_KIM,DƯỢC_LIỆU,Uất kim,Uất kim,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DANG_SAM,DƯỢC_LIỆU,Đảng sâm,Đảng sâm,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THUC_DIA,DƯỢC_LIỆU,Thục địa,Thục địa,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DO_TRONG,DƯỢC_LIỆU,Đỗ trọng,Đỗ trọng,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DOC_HOAT,DƯỢC_LIỆU,Độc hoạt,Độc hoạt,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_PHONG_PHONG,DƯỢC_LIỆU,Phòng phong,Phòng phong,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_PHUC_LINH,DƯỢC_LIỆU,Phục linh,Phục linh,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_THUOC,DƯỢC_LIỆU,Bạch thược,Bạch thược,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TE_TAN,DƯỢC_LIỆU,Tế tân,Tế tân,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TANG_KY_SINH,DƯỢC_LIỆU,Tang ký sinh,Tang ký sinh,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAU_TICH,DƯỢC_LIỆU,Cẩu tích,Cẩu tích,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAY_DAU_XUONG,DƯỢC_LIỆU,Dây đau xương,Dây đau xương,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RE_CO_XUOC,DƯỢC_LIỆU,Rễ cỏ xước,Rễ cỏ xước,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_COT_TOAI,DƯỢC_LIỆU,Cốt toái,Cốt toái,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOAI_SON,DƯỢC_LIỆU,Hoài sơn,Hoài sơn,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THO_TY_TU,DƯỢC_LIỆU,Thỏ ty tử,Thỏ ty tử,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SON_THU,DƯỢC_LIỆU,Sơn thù,Sơn thù,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAN_BI,DƯỢC_LIỆU,Đan bì,Đan bì,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRACH_TA,DƯỢC_LIỆU,Trạch tả,Trạch tả,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NHUC_QUE,DƯỢC_LIỆU,Nhục quế,Nhục quế,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HAC_PHU_TU,DƯỢC_LIỆU,Hắc phụ tử,Hắc phụ tử,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_COT_KHI_CU,DƯỢC_LIỆU,Cốt khí củ,Cốt khí củ,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TUC_DOAN,DƯỢC_LIỆU,Tục đoạn,Tục đoạn,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_TRUAT,DƯỢC_LIỆU,Bạch truật,Bạch truật,,,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MA_HOANG,DƯỢC_LIỆU,Ma hoàng,Ma hoàng,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SINH_KHUONG,DƯỢC_LIỆU,Sinh khương,Sinh khương,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOANG_KY,DƯỢC_LIỆU,Hoàng kỳ,Hoàng kỳ,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MAT_ONG,DƯỢC_LIỆU,Mật ong,Mật ong,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RE_XAU_HO,DƯỢC_LIỆU,Rễ xấu hổ,Rễ xấu hổ,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAY_GAM,DƯỢC_LIỆU,Dây gắm,Dây gắm,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KE_HUYET_DANG,DƯỢC_LIỆU,Kê huyết đằng,Kê huyết đằng,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HY_THIEM,DƯỢC_LIỆU,Hy thiêm,Hy thiêm,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_QUE_TAM,DƯỢC_LIỆU,Quế tâm,Quế tâm,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_XICH_THUOC,DƯỢC_LIỆU,Xích thược,Xích thược,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_COT_TOAI_BO,DƯỢC_LIỆU,Cốt toái bổ,Cốt toái bổ,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KIM_NGAN_HOA,DƯỢC_LIỆU,Kim ngân hoa,Kim ngân hoa,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_Y_DI_NHAN,DƯỢC_LIỆU,Ý dĩ nhân,Ý dĩ nhân,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THUOC_DUOC,DƯỢC_LIỆU,Thược dược,Thược dược,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SINH_THACH_CAO,DƯỢC_LIỆU,Sinh thạch cao,Sinh thạch cao,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRI_MAU,DƯỢC_LIỆU,Tri mẫu,Tri mẫu,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGANH_ME,DƯỢC_LIỆU,Ngạnh mễ,Ngạnh mễ,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RE_LA_LOT,DƯỢC_LIỆU,Rễ lá lốt,Rễ lá lốt,,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOAI_SON_LAM_AO,DƯỢC_LIỆU,Hoài sơn (làm áo),Hoài sơn (làm áo),,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CHI_TU_NHUOM_BOT_AO,DƯỢC_LIỆU,Chi tử (nhuộm bột áo),Chi tử (nhuộm bột áo),,,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOAT_THACH,DƯỢC_LIỆU,Hoạt thạch,Hoạt thạch,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HANH_NHAN,DƯỢC_LIỆU,Hạnh nhân,Hạnh nhân,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_XICH_TIEU_DAU,DƯỢC_LIỆU,Xích tiểu đậu,Xích tiểu đậu,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CHI_TU,DƯỢC_LIỆU,Chi tử,Chi tử,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LIEN_KIEU,DƯỢC_LIỆU,Liên kiều,Liên kiều,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SINH_Y_DI,DƯỢC_LIỆU,Sinh ý dĩ,Sinh ý dĩ,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAI_HOANG,DƯỢC_LIỆU,Đại hoàng,Đại hoàng,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KHUONG_HOANG,DƯỢC_LIỆU,Khương hoàng,Khương hoàng,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NAM_TINH,DƯỢC_LIỆU,Nam tinh,Nam tinh,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_CHI,DƯỢC_LIỆU,Bạch chỉ,Bạch chỉ,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HAU_PHAC,DƯỢC_LIỆU,Hậu phác,Hậu phác,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THIEN_HOA_PHAN,DƯỢC_LIỆU,Thiên hoa phấn,Thiên hoa phấn,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HAT_MA_TIEN,DƯỢC_LIỆU,Hạt mã tiền,Hạt mã tiền,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGAI_DIEP,DƯỢC_LIỆU,Ngải diệp,Ngải diệp,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,Vương bất lưu hành,Vương bất lưu hành,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HANH_TUOI_CA_RE,DƯỢC_LIỆU,Hành tươi cả rễ,Hành tươi cả rễ,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SINH_BAN_HA,DƯỢC_LIỆU,Sinh bán hạ,Sinh bán hạ,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_PHU_TU_CHE,DƯỢC_LIỆU,Phụ tử chế,Phụ tử chế,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HANH_TUOI_CA_RAU,DƯỢC_LIỆU,Hành tươi cả râu,Hành tươi cả râu,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BAN_HA_CHE,DƯỢC_LIỆU,Bán hạ chế,Bán hạ chế,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_UY_LINH_TIEN,DƯỢC_LIỆU,Uy linh tiên,Uy linh tiên,,,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAI_TAO,DƯỢC_LIỆU,Đại táo,Đại táo,,,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAT_CAN,DƯỢC_LIỆU,Cát căn,Cát căn,,,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TANG_CHI,DƯỢC_LIỆU,Tang chi,Tang chi,,,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SINH_HOANG_KY,DƯỢC_LIỆU,Sinh hoàng kỳ,Sinh hoàng kỳ,,,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_QUY_BAN,DƯỢC_LIỆU,Quy bản,Quy bản,,,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TOA_DUONG,DƯỢC_LIỆU,Tỏa dương,Tỏa dương,,,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THIEN_MA,DƯỢC_LIỆU,Thiên ma,Thiên ma,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_ICH_MAU,DƯỢC_LIỆU,Ích mẫu,Ích mẫu,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_PHUC_THAN,DƯỢC_LIỆU,Phục thần,Phục thần,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAU_DANG,DƯỢC_LIỆU,Câu đằng,Câu đằng,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THACH_QUYET_MINH,DƯỢC_LIỆU,Thạch quyết minh,Thạch quyết minh,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOANG_CAM,DƯỢC_LIỆU,Hoàng cầm,Hoàng cầm,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DA_GIAO_DANG,DƯỢC_LIỆU,Dạ giao đằng,Dạ giao đằng,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LONG_DOM_THAO,DƯỢC_LIỆU,Long đởm thảo,Long đởm thảo,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SAI_HO,DƯỢC_LIỆU,Sài hồ,Sài hồ,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SA_TIEN,DƯỢC_LIỆU,Sa tiền,Sa tiền,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MOC_THONG,DƯỢC_LIỆU,Mộc thông,Mộc thông,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CUC_HOA,DƯỢC_LIỆU,Cúc hoa,Cúc hoa,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BAC_HA,DƯỢC_LIỆU,Bạc hà,Bạc hà,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KY_TU,DƯỢC_LIỆU,Kỷ tử,Kỷ tử,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LOC_GIAC_GIAO,DƯỢC_LIỆU,Lộc giác giao,Lộc giác giao,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CU_MAI,DƯỢC_LIỆU,Củ mài,Củ mài,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THACH_HOC,DƯỢC_LIỆU,Thạch hộc,Thạch hộc,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TIEU_HOI,DƯỢC_LIỆU,Tiểu hồi,Tiểu hồi,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SUNG_HUOU,DƯỢC_LIỆU,Sừng hươu,Sừng hươu,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BA_KICH,DƯỢC_LIỆU,Ba kích,Ba kích,,,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MOC_HUONG,DƯỢC_LIỆU,Mộc hương,Mộc hương,,,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CHICH_CAM_THAO,DƯỢC_LIỆU,Chích cam thảo,Chích cam thảo,,,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SA_NHAN,DƯỢC_LIỆU,Sa nhân,Sa nhân,,,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRU_LINH,DƯỢC_LIỆU,Trư linh,Trư linh,,,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CHI_XAC,DƯỢC_LIỆU,Chỉ xác,Chỉ xác,,,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAT_CANH,DƯỢC_LIỆU,Cát cánh,Cát cánh,,,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KE_DAU_NGUA,DƯỢC_LIỆU,Ké đầu ngựa,Ké đầu ngựa,,,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BO_CONG_ANH,DƯỢC_LIỆU,Bồ công anh,Bồ công anh,,,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAN_SAM,DƯỢC_LIỆU,Đan sâm,Đan sâm,,,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HA_THU_O_DO,DƯỢC_LIỆU,Hà thủ ô đỏ,Hà thủ ô đỏ,,,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NUC_NAC,DƯỢC_LIỆU,Núc nác,Núc nác,,,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HUYET_GIAC,DƯỢC_LIỆU,Huyết giác,Huyết giác,,,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_VO_QUYT,DƯỢC_LIỆU,Vỏ quýt,Vỏ quýt,,,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MAU_LE,DƯỢC_LIỆU,Mẫu lệ,Mẫu lệ,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MIET_GIAP,DƯỢC_LIỆU,Miết giáp,Miết giáp,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LONG_COT,DƯỢC_LIỆU,Long cốt,Long cốt,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THIEN_MON,DƯỢC_LIỆU,Thiên môn,Thiên môn,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HUYEN_SAM,DƯỢC_LIỆU,Huyền sâm,Huyền sâm,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DOM_NAM_TINH,DƯỢC_LIỆU,Đởm nam tinh,Đởm nam tinh,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRUC_NHU,DƯỢC_LIỆU,Trúc nhự,Trúc nhự,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_XUONG_BO,DƯỢC_LIỆU,Xương bồ,Xương bồ,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THACH_XUONG_BO,DƯỢC_LIỆU,Thạch xương bồ,Thạch xương bồ,,,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NHAN_SAM,DƯỢC_LIỆU,Nhân sâm,Nhân sâm,,,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THONG_BACH,DƯỢC_LIỆU,Thông bạch,Thông bạch,,,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THANH_HAO,DƯỢC_LIỆU,Thanh hao,Thanh hao,,,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOANG_LIEN,DƯỢC_LIỆU,Hoàng liên,Hoàng liên,,,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CHI_THUC,DƯỢC_LIỆU,Chỉ thực,Chỉ thực,,,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THIEN_NAM_TINH,DƯỢC_LIỆU,Thiên nam tinh,Thiên nam tinh,,,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LIEN_NHUC,DƯỢC_LIỆU,Liên nhục,Liên nhục,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_BIEN_DAU,DƯỢC_LIỆU,Bạch biển đậu,Bạch biển đậu,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MACH_NHA,DƯỢC_LIỆU,Mạch nha,Mạch nha,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOAC_HUONG,DƯỢC_LIỆU,Hoắc hương,Hoắc hương,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SON_TRA,DƯỢC_LIỆU,Sơn tra,Sơn tra,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THAN_KHUC,DƯỢC_LIỆU,Thần khúc,Thần khúc,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BINH_LANG,DƯỢC_LIỆU,Binh lang,Binh lang,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SU_QUAN_TU,DƯỢC_LIỆU,Sử quân tử,Sử quân tử,,,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DA_CAM,DƯỢC_LIỆU,Dạ cẩm,Dạ cẩm,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DUONG,DƯỢC_LIỆU,Đường,Đường,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_XUYEN_LUYEN_TU,DƯỢC_LIỆU,Xuyên luyện tử,Xuyên luyện tử,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_O_TAC_COT,DƯỢC_LIỆU,Ô tặc cốt,Ô tặc cốt,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_KHOI,DƯỢC_LIỆU,Lá khôi,Lá khôi,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RE_CHUT_CHIT,DƯỢC_LIỆU,Rễ chút chít,Rễ chút chít,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_KHO_SAM,DƯỢC_LIỆU,Lá khổ sâm,Lá khổ sâm,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BO_CONG_ANH_NAM,DƯỢC_LIỆU,Bồ công anh nam,Bồ công anh nam,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NHAN_TRAN,DƯỢC_LIỆU,Nhân trần,Nhân trần,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_A_GIAO_NUONG,DƯỢC_LIỆU,A giao (nướng),A giao (nướng),,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAU_KY_TU,DƯỢC_LIỆU,Câu kỷ tử,Câu kỷ tử,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGU_VI_TU,DƯỢC_LIỆU,Ngũ vị tử,Ngũ vị tử,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TAO_NHAN,DƯỢC_LIỆU,Táo nhân,Táo nhân,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BO_CHINH_SAM,DƯỢC_LIỆU,Bố chính sâm,Bố chính sâm,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_GUNG,DƯỢC_LIỆU,Gừng,Gừng,,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_VO_RUT_NAM_MOC_HUONG,DƯỢC_LIỆU,Vỏ rụt (Nam mộc hương),Vỏ rụt (Nam mộc hương),,,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAM_THAO_DAT,DƯỢC_LIỆU,Cam thảo đất,Cam thảo đất,,,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_SA_SAM,DƯỢC_LIỆU,Sa sâm,Sa sâm,,,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MACH_MON,DƯỢC_LIỆU,Mạch môn,Mạch môn,,,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TANG_DIEP,DƯỢC_LIỆU,Tang diệp,Tang diệp,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LO_CAN,DƯỢC_LIỆU,Lô căn,Lô căn,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THACH_CAO,DƯỢC_LIỆU,Thạch cao,Thạch cao,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_DAU,DƯỢC_LIỆU,Lá dâu,Lá dâu,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_HE,DƯỢC_LIỆU,Lá hẹ,Lá hẹ,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RAU_MA,DƯỢC_LIỆU,Rau má,Rau má,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RE_CO_TRANH_SAO_VANG,DƯỢC_LIỆU,Rễ cỏ tranh (sao vàng),Rễ cỏ tranh (sao vàng),,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TIEN_HO,DƯỢC_LIỆU,Tiền hồ,Tiền hồ,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TO_DIEP,DƯỢC_LIỆU,Tô diệp,Tô diệp,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_XUONG_SONG,DƯỢC_LIỆU,Lá xương sông,Lá xương sông,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LE_BI,DƯỢC_LIỆU,Lê bì,Lê bì,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THO_BOI_MAU,DƯỢC_LIỆU,Thổ bối mẫu,Thổ bối mẫu,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAM_DAU_XI,DƯỢC_LIỆU,Đạm đậu xị,Đạm đậu xị,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_CHANH,DƯỢC_LIỆU,Lá chanh,Lá chanh,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CAM_THAO_DAY,DƯỢC_LIỆU,Cam thảo dây,Cam thảo dây,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TANG_BACH_BI_SAO_MAT,DƯỢC_LIỆU,Tang bạch bì (sao mật),Tang bạch bì (sao mật),,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRUC_DIEP,DƯỢC_LIỆU,Trúc diệp,Trúc diệp,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_QUA_DANH_DANH_SAO_VANG,DƯỢC_LIỆU,Quả dành dành (sao vàng),Quả dành dành (sao vàng),,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRAN_BI_SAO,DƯỢC_LIỆU,Trần bì (sao),Trần bì (sao),,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_GIOI_TU,DƯỢC_LIỆU,Bạch giới tử,Bạch giới tử,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_BAC_TU,DƯỢC_LIỆU,La bạc tử,La bạc tử,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_GUNG_TUOI,DƯỢC_LIỆU,Gừng tươi,Gừng tươi,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HAU_PHAC_NAM,DƯỢC_LIỆU,Hậu phác nam,Hậu phác nam,,,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TU_TO,DƯỢC_LIỆU,Tử tô,Tử tô,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_PHU_BINH,DƯỢC_LIỆU,Phù bình,Phù bình,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BACH_CUONG_TAM,DƯỢC_LIỆU,Bạch cương tàm,Bạch cương tàm,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_NGUU_BANG_TU,DƯỢC_LIỆU,Ngưu bàng tử,Ngưu bàng tử,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DAM_TRUC_DIEP,DƯỢC_LIỆU,Đạm trúc diệp,Đạm trúc diệp,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CO_MAN_TRAU,DƯỢC_LIỆU,Cỏ mần trầu,Cỏ mần trầu,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THUYEN_THOAI,DƯỢC_LIỆU,Thuyền thoái,Thuyền thoái,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KHO_SAM_CHO_LA,DƯỢC_LIỆU,Khổ sâm cho lá,Khổ sâm cho lá,,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HUYET_DU_LA,DƯỢC_LIỆU,Huyết dụ (lá),Huyết dụ (lá),,,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CU_MACH,DƯỢC_LIỆU,Cù mạch,Cù mạch,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_XA_TIEN_TU,DƯỢC_LIỆU,Xa tiền tử,Xa tiền tử,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_BIEN_SUC,DƯỢC_LIỆU,Biển súc,Biển súc,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_MA_DE,DƯỢC_LIỆU,Mã đề,Mã đề,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RAU_NGO,DƯỢC_LIỆU,Râu ngô,Râu ngô,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RE_CO_TRANH,DƯỢC_LIỆU,Rễ cỏ tranh,Rễ cỏ tranh,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RAU_MEO,DƯỢC_LIỆU,Râu mèo,Râu mèo,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KIM_TIEN_THAO,DƯỢC_LIỆU,Kim tiền thảo,Kim tiền thảo,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_VO_RE_CAY_DAU,DƯỢC_LIỆU,Vỏ rễ cây dâu,Vỏ rễ cây dâu,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_TRE,DƯỢC_LIỆU,Lá tre,Lá tre,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_VO_BUOI,DƯỢC_LIỆU,Vỏ bưởi,Vỏ bưởi,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THANH_BI,DƯỢC_LIỆU,Thanh bì,Thanh bì,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_O_DUOC,DƯỢC_LIỆU,Ô dược,Ô dược,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RAU_DANG_DAT,DƯỢC_LIỆU,Rau đắng đất,Rau đắng đất,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_RAU_DUA_NUOC,DƯỢC_LIỆU,Rau dừa nước,Rau dừa nước,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_VO_CAM,DƯỢC_LIỆU,Vỏ cam,Vỏ cam,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DON_BI,DƯỢC_LIỆU,Đơn bì,Đơn bì,,,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOE_HOA_SAO_VANG,DƯỢC_LIỆU,Hòe hoa sao vàng,Hòe hoa sao vàng,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_TRAC_BA_DIEP_SAO_CHAY,DƯỢC_LIỆU,Trắc bá diệp sao cháy,Trắc bá diệp sao cháy,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KINH_GIOI_TUE_SAO_DEN,DƯỢC_LIỆU,Kinh giới tuệ sao đen,Kinh giới tuệ sao đen,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CHI_XAC_SAO,DƯỢC_LIỆU,Chỉ xác sao,Chỉ xác sao,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_HOE_HOA,DƯỢC_LIỆU,Hòe hoa,Hòe hoa,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_LA_MONG,DƯỢC_LIỆU,Lá móng,Lá móng,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_PHEN_PHI,DƯỢC_LIỆU,Phèn phi,Phèn phi,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KHA_TU,DƯỢC_LIỆU,Kha tử,Kha tử,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_DIA_DU,DƯỢC_LIỆU,Địa du,Địa du,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_CO_NGOT,DƯỢC_LIỆU,Cỏ ngọt,Cỏ ngọt,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_KINH_GIOI_SAO_DEN,DƯỢC_LIỆU,Kinh giới sao đen,Kinh giới sao đen,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files
+DL_THANG_MA,DƯỢC_LIỆU,Thăng ma,Thăng ma,,,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,exact_name_or_alias,1.0,no PL05 code available in current project files

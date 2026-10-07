@@ -1,0 +1,19 @@
+﻿entity_id,entity_type,canonical_name,observed_name,official_id,official_code,source_id,disease_id,section_type,pdf_page_start,pdf_page_end,normalization_status,confidence,notes
+BENH_SRC_001_D01,BỆNH_CHỨNG,Yêu thống,Đau cột sống thắt lưng (Yêu thống),6500000,U62.392.5,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,7,14,official_code,1.0,exact title + YHCT
+BENH_SRC_001_D02,BỆNH_CHỨNG,Hạc tất phong,Thoái hóa khớp gối (Hạc tất phong),6500007,U62.261,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,20,official_code,1.0,exact title + YHCT
+BENH_SRC_001_D03,BỆNH_CHỨNG,Thống phong,Gout (Thống phong),6500012,U62.371,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,21,28,official_code,1.0,YHCT exact
+BENH_SRC_001_D05,BỆNH_CHỨNG,Chứng tý,Hội chứng cổ vai cánh tay (Chứng tý),6500042,U62.292,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,43,official_code,1.0,modern condition + YHCT Chứng tý
+BENH_SRC_001_D06,BỆNH_CHỨNG,Huyễn vựng,Tăng huyết áp vô căn (Huyễn vựng),6500048,U58.091,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,44,50,official_code,1.0,modern condition + YHCT exact
+BENH_SRC_001_D07,BỆNH_CHỨNG,Chứng đàm,Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác (Chứng đàm),6500054,U53.151,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,51,58,official_code,1.0,exact condition + YHCT
+BENH_SRC_001_D08,BỆNH_CHỨNG,Khẩu nhãn oa tà,Bệnh dây thần kinh mặt (Khẩu nhãn oa tà),6500062,U55.561,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,63,official_code,1.0,exact condition + YHCT
+BENH_SRC_001_D10,BỆNH_CHỨNG,Yêu cước thống,Đau thần kinh tọa (Yêu cước thống),6500097,U62.392,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,72,78,official_code,1.0,Yêu cước thống exact
+BENH_SRC_001_D11,BỆNH_CHỨNG,Bán thân bất toại,Di chứng nhồi máu não (Bán thân bất toại),6500109,U58.021,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,86,official_code,1.0,YHCT Bán thân bất toại exact
+BENH_SRC_001_D12,BỆNH_CHỨNG,Ngũ trì,Bại não trẻ em (Ngũ trì),6500119,U55.611,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,87,95,official_code,1.0,YHCT Ngũ trì exact
+BENH_SRC_001_D13,BỆNH_CHỨNG,Ôn bệnh,Di chứng viêm não do virus (Ôn bệnh),6500134,U50.481,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,96,103,official_code,1.0,exact condition + YHCT
+BENH_SRC_001_D14,BỆNH_CHỨNG,Cam tích,Suy dinh dưỡng thể marasmus (Cam tích),6500138,U53.071,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,104,110,official_code,1.0,YHCT Cam tích exact
+BENH_SRC_001_D15,BỆNH_CHỨNG,Vị quản thống,Viêm dạ dày và tá tràng (Vị quản thống),6500148,U60.471,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,118,official_code,1.0,general Viêm dạ dày và tá tràng / Vị quản thống
+BENH_SRC_001_D16,BỆNH_CHỨNG,Hiếp thống,Viêm gan virus mạn (Hiếp thống),6500175,U50.102,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,119,124,official_code,1.0,modern condition + YHCT Hiếp thống
+BENH_SRC_001_D17,BỆNH_CHỨNG,Khái thấu,Bệnh phổi tắc nghẽn mạn tính (COPD) (Khái suyễn),6500188,U59.231,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,125,134,official_code,1.0,source pattern diagnosis explicitly uses Khái thấu
+BENH_SRC_001_D18,BỆNH_CHỨNG,Ẩn chẩn,Mày đay (Ẩn chẩn),6500195,U61.011,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,139,official_code,1.0,YHCT Ẩn chẩn exact
+BENH_SRC_001_D19,BỆNH_CHỨNG,Lung bế,Bí đái cơ năng (Long bế),6500216,U66.372,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,official_code,1.0,source diagnosis says Long bế; reference uses Lung bế spelling
+BENH_SRC_001_D20,BỆNH_CHỨNG,Hạ trĩ,Bệnh trĩ (Hạ trĩ),6500222,U58.762,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,official_code,1.0,YHCT Hạ trĩ exact

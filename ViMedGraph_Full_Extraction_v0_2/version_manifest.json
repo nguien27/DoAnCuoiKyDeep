@@ -1,0 +1,18 @@
+{
+  "version": "v0.2",
+  "policy": "no_guess_no_cross_context_code_reuse",
+  "candidate_input": 464,
+  "candidate_closed_non_entity": 216,
+  "candidate_active_unresolved": 248,
+  "candidate_auto_promoted": 0,
+  "disease_mapping_backlog": 18,
+  "pattern_mapping_backlog": 92,
+  "kg_core_entities": 1117,
+  "kg_core_explicit_relations": 1890,
+  "kg_core_derived_relations": 572,
+  "qa": {
+    "duplicate_entities": 0,
+    "duplicate_relations": 0,
+    "dangling_endpoints": 0
+  }
+}

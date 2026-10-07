@@ -1,0 +1,37 @@
+﻿disease_id,source_id,disease_index,disease_name,yhct_name,full_title,pdf_page_start,pdf_page_end,document_page_start,document_page_end,expected_document_page_start_from_toc,title_line_count,body_clean_line_count,body_clean_char_count
+SRC_001_D01,SRC_001,1,Đau cột sống thắt lưng,Yêu thống,Đau cột sống thắt lưng (Yêu thống),7,14,7,14,7,2,462,15283
+SRC_001_D02,SRC_001,2,Thoái hóa khớp gối,Hạc tất phong,Thoái hóa khớp gối (Hạc tất phong),15,20,15,20,15,2,371,12403
+SRC_001_D03,SRC_001,3,Gout,Thống phong,Gout (Thống phong),21,28,21,28,21,2,482,13883
+SRC_001_D04,SRC_001,4,Viêm khớp dạng thấp,Chứng tý,Viêm khớp dạng thấp (Chứng tý),29,36,29,36,29,2,473,15611
+SRC_001_D05,SRC_001,5,Hội chứng cổ vai cánh tay,Chứng tý,Hội chứng cổ vai cánh tay (Chứng tý),37,43,37,43,37,2,417,12963
+SRC_001_D06,SRC_001,6,Tăng huyết áp vô căn,Huyễn vựng,Tăng huyết áp vô căn (Huyễn vựng),44,50,44,50,44,2,467,13506
+SRC_001_D07,SRC_001,7,Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác,Chứng đàm,Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác (Chứng đàm),51,58,51,58,51,3,457,15205
+SRC_001_D08,SRC_001,8,Bệnh dây thần kinh mặt,Khẩu nhãn oa tà,Bệnh dây thần kinh mặt (Khẩu nhãn oa tà),59,63,59,63,59,2,283,9693
+SRC_001_D09,SRC_001,9,Đau dây thần kinh liên sườn,Hiếp thống,Đau dây thần kinh liên sườn (Hiếp thống),64,71,64,71,64,2,429,14306
+SRC_001_D10,SRC_001,10,Đau thần kinh tọa,Yêu cước thống,Đau thần kinh tọa (Yêu cước thống),72,78,72,78,72,2,419,13571
+SRC_001_D11,SRC_001,11,Di chứng nhồi máu não,Bán thân bất toại,Di chứng nhồi máu não (Bán thân bất toại),79,86,79,86,79,2,468,13586
+SRC_001_D12,SRC_001,12,Bại não trẻ em,Ngũ trì,Bại não trẻ em (Ngũ trì),87,95,87,95,87,2,482,18681
+SRC_001_D13,SRC_001,13,Di chứng viêm não do virus,Ôn bệnh,Di chứng viêm não do virus (Ôn bệnh),96,103,96,103,96,2,394,15850
+SRC_001_D14,SRC_001,14,Suy dinh dưỡng thể marasmus,Cam tích,Suy dinh dưỡng thể marasmus (Cam tích),104,110,104,110,104,2,364,14170
+SRC_001_D15,SRC_001,15,Viêm dạ dày và tá tràng,Vị quản thống,Viêm dạ dày và tá tràng (Vị quản thống),111,118,111,118,111,2,487,14446
+SRC_001_D16,SRC_001,16,Viêm gan virus mạn,Hiếp thống,Viêm gan virus mạn (Hiếp thống),119,124,119,124,119,2,297,11428
+SRC_001_D17,SRC_001,17,Bệnh phổi tắc nghẽn mạn tính (COPD),Khái suyễn,Bệnh phổi tắc nghẽn mạn tính (COPD) (Khái suyễn),125,134,125,134,125,2,558,18907
+SRC_001_D18,SRC_001,18,Mày đay,Ẩn chẩn,Mày đay (Ẩn chẩn),135,139,135,139,135,2,269,8382
+SRC_001_D19,SRC_001,19,Bí đái cơ năng,Long bế,Bí đái cơ năng (Long bế),140,145,140,145,140,2,347,11375
+SRC_001_D20,SRC_001,20,Bệnh trĩ,Hạ trĩ,Bệnh trĩ (Hạ trĩ),146,151,146,151,146,2,329,13186
+SRC_002_D01,SRC_002,1,Cảm mạo,Cảm mạo,Cảm mạo (Cảm mạo),6,21,5,20,5,1,892,29879
+SRC_002_D02,SRC_002,2,Viêm mũi do vận mạch và dị ứng,"Tỵ cừu, tỵ uyên","Viêm mũi do vận mạch và dị ứng (Tỵ cừu, tỵ uyên)",22,28,21,27,21,1,358,13155
+SRC_002_D03,SRC_002,3,Sốt xuất huyết Dengue,Ôn bệnh,Sốt xuất huyết Dengue (Ôn bệnh),29,37,28,36,28,1,460,14163
+SRC_002_D04,SRC_002,4,Bệnh trào ngược dạ dày - thực quản,Vị khí nghịch,Bệnh trào ngược dạ dày - thực quản (Vị khí nghịch),38,46,37,45,37,1,451,16382
+SRC_002_D05,SRC_002,5,Hội chứng ruột kích thích,"Tiết tả, táo bón hoặc xen kẽ","Hội chứng ruột kích thích (Tiết tả, táo bón hoặc xen kẽ)",47,57,46,56,46,1,509,18872
+SRC_002_D06,SRC_002,6,Táo bón,Tiện bí,Táo bón (Tiện bí),58,68,57,67,57,1,499,17324
+SRC_002_D07,SRC_002,7,Đái dầm,Di niệu,Đái dầm (Di niệu),69,78,68,77,68,1,458,18819
+SRC_002_D08,SRC_002,8,Sỏi tiết niệu,Thạch lâm,Sỏi tiết niệu (Thạch lâm),79,85,78,84,78,1,331,10973
+SRC_002_D09,SRC_002,9,Tăng sinh lành tính tuyến tiền liệt,Long bế,Tăng sinh lành tính tuyến tiền liệt (Long bế),86,91,85,90,85,1,301,12051
+SRC_002_D10,SRC_002,10,Loãng xương không kèm gẫy xương bệnh lý,Cốt tý,Loãng xương không kèm gẫy xương bệnh lý (Cốt tý),92,101,91,100,91,1,514,16250
+SRC_002_D11,SRC_002,11,Đái tháo đường không phụ thuộc insulin,Tiêu khát,Đái tháo đường không phụ thuộc insulin (Tiêu khát),102,111,101,110,101,1,475,18818
+SRC_002_D12,SRC_002,12,Suy nhược cơ thể (khó ở và mệt mỏi),Hư lao,Suy nhược cơ thể (khó ở và mệt mỏi) (Hư lao),112,131,111,130,111,1,1101,34535
+SRC_002_D13,SRC_002,13,Mất ngủ không thực tổn,Thất miên,Mất ngủ không thực tổn (Thất miên),132,142,131,141,131,1,524,17984
+SRC_002_D14,SRC_002,14,Rối loạn chức năng tiền đình,Huyễn vựng,Rối loạn chức năng tiền đình (Huyễn vựng),143,153,142,152,142,1,578,18239
+SRC_002_D15,SRC_002,15,Nhồi máu não,Trúng phong thiên khô,Nhồi máu não (Trúng phong thiên khô),154,173,153,172,153,1,900,31651
+SRC_002_D16,SRC_002,16,Xuất huyết não,Trúng phong,Xuất huyết não (Trúng phong),174,184,173,183,173,1,518,18789

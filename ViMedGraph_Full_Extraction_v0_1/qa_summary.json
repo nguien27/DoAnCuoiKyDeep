@@ -1,0 +1,21 @@
+{
+  "package_version": "v0.1",
+  "diseases": 36,
+  "patterns": 159,
+  "entities": 1227,
+  "relations": 2554,
+  "explicit_relations": 1982,
+  "derived_relations": 572,
+  "candidate_mentions": 464,
+  "duplicate_entity_ids": 0,
+  "duplicate_relations": 0,
+  "dangling_relation_endpoints": 0,
+  "invalid_page_ranges": 0,
+  "source_support_failures": 0,
+  "src001_unique_disease_mappings": 18,
+  "src001_ambiguous_disease_mappings": 2,
+  "src002_unmapped_disease_mappings": 16,
+  "disease_pattern_relation_count": 159,
+  "pattern_relation_count_matches_parsed": true,
+  "reference_quality_flags_used": 1
+}

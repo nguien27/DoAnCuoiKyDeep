@@ -1,0 +1,17 @@
+﻿metric,value,note
+candidate_mentions_input,464,all candidate mentions from v0.1
+closed_non_entity_markers,216,"generic markers kept as text, not KG nodes"
+active_unresolved_candidates,248,named formulas + raw symptom paragraphs still require evidence/registry
+unresolved_named_formula_candidates,158,explicit in source; no safe same-context code
+unresolved_raw_symptom_paragraphs,90,not split while parent pattern unresolved
+formula_names_found_elsewhere_in_registry,41,not mapped because context differs/unresolved
+formula_names_absent_from_current_registry,117,kept source-local candidate
+disease_mapping_backlog,18,2 SRC_001 ambiguous + 16 SRC_002 unmapped
+pattern_mapping_backlog,92,10 SRC_001 ambiguous + 82 SRC_002 unmapped
+kg_core_entities,1117,official_code or exact_name_or_alias only
+kg_core_explicit_relations,1890,both endpoints in KG core
+kg_core_derived_relations,572,kept separate from explicit
+kg_core_duplicate_entity_ids,0,must be 0
+kg_core_duplicate_relations,0,must be 0
+kg_core_dangling_endpoints,0,must be 0
+same_context_candidate_matches_auto_promoted,0,no automatic candidate promotion in this pass

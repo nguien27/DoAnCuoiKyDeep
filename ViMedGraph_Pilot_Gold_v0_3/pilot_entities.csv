@@ -1,0 +1,125 @@
+﻿entity_id,entity_type,canonical_name,official_id,official_code,parent_code,modern_name,icd10,source_file,source_pages,normalization_status,annotation_status,notes
+BENH_U62_392_5,BỆNH_CHỨNG,Yêu thống,6500000,U62.392.5,,Đau cột sống thắt lưng,M54.5,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,1,official_code,source_verified,
+BENH_U62_261,BỆNH_CHỨNG,Hạc tất phong,6500007,U62.261,,Thoái hoá khớp gối,M17,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,1,official_code,source_verified,
+BENH_U62_371,BỆNH_CHỨNG,Thống phong,6500012,U62.371,,Gút (thống phong),M10,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,1,official_code,source_verified,
+BENH_U62_021,BỆNH_CHỨNG,Chứng tý,6500018,U62.021,,Viêm khớp dạng thấp huyết thanh dương tính,M05,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,2,official_code,source_verified,
+THE_U62_392_5_01,THỂ_BỆNH,Thể hàn thấp,6500001,U62.392.5.01,U62.392.5,,,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,1,official_code,source_verified,
+THE_U62_261_01,THỂ_BỆNH,Thể phong hàn thấp tý,6500008,U62.261.01,U62.261,,,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,1,official_code,source_verified,
+THE_U62_371_01,THỂ_BỆNH,Thể phong thấp nhiệt,6500013,U62.371.01,U62.371,,,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,1,official_code,source_verified,
+THE_U62_021_01,THỂ_BỆNH,Thể phong thấp,6500019,U62.021.01,U62.021,,,SRC_003_PL01_Danh_muc_the_lam_sang.pdf,2,official_code,source_verified,
+TC_6541000,TRIỆU_CHỨNG,Đau nhiều vùng thắt lưng,6541000,U62.392.5.01.Đ01,U62.392.5.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,1,official_code,source_verified,
+TC_6541001,TRIỆU_CHỨNG,"Đau tăng khi trời lạnh, ẩm",6541001,U62.392.5.01.Đ02,U62.392.5.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,1,official_code,source_verified,
+TC_6541002,TRIỆU_CHỨNG,"Cơ cạnh cột sống co cứng, không đỏ",6541002,U62.392.5.01.Đ03,U62.392.5.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,1,official_code,source_verified,
+TC_6541003,TRIỆU_CHỨNG,Ấn đau,6541003,U62.392.5.01.Đ04,U62.392.5.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,1,official_code,source_verified,
+TC_6541004,TRIỆU_CHỨNG,Sợ lạnh,6541004,U62.392.5.01.Đ05,U62.392.5.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,1,official_code,source_verified,
+TC_6541005,TRIỆU_CHỨNG,Triệu chứng khác,6541005,U62.392.5.01.Đ06,U62.392.5.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,1,official_code,source_verified,
+TC_6541038,TRIỆU_CHỨNG,"Khớp gối đau, sưng nề, không nóng đỏ",6541038,U62.261.01.Đ01,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541039,TRIỆU_CHỨNG,"Đau tăng khi trời lạnh, ẩm",6541039,U62.261.01.Đ02,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541040,TRIỆU_CHỨNG,Hạn chế vận động khớp gối một bên,6541040,U62.261.01.Đ03,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541041,TRIỆU_CHỨNG,Hạn chế vận động khớp gối hai bên,6541041,U62.261.01.Đ04,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541042,TRIỆU_CHỨNG,Sợ lạnh,6541042,U62.261.01.Đ05,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541043,TRIỆU_CHỨNG,Sợ gió,6541043,U62.261.01.Đ06,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541044,TRIỆU_CHỨNG,Không sốt,6541044,U62.261.01.Đ07,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541045,TRIỆU_CHỨNG,Đỡ đau khi chườm nóng,6541045,U62.261.01.K01,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541046,TRIỆU_CHỨNG,Triệu chứng khác,6541046,U62.261.01.Đ08,U62.261.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,3,official_code,source_verified,
+TC_6541071,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau một khớp",6541071,U62.371.01.Đ01,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541072,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau nhiều khớp",6541072,U62.371.01.Đ02,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541073,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau khớp bàn ngón chân cái",6541073,U62.371.01.Đ03,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541074,TRIỆU_CHỨNG,Đau cự án,6541074,U62.371.01.Đ04,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541075,TRIỆU_CHỨNG,Phát sốt,6541075,U62.371.01.Đ05,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541076,TRIỆU_CHỨNG,Sợ gió,6541076,U62.371.01.Đ06,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541077,TRIỆU_CHỨNG,Miệng khô khát,6541077,U62.371.01.Đ07,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541078,TRIỆU_CHỨNG,Phiền táo bứt rứt không yên,6541078,U62.371.01.Đ08,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541079,TRIỆU_CHỨNG,Tiểu vàng số lượng ít,6541079,U62.371.01.Đ09,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541080,TRIỆU_CHỨNG,Triệu chứng khác,6541080,U62.371.01.Đ10,U62.371.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,5,official_code,source_verified,
+TC_6541114,TRIỆU_CHỨNG,Các khớp và cơ nhục đau mỏi,6541114,U62.021.01.Đ01,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,7,official_code,source_verified,
+TC_6541115,TRIỆU_CHỨNG,Các khớp sưng đau,6541115,U62.021.01.Đ02,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,7,official_code,source_verified,
+TC_6541116,TRIỆU_CHỨNG,Đau có tính chất di chuyển và xảy ra ở các khớp nhỏ,6541116,U62.021.01.Đ03,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,7,official_code,source_verified,
+TC_6541117,TRIỆU_CHỨNG,Đau có tính chất di chuyển và xảy ở các khớp nhỡ,6541117,U62.021.01.Đ04,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,7,official_code,source_verified,
+TC_6541118,TRIỆU_CHỨNG,Đau có tính chất di chuyển và xảy ở các khớp nhỏ và nhỡ,6541118,U62.021.01.Đ05,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,7,official_code,source_verified,
+TC_6541119,TRIỆU_CHỨNG,Các khớp co duỗi khó khăn,6541119,U62.021.01.Đ06,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,7,official_code,source_verified,
+TC_6541120,TRIỆU_CHỨNG,Các khớp cảm giác nặng nề,6541120,U62.021.01.Đ07,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,8,official_code,source_verified,
+TC_6541121,TRIỆU_CHỨNG,Bì phù có cảm giác tê bì,6541121,U62.021.01.Đ08,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,8,official_code,source_verified,
+TC_6541122,TRIỆU_CHỨNG,Sợ gió,6541122,U62.021.01.Đ09,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,8,official_code,source_verified,
+TC_6541123,TRIỆU_CHỨNG,Phát sốt,6541123,U62.021.01.Đ10,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,8,official_code,source_verified,
+TC_6541124,TRIỆU_CHỨNG,Triệu chứng khác,6541124,U62.021.01.Đ11,U62.021.01,,,SRC_004_PL01_Danh_muc_trieu_chung.pdf,8,official_code,source_verified,
+BT_6586400,BÀI_THUỐC,Can khương thương truật thang,6586400,U62.392.5.01.CP001,U62.392.5.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586401,BÀI_THUỐC,Đối pháp lập phương,6586401,U62.392.5.01.ĐP001,U62.392.5.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586402,BÀI_THUỐC,Nghiệm phương,6586402,U62.392.5.01.NP001,U62.392.5.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586415,BÀI_THUỐC,Ý dĩ nhân thang,6586415,U62.261.01.CP006,U62.261.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,4;5,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586416,BÀI_THUỐC,Ô đầu thang,6586416,U62.261.01.CP007,U62.261.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586417,BÀI_THUỐC,Đối pháp lập phương,6586417,U62.261.01.ĐP005,U62.261.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586418,BÀI_THUỐC,Nghiệm phương,6586418,U62.261.01.NP006,U62.261.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586427,BÀI_THUỐC,Tuyên tý thang hợp Tam diệu thang,6586427,U62.371.01.CP011,U62.371.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586428,BÀI_THUỐC,Bạch hổ quế chi thang,6586428,U62.371.01.CP012,U62.371.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586429,BÀI_THUỐC,Tứ diệu thang,6586429,U62.371.01.CP013,U62.371.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586430,BÀI_THUỐC,Thuốc dùng ngoài,6586430,U62.371.01.DN001,U62.371.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586431,BÀI_THUỐC,Thuốc dùng ngoài,6586431,U62.371.01.DN002,U62.371.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,9,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586440,BÀI_THUỐC,Quyên tý thang,6586440,U62.021.01.CP018,U62.021.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586441,BÀI_THUỐC,Đối pháp lập phương,6586441,U62.021.01.ĐP008,U62.021.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,12,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+BT_6586442,BÀI_THUỐC,Nghiệm phương,6586442,U62.021.01.NP009,U62.021.01,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,12,official_code,source_verified,"Tên 'Đối pháp lập phương', 'Nghiệm phương', 'Thuốc dùng ngoài' được giữ nguyên theo phụ lục."
+DL_CAN_KHUONG,DƯỢC_LIỆU,Can khương,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_THUONG_TRUAT,DƯỢC_LIỆU,Thương truật,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1;8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_XUYEN_KHUNG,DƯỢC_LIỆU,Xuyên khung,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1;11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_QUE_CHI,DƯỢC_LIỆU,Quế chi,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1;4;5;8;11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_Y_DI,DƯỢC_LIỆU,Ý dĩ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1;4;5;8;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_BACH_LINH,DƯỢC_LIỆU,Bạch linh,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_CAM_THAO,DƯỢC_LIỆU,Cam thảo,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1;4;5;8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_LA_LOT,DƯỢC_LIỆU,Lá lốt,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_THIEN_NIEN_KIEN,DƯỢC_LIỆU,Thiên niên kiện,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1;5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_RE_CAY_XAU_HO,DƯỢC_LIỆU,Rễ cây xấu hổ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_SINH_DIA,DƯỢC_LIỆU,Sinh địa,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_SAI_DAT,DƯỢC_LIỆU,Sài đất,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_THO_PHUC_LINH,DƯỢC_LIỆU,Thổ phục linh,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1;5;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HA_THU_O,DƯỢC_LIỆU,Hà thủ ô,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_CO_XUOC,DƯỢC_LIỆU,Cỏ xước,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,1,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_BACH_THUOC,DƯỢC_LIỆU,Bạch thược,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,4;5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_BACH_TRUAT,DƯỢC_LIỆU,Bạch truật,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,4;5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_DUONG_QUY,DƯỢC_LIỆU,Đương quy,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,4;5;11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_MA_HOANG,DƯỢC_LIỆU,Ma hoàng,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,4;5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_SINH_KHUONG,DƯỢC_LIỆU,Sinh khương,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,4;5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HAC_PHU_TU,DƯỢC_LIỆU,Hắc phụ tử,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HOANG_KY,DƯỢC_LIỆU,Hoàng kỳ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_MAT_ONG,DƯỢC_LIỆU,Mật ong,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_RE_XAU_HO,DƯỢC_LIỆU,Rễ xấu hổ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_DAY_GAM,DƯỢC_LIỆU,Dây gắm,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_NGUU_TAT,DƯỢC_LIỆU,Ngưu tất,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5;8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_DAY_DAU_XUONG,DƯỢC_LIỆU,Dây đau xương,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_KE_HUYET_DANG,DƯỢC_LIỆU,Kê huyết đằng,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HY_THIEM,DƯỢC_LIỆU,Hy thiêm,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,5;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HOAT_THACH,DƯỢC_LIỆU,Hoạt thạch,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HANH_NHAN,DƯỢC_LIỆU,Hạnh nhân,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_XICH_TIEU_DAU,DƯỢC_LIỆU,Xích tiểu đậu,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_CHI_TU,DƯỢC_LIỆU,Chi tử,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HOANG_BA,DƯỢC_LIỆU,Hoàng bá,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_TY_GIAI,DƯỢC_LIỆU,Tỳ giải,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HY_THIEM_THAO,DƯỢC_LIỆU,Hy thiêm thảo,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_LIEN_KIEU,DƯỢC_LIỆU,Liên kiều,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_SINH_THACH_CAO,DƯỢC_LIỆU,Sinh thạch cao,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_TRI_MAU,DƯỢC_LIỆU,Tri mẫu,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_NGANH_ME,DƯỢC_LIỆU,Ngạnh mễ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_SINH_Y_DI,DƯỢC_LIỆU,Sinh ý dĩ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_DAI_HOANG,DƯỢC_LIỆU,Đại hoàng,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_KHUONG_HOANG,DƯỢC_LIỆU,Khương hoàng,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_NAM_TINH,DƯỢC_LIỆU,Nam tinh,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_BACH_CHI,DƯỢC_LIỆU,Bạch chỉ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_TRAN_BI,DƯỢC_LIỆU,Trần bì,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HAU_PHAC,DƯỢC_LIỆU,Hậu phác,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_THIEN_HOA_PHAN,DƯỢC_LIỆU,Thiên hoa phấn,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,8;9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HAT_MA_TIEN,DƯỢC_LIỆU,Hạt mã tiền,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_NGAI_DIEP,DƯỢC_LIỆU,Ngải diệp,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,Vương bất lưu hành,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HANH_TUOI_CA_RE,DƯỢC_LIỆU,Hành tươi cả rễ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_SINH_BAN_HA,DƯỢC_LIỆU,Sinh bán hạ,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HONG_HOA,DƯỢC_LIỆU,Hồng hoa,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,9,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_TANG_CHI,DƯỢC_LIỆU,Tang chi,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_DOC_HOAT,DƯỢC_LIỆU,Độc hoạt,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_MOC_HUONG,DƯỢC_LIỆU,Mộc hương,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_CHICH_CAM_THAO,DƯỢC_LIỆU,Chích cam thảo,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_TAN_GIAO,DƯỢC_LIỆU,Tần giao,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_KHUONG_HOAT,DƯỢC_LIỆU,Khương hoạt,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_HAI_PHONG_DANG,DƯỢC_LIỆU,Hải phong đằng,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_NHU_HUONG,DƯỢC_LIỆU,Nhũ hương,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,11;12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_KE_DAU_NGUA,DƯỢC_LIỆU,Ké đầu ngựa,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_UY_LINH_TIEN,DƯỢC_LIỆU,Uy linh tiên,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.
+DL_CAM_THAO_NAM,DƯỢC_LIỆU,Cam thảo nam,,,,,,SRC_004_PL06_Bai_thuoc_thanh_phan_duoc_lieu_the_benh.pdf,12,exact_name_only,source_verified,Chưa gán mã dược liệu chính thức; cần đối chiếu Phụ lục V của QĐ3080.

@@ -1,0 +1,7 @@
+﻿version_from,version_to,action,target,reason
+v0.1,v0.2,REMOVE_RELATION,BT_6586402 --GỒM--> DL_THUONG_TRUAT,Đường kẻ bảng cuối trang 1 PL06 cho thấy Thương truật thuộc bản ghi kế tiếp 6586403 Tứ diệu tán.
+v0.2,v0.3,FIX_METADATA,4 BỆNH_CHỨNG,Bổ sung official_id 650xxxx đúng theo SRC_003_PL01.
+v0.2,v0.3,FIX_SOURCE_TEXT,BENH_U62_261.modern_name,Đổi về đúng cách viết trong nguồn: Thoái hoá khớp gối.
+v0.2,v0.3,NORMALIZE_PAGES,source_pages,Chuẩn hóa khoảng trang dạng a-b thành danh sách a;b để máy xử lý nhất quán.
+v0.2,v0.3,FIX_README,README explicit_relation_count,"Sửa dòng mô tả 152 thành 151, khớp dữ liệu thực tế."
+v0.2,v0.3,FIX_METADATA,4 THỂ_BỆNH pilot,Bổ sung official_id 650xxxx đúng theo SRC_003_PL01.

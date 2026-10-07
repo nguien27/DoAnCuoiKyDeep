@@ -1,0 +1,21 @@
+{
+  "version": "v0.3",
+  "scope": "4 bệnh/chứng, mỗi bệnh chọn 1 thể bệnh đại diện để làm gold kỹ thuật ban đầu",
+  "disease_count": 4,
+  "pattern_count": 4,
+  "symptom_count": 36,
+  "formula_count": 15,
+  "unique_herb_count": 65,
+  "entity_count": 124,
+  "explicit_relation_count": 151,
+  "derived_relation_count": 36,
+  "all_relation_count": 187,
+  "correction_from_v0.1": "Đã loại BT_6586402 --GỒM--> DL_THUONG_TRUAT. Kiểm tra đường kẻ bảng ở cuối trang 1 Phụ lục VI cho thấy Thương truật thuộc bản ghi kế tiếp 6586403 Tứ diệu tán.",
+  "corrections_v0_3": [
+    "Bổ sung official_id cho 4 BỆNH_CHỨNG.",
+    "Bổ sung official_id cho 4 THỂ_BỆNH.",
+    "Giữ nguyên cách viết nguồn Thoái hoá khớp gối.",
+    "Chuẩn hóa source_pages về dạng phân tách bằng dấu chấm phẩy.",
+    "Sửa README: explicit relation = 151."
+  ]
+}

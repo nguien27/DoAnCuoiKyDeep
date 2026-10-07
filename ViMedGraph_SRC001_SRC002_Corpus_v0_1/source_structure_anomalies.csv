@@ -1,0 +1,4 @@
+﻿source_id,disease_id,pdf_page,section_title,anomaly_type,observed_roman,observed_value,expected_value,action
+SRC_001,SRC_001_D15,117,VI. KẾT HỢP ĐIỀU TRỊ Y HỌC HIỆN ĐẠI,roman_sequence_anomaly,VI,6,4,preserved_source_no_auto_fix
+SRC_001,SRC_001_D17,127,V. CÁC THỂ LÂM SÀNG VÀ ĐIỀU TRỊ,roman_sequence_anomaly,V,5,3,preserved_source_no_auto_fix
+SRC_002,SRC_002_D09,91,IV. PHÒNG BỆNH,roman_sequence_anomaly,IV,4,5,preserved_source_no_auto_fix

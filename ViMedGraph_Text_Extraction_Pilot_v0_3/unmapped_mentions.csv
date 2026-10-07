@@ -1,0 +1,7 @@
+﻿mention_type,observed_name,pattern_code,source_id,status,reason,action
+BÀI_THUỐC,Tam tý thang,U62.261.02,SRC_001,unmapped_candidate,Không có entry mã hóa tương ứng trong PL06 pilot reference.,keep_candidate_no_auto_code
+UNCODED_TREATMENT_INSTRUCTION,Đối pháp lập phương,U62.392.5.02,SRC_001,preserved_not_promoted,Có trong prose nhưng PL06 không cấp mã cho thể này; tránh tự tạo BÀI_THUỐC không có chuẩn.,keep_as_text_attribute_or_candidate
+UNCODED_TREATMENT_INSTRUCTION,Đối pháp lập phương,U62.371.01,SRC_001,preserved_not_promoted,Có trong prose nhưng PL06 không cấp mã cho thể này; tránh tự tạo BÀI_THUỐC không có chuẩn.,keep_as_text_attribute_or_candidate
+UNCODED_TREATMENT_INSTRUCTION,Đối pháp lập phương,U62.371.02,SRC_001,preserved_not_promoted,Có trong prose nhưng PL06 không cấp mã cho thể này; tránh tự tạo BÀI_THUỐC không có chuẩn.,keep_as_text_attribute_or_candidate
+UNCODED_TREATMENT_INSTRUCTION,Đối pháp lập phương,U62.371.03,SRC_001,preserved_not_promoted,Có trong prose nhưng PL06 không cấp mã cho thể này; tránh tự tạo BÀI_THUỐC không có chuẩn.,keep_as_text_attribute_or_candidate
+UNCODED_TREATMENT_INSTRUCTION,Đối pháp lập phương,U62.371.04,SRC_001,preserved_not_promoted,Có trong prose nhưng PL06 không cấp mã cho thể này; tránh tự tạo BÀI_THUỐC không có chuẩn.,keep_as_text_attribute_or_candidate

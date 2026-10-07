@@ -1,0 +1,159 @@
+﻿candidate_type,source_id,disease_id,pattern_entity_id,observed_text,candidate_name,candidate_code,reason
+BÀI_THUỐC,SRC_001,SRC_001_D02,THE_SRC_001_D02_P02_2,Tam tý thang,Tam tý thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D04,THE_SRC_001_D04_P01_1,Quyên tý thang,Quyên tý thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D04,THE_SRC_001_D04_P02_2,Can khương thương truật thang,Can khương thương truật thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D04,THE_SRC_001_D04_P03_3,Quế chi thược dược tri mẫu thang,Quế chi thược dược tri mẫu thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D04,THE_SRC_001_D04_P03_3,"Quế chi thược dược tri mẫu thang bỏ Quế chi gia Huyền sâm, Sinh địa,","Quế chi thược dược tri mẫu thang bỏ Quế chi gia Huyền sâm, Sinh địa,",,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D05,THE_SRC_001_D05_P02_2,Bạch hổ gia quế chi thang,Bạch hổ gia quế chi thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D06,THE_SRC_001_D06_P02_2,Viên thận âm hư,Viên thận âm hư,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D06,THE_SRC_001_D06_P03_3,Viên thận dương hư,Viên thận dương hư,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D08,THE_SRC_001_D08_P03_3,Tứ vật đào hồng,Tứ vật đào hồng,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D09,THE_SRC_001_D09_P01_1,Can khương thương truật thang,Can khương thương truật thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D09,THE_SRC_001_D09_P02_2,Sài hồ sơ can tán,Sài hồ sơ can tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D09,THE_SRC_001_D09_P03_3,Đan chi tiêu dao,Đan chi tiêu dao,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D09,THE_SRC_001_D09_P04_4,Tiểu sài hồ thang,Tiểu sài hồ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D09,THE_SRC_001_D09_P05_5,Huyết phủ trục ứ thang,Huyết phủ trục ứ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D09,THE_SRC_001_D09_P06_6,Long đởm tả can thang,Long đởm tả can thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D10,THE_SRC_001_D10_P01_1,Can khương thương truật linh phụ thang gia giảm,Can khương thương truật linh phụ thang gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D10,THE_SRC_001_D10_P02_2,Độc hoạt tang ký sinh thang,Độc hoạt tang ký sinh thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D10,THE_SRC_001_D10_P03_3,Thân thống trục ứ thang,Thân thống trục ứ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D12,THE_SRC_001_D12_P03_3,Thông khiếu hoạt huyết thang,Thông khiếu hoạt huyết thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D12,THE_SRC_001_D12_P03_3,Nhị trần thang,Nhị trần thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D13,THE_SRC_001_D13_P01_1,Lục vị địa,Lục vị địa,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D14,THE_SRC_001_D14_P01_1,Tư sinh kiện tỳ hoàn gia giảm,Tư sinh kiện tỳ hoàn gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D14,THE_SRC_001_D14_P03_3,Bột cam cóc,Bột cam cóc,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D15,THE_SRC_001_D15_P03_1_3,Thất tiếu tán,Thất tiếu tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D15,THE_SRC_001_D15_P03_1_3,Hoàng thổ thang gia giảm,Hoàng thổ thang gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D15,THE_SRC_001_D15_P03_1_3,Tứ quân tử thang gia vị,Tứ quân tử thang gia vị,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D19,THE_SRC_001_D19_P01_1,Nam Y nghiệm phương,Nam Y nghiệm phương,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D19,THE_SRC_001_D19_P02_2,Thanh phế ẩm,Thanh phế ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D19,THE_SRC_001_D19_P02_2,Nam Y nghiệm phương,Nam Y nghiệm phương,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D19,THE_SRC_001_D19_P03_3,Sài hồ sơ can thang,Sài hồ sơ can thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D19,THE_SRC_001_D19_P03_3,Trầm hương giải khí tán,Trầm hương giải khí tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D19,THE_SRC_001_D19_P03_3,Nam Y nghiệm phương,Nam Y nghiệm phương,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_001,SRC_001_D19,THE_SRC_001_D19_P04_4,Nam Y nghiệm phương,Nam Y nghiệm phương,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Thông xị thang gia vị,Thông xị thang gia vị,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Kinh phòng bại độc tán gia giảm,Kinh phòng bại độc tán gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Thông xị thang,Thông xị thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Kinh phòng bại độc tán,Kinh phòng bại độc tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Khương hoạt thắng thấp thang,Khương hoạt thắng thấp thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Nhị trần thang,Nhị trần thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Ma hạnh thạch cam thang,Ma hạnh thạch cam thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P01_1,Phòng phong thông thánh tán,Phòng phong thông thánh tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P02_2,Ngân kiều tán,Ngân kiều tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P02_2,Tang cúc ẩm,Tang cúc ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P02_2,Lục nhất tán,Lục nhất tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P03_3,Tân gia hương nhu ẩm,Tân gia hương nhu ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P03_3,Lục nhất tán,Lục nhất tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P04_4_1,Sâm tô ẩm,Sâm tô ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P04_4_1,Bổ trung ích khí thang,Bổ trung ích khí thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P04_4_1,Ngọc bình phong tán,Ngọc bình phong tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P04_4_1,Ma hoàng phụ tử tế tân thang,Ma hoàng phụ tử tế tân thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D01,THE_SRC_002_D01_P05_4_2,Gia giảm uy nhuy thang,Gia giảm uy nhuy thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D02,THE_SRC_002_D02_P01_1,Ôn Phế chỉ lưu đan,Ôn Phế chỉ lưu đan,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D02,THE_SRC_002_D02_P01_1,Sâm linh bạch truật tán gia giảm,Sâm linh bạch truật tán gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D02,THE_SRC_002_D02_P02_2,Đương quy thược dược tán,Đương quy thược dược tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D02,THE_SRC_002_D02_P03_3,Hữu quy hoàn,Hữu quy hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D02,THE_SRC_002_D02_P03_3,Tả quy hoàn,Tả quy hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D03,THE_SRC_002_D03_P01_1,Tang cúc ẩm,Tang cúc ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D03,THE_SRC_002_D03_P01_1,Tứ sinh thang,Tứ sinh thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D03,THE_SRC_002_D03_P02_2,Ích vị thang,Ích vị thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D03,THE_SRC_002_D03_P03_3,Sâm linh bạch truật tán,Sâm linh bạch truật tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D03,THE_SRC_002_D03_P03_3,"Bổ trung ích khí thang, sắc uống ngày 1 thang chia 2 lần.","Bổ trung ích khí thang, sắc uống ngày 1 thang chia 2 lần.",,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P01_1,Hoắc hương chính khí tán gia giảm,Hoắc hương chính khí tán gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P01_1,Sài hồ sơ can tán,Sài hồ sơ can tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P01_1,Cao dạ cẩm,Cao dạ cẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P02_2_2,"Sài hồ sơ can thang gia Mai mực 16g, Xuyên luyện tử 06g.","Sài hồ sơ can thang gia Mai mực 16g, Xuyên luyện tử 06g.",,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P02_2_2,Hóa can tiễn,Hóa can tiễn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P03_2_3,Thất tiếu tán,Thất tiếu tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P03_2_3,Tứ quân tử thang gia vị,Tứ quân tử thang gia vị,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D04,THE_SRC_002_D04_P04_3,Hoàng kỳ kiến trung thang gia giảm,Hoàng kỳ kiến trung thang gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D05,THE_SRC_002_D05_P01_1,Thống tả yếu phương,Thống tả yếu phương,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D05,THE_SRC_002_D05_P02_2,Sâm linh bạch truật tán,Sâm linh bạch truật tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D05,THE_SRC_002_D05_P03_3,Phụ tử lý trung thang hợp Tứ thần hoàn,Phụ tử lý trung thang hợp Tứ thần hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D05,THE_SRC_002_D05_P04_4,Cát căn cầm liên thang gia giảm,Cát căn cầm liên thang gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D05,THE_SRC_002_D05_P05_5,Lục ma thang gia giảm,Lục ma thang gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D05,THE_SRC_002_D05_P06_6,Ma tử nhân hoàn gia giảm,Ma tử nhân hoàn gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D05,THE_SRC_002_D05_P07_7,Ô mai thang,Ô mai thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P01_1,Điều vị thừa khí thang,Điều vị thừa khí thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P01_1,Ma tử nhân hoàn,Ma tử nhân hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P02_2,Lục ma thang,Lục ma thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P03_3,Đại hoàng phụ tử thang gia giảm,Đại hoàng phụ tử thang gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P04_4,Hoàng kỳ thang,Hoàng kỳ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P04_4,Rễ vú bò vừng hoàn,Rễ vú bò vừng hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P05_5,Nhuận trường hoàn,Nhuận trường hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P05_5,Rau sam sinh địa hoàn,Rau sam sinh địa hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P05_5,Ích huyết nhuận trường hoàn,Ích huyết nhuận trường hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P06_6,Tăng dịch thang,Tăng dịch thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D06,THE_SRC_002_D06_P07_7,Tế xuyên tiễn gia quế nhục,Tế xuyên tiễn gia quế nhục,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D07,THE_SRC_002_D07_P01_1,Tang phiêu tiêu hoàn,Tang phiêu tiêu hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D07,THE_SRC_002_D07_P01_1,Súc tuyền hoàn,Súc tuyền hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D07,THE_SRC_002_D07_P02_2,Bổ trung ích khí thang,Bổ trung ích khí thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D07,THE_SRC_002_D07_P03_3,Giao thái hoàn,Giao thái hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D07,THE_SRC_002_D07_P04_4,Long đởm tả can thang,Long đởm tả can thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D08,THE_SRC_002_D08_P01_1,Tứ vật đào hồng thang gia vị,Tứ vật đào hồng thang gia vị,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D08,THE_SRC_002_D08_P02_2,Đạo xích tán gia vị,Đạo xích tán gia vị,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D08,THE_SRC_002_D08_P03_3,Tế sinh thận khí hoàn gia giảm,Tế sinh thận khí hoàn gia giảm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D09,THE_SRC_002_D09_P01_1,Tế sinh thận khí hoàn,Tế sinh thận khí hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D09,THE_SRC_002_D09_P02_2,Tiểu kế ẩm tử,Tiểu kế ẩm tử,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D09,THE_SRC_002_D09_P03_3,Bát chính tán,Bát chính tán,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D10,THE_SRC_002_D10_P01_1,Tả quy hoàn,Tả quy hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D10,THE_SRC_002_D10_P02_2,Thận khí hoàn,Thận khí hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D10,THE_SRC_002_D10_P03_3,Lục vị hoàn,Lục vị hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D10,THE_SRC_002_D10_P04_4,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D10,THE_SRC_002_D10_P05_5,Tứ quân tử thang,Tứ quân tử thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D10,THE_SRC_002_D10_P06_6,Huyết phủ trục ứ thang,Huyết phủ trục ứ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D11,THE_SRC_002_D11_P01_1,Bạch hổ gia nhân sâm thang,Bạch hổ gia nhân sâm thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D11,THE_SRC_002_D11_P02_2,Lục vị địa hoàng thang,Lục vị địa hoàng thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D11,THE_SRC_002_D11_P03_3,Sinh mạch tán hợp Lục vị địa hoàng thang,Sinh mạch tán hợp Lục vị địa hoàng thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D11,THE_SRC_002_D11_P04_4,Kim quỹ thận khí hoàn,Kim quỹ thận khí hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D11,THE_SRC_002_D11_P05_5,Huyết phủ trục ứ thang,Huyết phủ trục ứ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P01_1_1,Bổ Phế thang,Bổ Phế thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P01_1_1,Quy tỳ thang,Quy tỳ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P02_1_3,Hương sa lục quân tử thang,Hương sa lục quân tử thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P02_1_3,Viên bổ tỳ ích khí,Viên bổ tỳ ích khí,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P03_1_4,Đại bổ nguyên tiễn,Đại bổ nguyên tiễn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P03_1_4,Dưỡng tâm thang,Dưỡng tâm thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P03_1_4,Cao bổ huyết,Cao bổ huyết,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P04_2_2,Tứ vật thang,Tứ vật thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P04_2_2,Nhân sâm dưỡng vinh thang,Nhân sâm dưỡng vinh thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P05_3_1,Phụ tử lý trung thang,Phụ tử lý trung thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P06_3_2,Thận khí hoàn,Thận khí hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P06_3_2,Viên bổ thận dương,Viên bổ thận dương,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P06_3_2,Hữu quy hoàn,Hữu quy hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P06_3_2,Tứ thần hoàn,Tứ thần hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P07_3_3,Bảo nguyên thang,Bảo nguyên thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P08_4_1,Sa sâm mạch đông thang,Sa sâm mạch đông thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P08_4_1,Cao bổ Phế âm,Cao bổ Phế âm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P08_4_1,Bách hợp cố kim thang,Bách hợp cố kim thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P09_4_2,Thiên vương bổ tâm đan,Thiên vương bổ tâm đan,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P09_4_2,Thục huyền môn thang,Thục huyền môn thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P09_4_2,Bá tử dưỡng tâm hoàn,Bá tử dưỡng tâm hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P10_4_3,Ích vị thang,Ích vị thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P10_4_3,Dưỡng vị thang,Dưỡng vị thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P11_4_4,Bổ can thang,Bổ can thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P12_4_5,Tả quy hoàn,Tả quy hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P12_4_5,Viên bổ thận âm,Viên bổ thận âm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D12,THE_SRC_002_D12_P12_4_5,Lục vị địa hoàng hoàn,Lục vị địa hoàng hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P01_1,Quy tỳ thang,Quy tỳ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P01_1,Bổ tâm tỳ an thần hoàn,Bổ tâm tỳ an thần hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P02_2,Giao thái hoàn,Giao thái hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P02_2,Hoàng liên a giao thang,Hoàng liên a giao thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P02_2,Thiên vương bổ tâm đan,Thiên vương bổ tâm đan,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P03_3,An thần định chí hoàn,An thần định chí hoàn,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P04_4,Long đởm tả can thang,Long đởm tả can thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D13,THE_SRC_002_D13_P05_5,Ôn đởm thang,Ôn đởm thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D14,THE_SRC_002_D14_P01_1,Thiên ma câu đằng ẩm,Thiên ma câu đằng ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D14,THE_SRC_002_D14_P02_2,Bán hạ bạch truật thiên ma thang,Bán hạ bạch truật thiên ma thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D14,THE_SRC_002_D14_P03_3,Thập toàn đại bổ,Thập toàn đại bổ,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P01_1,Thiên ma câu đằng ẩm,Thiên ma câu đằng ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P02_2,Hóa đàm thông lạc thang,Hóa đàm thông lạc thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P03_3,Trấn can tức phong thang,Trấn can tức phong thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P04_4,Bổ dương hoàn ngũ thang,Bổ dương hoàn ngũ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P05_1_1,Thiên ma câu đằng ẩm có tác dụng bình Can tức phong tiềm dương,Thiên ma câu đằng ẩm có tác dụng bình Can tức phong tiềm dương,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P06_1_2,"Linh dương giác thang có tác dụng thanh Can tức phong, tư âm","Linh dương giác thang có tác dụng thanh Can tức phong, tư âm",,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P07_1_3,"Địch đàm thang có tác dụng hóa đàm khai khiếu, ích khí kiện Tỳ","Địch đàm thang có tác dụng hóa đàm khai khiếu, ích khí kiện Tỳ",,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D15,THE_SRC_002_D15_P08_2,Sâm phụ thang,Sâm phụ thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D16,THE_SRC_002_D16_P01_1,Thiên ma câu đằng ẩm,Thiên ma câu đằng ẩm,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D16,THE_SRC_002_D16_P02_2,Hóa đàm thông lạc thang,Hóa đàm thông lạc thang,,named in prose but not uniquely normalized to current formula registry
+BÀI_THUỐC,SRC_002,SRC_002_D16,THE_SRC_002_D16_P03_3,Trấn can tức phong thang,Trấn can tức phong thang,,named in prose but not uniquely normalized to current formula registry

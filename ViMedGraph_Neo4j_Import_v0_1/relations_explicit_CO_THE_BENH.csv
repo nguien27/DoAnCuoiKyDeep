@@ -1,0 +1,68 @@
+﻿relation_id,head_id,head_type,relation,tail_id,tail_type,source_id,disease_id,section_type,pdf_page_start,pdf_page_end,evidence_text,confidence,relation_status
+R000001,BENH_SRC_001_D01,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D01_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thể hàn thấp,1.0,explicit
+R000002,BENH_SRC_001_D01,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D01_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thể thấp nhiệt,1.0,explicit
+R000003,BENH_SRC_001_D01,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D01_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thể huyết ứ,1.0,explicit
+R000004,BENH_SRC_001_D01,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D01_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thể can thận hư,1.0,explicit
+R000005,BENH_SRC_001_D01,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D01_P05_5,THỂ_BỆNH,SRC_001,SRC_001_D01,the_lam_sang_dieu_tri_yhct,8,13,Thể thận dương hư,1.0,explicit
+R000006,BENH_SRC_001_D02,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D02_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thể phong hàn thấp tý,1.0,explicit
+R000007,BENH_SRC_001_D02,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D02_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thể phong hàn thấp tý kèm can thận hư,1.0,explicit
+R000008,BENH_SRC_001_D02,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D02_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D02,the_lam_sang_dieu_tri_yhct,15,19,Thể phong thấp nhiệt kèm can thận hư,1.0,explicit
+R000009,BENH_SRC_001_D03,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D03_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Thể phong thấp nhiệt,1.0,explicit
+R000010,BENH_SRC_001_D03,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D03_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Thể phong hàn thấp,1.0,explicit
+R000011,BENH_SRC_001_D03,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D03_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Thể đàm ứ trở trệ,1.0,explicit
+R000012,BENH_SRC_001_D03,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D03_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D03,the_lam_sang_dieu_tri_yhct,22,27,Thể can thận lưỡng hư,1.0,explicit
+R000017,BENH_SRC_001_D05,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D05_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Thể phong hàn,1.0,explicit
+R000018,BENH_SRC_001_D05,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D05_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Thể phong thấp nhiệt tý,1.0,explicit
+R000019,BENH_SRC_001_D05,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D05_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Thể huyết ứ,1.0,explicit
+R000020,BENH_SRC_001_D05,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D05_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D05,the_lam_sang_dieu_tri_yhct,37,42,Thể can thận hư,1.0,explicit
+R000021,BENH_SRC_001_D06,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D06_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thể can dương thượng cang,1.0,explicit
+R000022,BENH_SRC_001_D06,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D06_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thể can thận âm hư,1.0,explicit
+R000023,BENH_SRC_001_D06,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D06_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thể âm dương lưỡng hư,1.0,explicit
+R000024,BENH_SRC_001_D06,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D06_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D06,the_lam_sang_dieu_tri_yhct,45,49,Thể đàm thấp,1.0,explicit
+R000025,BENH_SRC_001_D07,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D07_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Thể tỳ hư đàm thấp,1.0,explicit
+R000026,BENH_SRC_001_D07,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D07_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Thể tỳ thận dương hư,1.0,explicit
+R000027,BENH_SRC_001_D07,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D07_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Thể can thận âm hư,1.0,explicit
+R000028,BENH_SRC_001_D07,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D07_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Thể can uất tỳ hư,1.0,explicit
+R000029,BENH_SRC_001_D07,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D07_P05_5,THỂ_BỆNH,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Thể thấp nhiệt nội kết,1.0,explicit
+R000030,BENH_SRC_001_D07,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D07_P06_6,THỂ_BỆNH,SRC_001,SRC_001_D07,the_lam_sang_dieu_tri_yhct,52,56,Thể khí trệ huyết ứ,1.0,explicit
+R000031,BENH_SRC_001_D08,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D08_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Thể phong hàn ở kinh lạc,1.0,explicit
+R000032,BENH_SRC_001_D08,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D08_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Thể phong nhiệt,1.0,explicit
+R000033,BENH_SRC_001_D08,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D08_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D08,the_lam_sang_dieu_tri_yhct,59,62,Thể huyết ứ,1.0,explicit
+R000040,BENH_SRC_001_D10,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D10_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Thể phong hàn thấp,1.0,explicit
+R000041,BENH_SRC_001_D10,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D10_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Thể phong hàn thấp kết hợp can thận hư,1.0,explicit
+R000042,BENH_SRC_001_D10,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D10_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D10,the_lam_sang_dieu_tri_yhct,73,77,Thể thấp nhiệt,1.0,explicit
+R000043,BENH_SRC_001_D11,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D11_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Thể can thận âm hư,1.0,explicit
+R000044,BENH_SRC_001_D11,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D11_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Thể phong đàm,1.0,explicit
+R000045,BENH_SRC_001_D11,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D11_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D11,the_lam_sang_dieu_tri_yhct,79,85,Thể khí hư huyết ứ,1.0,explicit
+R000046,BENH_SRC_001_D12,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D12_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Can thận bất túc,1.0,explicit
+R000047,BENH_SRC_001_D12,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D12_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Tâm tỳ hư,1.0,explicit
+R000048,BENH_SRC_001_D12,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D12_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D12,the_lam_sang_dieu_tri_yhct,89,93,Đàm ứ trở trệ,1.0,explicit
+R000049,BENH_SRC_001_D13,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D13_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Thể âm hư,1.0,explicit
+R000050,BENH_SRC_001_D13,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D13_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D13,the_lam_sang_dieu_tri_yhct,97,101,Thể khí âm lưỡng hư (khí huyết hư),1.0,explicit
+R000051,BENH_SRC_001_D14,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D14_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Cam khí (Tỳ hư),1.0,explicit
+R000052,BENH_SRC_001_D14,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D14_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Cam tích,1.0,explicit
+R000053,BENH_SRC_001_D14,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D14_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D14,the_lam_sang_dieu_tri_yhct,105,109,Can cam (Khí huyết hư),1.0,explicit
+R000054,BENH_SRC_001_D15,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D15_P01_1_1,THỂ_BỆNH,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Thể khí trệ,1.0,explicit
+R000055,BENH_SRC_001_D15,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D15_P02_1_2,THỂ_BỆNH,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Thể hỏa uất,1.0,explicit
+R000056,BENH_SRC_001_D15,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D15_P03_1_3,THỂ_BỆNH,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Thể huyết ứ,1.0,explicit
+R000057,BENH_SRC_001_D15,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D15_P04_2,THỂ_BỆNH,SRC_001,SRC_001_D15,the_lam_sang_dieu_tri_yhct,111,117,Thể tỳ vị hư hàn,1.0,explicit
+R000058,BENH_SRC_001_D16,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D16_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Thể khí ngưng,1.0,explicit
+R000059,BENH_SRC_001_D16,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D16_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Thể huyết ứ,1.0,explicit
+R000060,BENH_SRC_001_D16,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D16_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Thể can đởm thấp nhiệt,1.0,explicit
+R000061,BENH_SRC_001_D16,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D16_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D16,the_lam_sang_dieu_tri_yhct,120,123,Thể âm hư nội nhiệt,1.0,explicit
+R000062,BENH_SRC_001_D17,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D17_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thể phong nhiệt,1.0,explicit
+R000063,BENH_SRC_001_D17,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D17_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thể phong hàn,1.0,explicit
+R000064,BENH_SRC_001_D17,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D17_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thể khí táo,1.0,explicit
+R000065,BENH_SRC_001_D17,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D17_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thể đàm thấp,1.0,explicit
+R000066,BENH_SRC_001_D17,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D17_P05_5,THỂ_BỆNH,SRC_001,SRC_001_D17,the_lam_sang_dieu_tri_yhct,127,132,Thể thủy ẩm (hàn ẩm),1.0,explicit
+R000067,BENH_SRC_001_D18,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D18_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Thể phong hàn,1.0,explicit
+R000068,BENH_SRC_001_D18,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D18_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Thể phong nhiệt,1.0,explicit
+R000069,BENH_SRC_001_D18,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D18_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D18,the_lam_sang_dieu_tri_yhct,135,138,Thể huyết hư phong táo,1.0,explicit
+R000070,BENH_SRC_001_D19,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D19_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Thể bàng quang thấp nhiệt,1.0,explicit
+R000071,BENH_SRC_001_D19,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D19_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Thể phế nhiệt,1.0,explicit
+R000072,BENH_SRC_001_D19,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D19_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Thể khí trệ huyết ứ,1.0,explicit
+R000073,BENH_SRC_001_D19,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D19_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D19,the_lam_sang_dieu_tri_yhct,140,145,Thể thận khí hư,1.0,explicit
+R000074,BENH_SRC_001_D20,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D20_P01_1,THỂ_BỆNH,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,"Thể nhiệt độc (tương ứng với trĩ nội độ 1, 2)",1.0,explicit
+R000075,BENH_SRC_001_D20,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D20_P02_2,THỂ_BỆNH,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,Thể huyết ứ (tương ứng với trĩ tắc mạch),1.0,explicit
+R000076,BENH_SRC_001_D20,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D20_P03_3,THỂ_BỆNH,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,"Thể thấp nhiệt (tương ứng với trĩ viêm, loét)",1.0,explicit
+R000077,BENH_SRC_001_D20,BỆNH_CHỨNG,CÓ_THỂ_BỆNH,THE_SRC_001_D20_P04_4,THỂ_BỆNH,SRC_001,SRC_001_D20,the_lam_sang_dieu_tri_yhct,146,151,"Thể khí huyết lưỡng hư (tương ứng trĩ hỗn hợp độ IV, trĩ lâu ngày gây thiếu máu)",1.0,explicit

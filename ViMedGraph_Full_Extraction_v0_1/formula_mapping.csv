@@ -1,0 +1,218 @@
+﻿formula_entity_id,pattern_entity_id,disease_id,source_id,observed_name,canonical_name,official_id,official_code,mapping_status
+BT_6586400,THE_SRC_001_D01_P01_1,SRC_001_D01,SRC_001,Can khương thương truật thang,Can khương thương truật thang,6586400,U62.392.5.01.CP001,official_code
+BT_6586401,THE_SRC_001_D01_P01_1,SRC_001_D01,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586401,U62.392.5.01.ĐP001,official_code
+BT_6586402,THE_SRC_001_D01_P01_1,SRC_001_D01,SRC_001,Nghiệm phương,Nghiệm phương,6586402,U62.392.5.01.NP001,official_code
+BT_6586403,THE_SRC_001_D01_P02_2,SRC_001_D01,SRC_001,Tứ diệu tán,Tứ diệu tán,6586403,U62.392.5.02.CP002,official_code
+BT_6586404,THE_SRC_001_D01_P02_2,SRC_001_D01,SRC_001,Nghiệm phương,Nghiệm phương,6586404,U62.392.5.02.NP002,official_code
+BT_6586405,THE_SRC_001_D01_P03_3,SRC_001_D01,SRC_001,Thân thống trục ứ thang,Thân thống trục ứ thang,6586405,U62.392.5.03.CP003,official_code
+BT_6586406,THE_SRC_001_D01_P03_3,SRC_001_D01,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586406,U62.392.5.03.ĐP002,official_code
+BT_6586407,THE_SRC_001_D01_P03_3,SRC_001_D01,SRC_001,Nghiệm phương,Nghiệm phương,6586407,U62.392.5.03.NP003,official_code
+BT_6586408,THE_SRC_001_D01_P04_4,SRC_001_D01,SRC_001,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586408,U62.392.5.04.CP004,official_code
+BT_6586409,THE_SRC_001_D01_P04_4,SRC_001_D01,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586409,U62.392.5.04.ĐP003,official_code
+BT_6586410,THE_SRC_001_D01_P04_4,SRC_001_D01,SRC_001,Nghiệm phương,Nghiệm phương,6586410,U62.392.5.04.NP004,official_code
+BT_6586411,THE_SRC_001_D01_P05_5,SRC_001_D01,SRC_001,Thận khí hoàn,Thận khí hoàn,6586411,U62.392.5.05.CP005,official_code
+BT_6586412,THE_SRC_001_D01_P05_5,SRC_001_D01,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586412,U62.392.5.05.ĐP004,official_code
+BT_6586413,THE_SRC_001_D01_P05_5,SRC_001_D01,SRC_001,Nghiệm phương,Nghiệm phương,6586413,U62.392.5.05.NP005,official_code
+BT_6586415,THE_SRC_001_D02_P01_1,SRC_001_D02,SRC_001,Ý dĩ nhân thang,Ý dĩ nhân thang,6586415,U62.261.01.CP006,official_code
+BT_6586416,THE_SRC_001_D02_P01_1,SRC_001_D02,SRC_001,Ô đầu thang,Ô đầu thang,6586416,U62.261.01.CP007,official_code
+BT_6586417,THE_SRC_001_D02_P01_1,SRC_001_D02,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586417,U62.261.01.ĐP005,official_code
+BT_6586418,THE_SRC_001_D02_P01_1,SRC_001_D02,SRC_001,Thấp khớp II,Nghiệm phương,6586418,U62.261.01.NP006,official_code
+BT_6586419,THE_SRC_001_D02_P02_2,SRC_001_D02,SRC_001,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586419,U62.261.02.CP008,official_code
+BT_6586420,THE_SRC_001_D02_P02_2,SRC_001_D02,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586420,U62.261.02.ĐP006,official_code
+BT_6586421,THE_SRC_001_D02_P02_2,SRC_001_D02,SRC_001,Độc hoạt phong thấp hoàn,Nghiệm phương,6586421,U62.261.02.NP007,official_code
+BT_6586422,THE_SRC_001_D02_P03_3,SRC_001_D02,SRC_001,Ý dĩ nhân thang hợp với Nhị diệu tán,Ý dĩ nhân thang hợp với Nhị diệu tán,6586422,U62.261.03.CP009,official_code
+BT_6586423,THE_SRC_001_D02_P03_3,SRC_001_D02,SRC_001,Bạch hổ quế chi thang,Bạch hổ quế chi thang,6586423,U62.261.03.CP010,official_code
+BT_6586424,THE_SRC_001_D02_P03_3,SRC_001_D02,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586424,U62.261.03.ĐP007,official_code
+BT_6586425,THE_SRC_001_D02_P03_3,SRC_001_D02,SRC_001,Nghiệm phương,Nghiệm phương,6586425,U62.261.03.NP008,official_code
+BT_6586427,THE_SRC_001_D03_P01_1,SRC_001_D03,SRC_001,Tuyên tý thang hợp Tam diệu thang,Tuyên tý thang hợp Tam diệu thang,6586427,U62.371.01.CP011,official_code
+BT_6586428,THE_SRC_001_D03_P01_1,SRC_001_D03,SRC_001,Bạch hổ quế chi thang,Bạch hổ quế chi thang,6586428,U62.371.01.CP012,official_code
+BT_6586429,THE_SRC_001_D03_P01_1,SRC_001_D03,SRC_001,Tứ diệu thang,Tứ diệu thang,6586429,U62.371.01.CP013,official_code
+BT_6586430,THE_SRC_001_D03_P01_1,SRC_001_D03,SRC_001,Cao Kim hoàng tán,Thuốc dùng ngoài,6586430,U62.371.01.DN001,official_code
+BT_6586431,THE_SRC_001_D03_P01_1,SRC_001_D03,SRC_001,Hạt mã tiền,Thuốc dùng ngoài,6586431,U62.371.01.DN002,official_code
+BT_6586432,THE_SRC_001_D03_P02_2,SRC_001_D03,SRC_001,Ý dĩ nhân thang,Ý dĩ nhân thang,6586432,U62.371.02.CP014,official_code
+BT_6586433,THE_SRC_001_D03_P02_2,SRC_001_D03,SRC_001,Ô đầu thang,Ô đầu thang,6586433,U62.371.02.CP015,official_code
+BT_6586434,THE_SRC_001_D03_P02_2,SRC_001_D03,SRC_001,Hạt mã tiền,Thuốc dùng ngoài,6586434,U62.371.02.DN003,official_code
+BT_6586435,THE_SRC_001_D03_P03_3,SRC_001_D03,SRC_001,Đào nhân ẩm hợp Nhị trần thang,Đào nhân ẩm hợp Nhị trần thang,6586435,U62.371.03.CP016,official_code
+BT_6586436,THE_SRC_001_D03_P03_3,SRC_001_D03,SRC_001,Hạt mã tiền,Thuốc dùng ngoài,6586436,U62.371.03.DN004,official_code
+BT_6586437,THE_SRC_001_D03_P04_4,SRC_001_D03,SRC_001,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586437,U62.371.04.CP017,official_code
+BT_6586438,THE_SRC_001_D03_P04_4,SRC_001_D03,SRC_001,Hạt mã tiền,Thuốc dùng ngoài,6586438,U62.371.04.DN005,official_code
+BT_6586497,THE_SRC_001_D05_P01_1,SRC_001_D05,SRC_001,Quế chi gia Cát căn thang,Quế chi gia Cát căn thang,6586497,U62.292.01.CP039,official_code
+BT_6586498,THE_SRC_001_D05_P01_1,SRC_001_D05,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586498,U62.292.01.ĐP024,official_code
+BT_6586499,THE_SRC_001_D05_P01_1,SRC_001_D05,SRC_001,Nghiệm phương,Nghiệm phương,6586499,U62.292.01.NP025,official_code
+BT_6586501,THE_SRC_001_D05_P02_2,SRC_001_D05,SRC_001,Quế chi thược dược tri mẫu thang,Quế chi thược dược tri mẫu thang,6586501,U62.292.02.CP041,official_code
+BT_6586502,THE_SRC_001_D05_P02_2,SRC_001_D05,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586502,U62.292.02.ĐP025,official_code
+BT_6586503,THE_SRC_001_D05_P02_2,SRC_001_D05,SRC_001,Nghiệm phương,Nghiệm phương,6586503,U62.292.02.NP026,official_code
+BT_6586504,THE_SRC_001_D05_P03_3,SRC_001_D05,SRC_001,Đào hồng ẩm,Đào hồng ẩm,6586504,U62.292.03.CP042,official_code
+BT_6586505,THE_SRC_001_D05_P03_3,SRC_001_D05,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586505,U62.292.03.ĐP026,official_code
+BT_6586506,THE_SRC_001_D05_P03_3,SRC_001_D05,SRC_001,Nghiệm phương,Nghiệm phương,6586506,U62.292.03.NP027,official_code
+BT_6586507,THE_SRC_001_D05_P04_4,SRC_001_D05,SRC_001,Quyên tý thang,Quyên tý thang,6586507,U62.292.04.CP043,official_code
+BT_6586508,THE_SRC_001_D05_P04_4,SRC_001_D05,SRC_001,Hổ tiềm hoàn,Hổ tiềm hoàn,6586508,U62.292.04.CP044,official_code
+BT_6586509,THE_SRC_001_D05_P04_4,SRC_001_D05,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586509,U62.292.04.ĐP027,official_code
+BT_6586510,THE_SRC_001_D05_P04_4,SRC_001_D05,SRC_001,Nghiệm phương,Nghiệm phương,6586510,U62.292.04.NP028,official_code
+BT_6586512,THE_SRC_001_D06_P01_1,SRC_001_D06,SRC_001,Thiên ma câu đằng ẩm,Thiên ma câu đằng ẩm,6586512,U58.091.01.CP045,official_code
+BT_6586513,THE_SRC_001_D06_P01_1,SRC_001_D06,SRC_001,Long đởm tả can thang,Long đởm tả can thang,6586513,U58.091.01.CP046,official_code
+BT_6586514,THE_SRC_001_D06_P01_1,SRC_001_D06,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586514,U58.091.01.ĐP028,official_code
+BT_6586515,THE_SRC_001_D06_P01_1,SRC_001_D06,SRC_001,Nghiệm phương,Nghiệm phương,6586515,U58.091.01.NP029,official_code
+BT_6586516,THE_SRC_001_D06_P02_2,SRC_001_D06,SRC_001,Lục vị địa hoàng thang,Lục vị địa hoàng thang,6586516,U58.091.02.CP047,official_code
+BT_6586517,THE_SRC_001_D06_P02_2,SRC_001_D06,SRC_001,Tri bá địa hoàng thang,Tri bá địa hoàng thang,6586517,U58.091.02.CP048,official_code
+BT_6586518,THE_SRC_001_D06_P02_2,SRC_001_D06,SRC_001,Kỷ cúc địa hoàng thang,Kỷ cúc địa hoàng thang,6586518,U58.091.02.CP049,official_code
+BT_6586519,THE_SRC_001_D06_P02_2,SRC_001_D06,SRC_001,Lục vị quy thược thang,Lục vị quy thược thang,6586519,U58.091.02.CP050,official_code
+BT_6586520,THE_SRC_001_D06_P02_2,SRC_001_D06,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586520,U58.091.02.ĐP029,official_code
+BT_6586521,THE_SRC_001_D06_P02_2,SRC_001_D06,SRC_001,Nghiệm phương,Nghiệm phương,6586521,U58.091.02.NP030,official_code
+BT_6586522,THE_SRC_001_D06_P03_3,SRC_001_D06,SRC_001,Hữu quy hoàn,Hữu quy hoàn,6586522,U58.091.03.CP051,official_code
+BT_6586523,THE_SRC_001_D06_P03_3,SRC_001_D06,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586523,U58.091.03.ĐP030,official_code
+BT_6586524,THE_SRC_001_D06_P03_3,SRC_001_D06,SRC_001,Nghiệm phương,Nghiệm phương,6586524,U58.091.03.NP031,official_code
+BT_6586525,THE_SRC_001_D06_P04_4,SRC_001_D06,SRC_001,Bán hạ bạch truật thiên ma thang,Bán hạ bạch truật thiên ma thang,6586525,U58.091.04.CP052,official_code
+BT_6586526,THE_SRC_001_D06_P04_4,SRC_001_D06,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586526,U58.091.04.ĐP031,official_code
+BT_6586527,THE_SRC_001_D06_P04_4,SRC_001_D06,SRC_001,Nghiệm phương,Nghiệm phương,6586527,U58.091.04.NP032,official_code
+BT_6586529,THE_SRC_001_D07_P01_1,SRC_001_D07,SRC_001,Bán hạ bạch truật thiên ma thang,Bán hạ bạch truật thiên ma thang,6586529,U53.151.01.CP053,official_code
+BT_6586530,THE_SRC_001_D07_P01_1,SRC_001_D07,SRC_001,Hương sa lục quân tử thang,Hương sa lục quân tử thang,6586530,U53.151.01.CP054,official_code
+BT_6586531,THE_SRC_001_D07_P01_1,SRC_001_D07,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586531,U53.151.01.ĐP032,official_code
+BT_6586532,THE_SRC_001_D07_P02_2,SRC_001_D07,SRC_001,Hữu quy hoàn,Hữu quy hoàn,6586532,U53.151.02.CP055,official_code
+BT_6586533,THE_SRC_001_D07_P02_2,SRC_001_D07,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586533,U53.151.02.ĐP033,official_code
+BT_6586534,THE_SRC_001_D07_P03_3,SRC_001_D07,SRC_001,Kỷ cúc địa hoàng thang,Kỷ cúc địa hoàng thang,6586534,U53.151.03.CP056,official_code
+BT_6586535,THE_SRC_001_D07_P03_3,SRC_001_D07,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586535,U53.151.03.ĐP034,official_code
+BT_6586536,THE_SRC_001_D07_P04_4,SRC_001_D07,SRC_001,Tiêu dao tán,Tiêu dao tán,6586536,U53.151.04.CP057,official_code
+BT_6586537,THE_SRC_001_D07_P04_4,SRC_001_D07,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586537,U53.151.04.ĐP035,official_code
+BT_6586538,THE_SRC_001_D07_P05_5,SRC_001_D07,SRC_001,Tứ linh tán hợp Lục nhất tán,Tứ linh tán hợp Lục nhất tán,6586538,U53.151.05.CP058,official_code
+BT_6586539,THE_SRC_001_D07_P05_5,SRC_001_D07,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586539,U53.151.05.ĐP036,official_code
+BT_6586540,THE_SRC_001_D07_P06_6,SRC_001_D07,SRC_001,Huyết phủ trục ứ thang,Huyết phủ trục ứ thang,6586540,U53.151.06.CP059,official_code
+BT_6586541,THE_SRC_001_D07_P06_6,SRC_001_D07,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586541,U53.151.06.ĐP037,official_code
+BT_6586543,THE_SRC_001_D08_P01_1,SRC_001_D08,SRC_001,Đại tần giao thang,Đại tần giao thang,6586543,U55.561.01.CP060,official_code
+BT_6586544,THE_SRC_001_D08_P01_1,SRC_001_D08,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586544,U55.561.01.ĐP038,official_code
+BT_6586545,THE_SRC_001_D08_P01_1,SRC_001_D08,SRC_001,Nghiệm phương,Nghiệm phương,6586545,U55.561.01.NP033,official_code
+BT_6586547,THE_SRC_001_D08_P02_2,SRC_001_D08,SRC_001,Nghiệm phương,Nghiệm phương,6586547,U55.561.02.NP034,official_code
+BT_6586546,THE_SRC_001_D08_P02_2,SRC_001_D08,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586546,U55.561.02.ĐP039,official_code
+BT_6586549,THE_SRC_001_D08_P03_3,SRC_001_D08,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586549,U55.561.03.ĐP040,official_code
+BT_6586550,THE_SRC_001_D08_P03_3,SRC_001_D08,SRC_001,Nghiệm phương,Nghiệm phương,6586550,U55.561.03.NP035,official_code
+BT_6586606,THE_SRC_001_D10_P01_1,SRC_001_D10,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586606,U62.392.01.ĐP063,official_code
+BT_6586607,THE_SRC_001_D10_P01_1,SRC_001_D10,SRC_001,Nghiệm phương,Nghiệm phương,6586607,U62.392.01.NP040,official_code
+BT_6586609,THE_SRC_001_D10_P02_2,SRC_001_D10,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586609,U62.392.02.ĐP064,official_code
+BT_6586610,THE_SRC_001_D10_P02_2,SRC_001_D10,SRC_001,Nghiệm phương,Nghiệm phương,6586610,U62.392.02.NP041,official_code
+BT_6586611,THE_SRC_001_D10_P03_3,SRC_001_D10,SRC_001,Ý dĩ nhân thang hợp với Nhị diệu tán,Ý dĩ nhân thang hợp với Nhị diệu tán,6586611,U62.392.03.CP086,official_code
+BT_6586612,THE_SRC_001_D10_P03_3,SRC_001_D10,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586612,U62.392.03.ĐP065,official_code
+BT_6586613,THE_SRC_001_D10_P03_3,SRC_001_D10,SRC_001,Nghiệm phương,Nghiệm phương,6586613,U62.392.03.NP042,official_code
+BT_6586631,THE_SRC_001_D11_P01_1,SRC_001_D11,SRC_001,Lục vị địa hoàng hoàn,Lục vị địa hoàng hoàn,6586631,U58.021.01.CP092,official_code
+BT_6586633,THE_SRC_001_D11_P01_1,SRC_001_D11,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586633,U58.021.01.ĐP071,official_code
+BT_6586634,THE_SRC_001_D11_P01_1,SRC_001_D11,SRC_001,Nghiệm phương,Nghiệm phương,6586634,U58.021.01.NP048,official_code
+BT_6586635,THE_SRC_001_D11_P02_2,SRC_001_D11,SRC_001,Đạo đàm thang,Đạo đàm thang,6586635,U58.021.02.CP094,official_code
+BT_6586636,THE_SRC_001_D11_P02_2,SRC_001_D11,SRC_001,Bán hạ bạch truật thiên ma thang,Bán hạ bạch truật thiên ma thang,6586636,U58.021.02.CP095,official_code
+BT_6586637,THE_SRC_001_D11_P02_2,SRC_001_D11,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586637,U58.021.02.ĐP072,official_code
+BT_6586638,THE_SRC_001_D11_P02_2,SRC_001_D11,SRC_001,Nghiệm phương,Nghiệm phương,6586638,U58.021.02.NP049,official_code
+BT_6586639,THE_SRC_001_D11_P03_3,SRC_001_D11,SRC_001,Bổ dương hoàn ngũ thang,Bổ dương hoàn ngũ thang,6586639,U58.021.03.CP096,official_code
+BT_6586640,THE_SRC_001_D11_P03_3,SRC_001_D11,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586640,U58.021.03.ĐP073,official_code
+BT_6586641,THE_SRC_001_D11_P03_3,SRC_001_D11,SRC_001,Nghiệm phương,Nghiệm phương,6586641,U58.021.03.NP050,official_code
+BT_6586655,THE_SRC_001_D12_P01_1,SRC_001_D12,SRC_001,Lục vị địa hoàng hoàn,Lục vị địa hoàng hoàn,6586655,U55.611.01.CP102,official_code
+BT_6586656,THE_SRC_001_D12_P01_1,SRC_001_D12,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586656,U55.611.01.ĐP077,official_code
+BT_6586658,THE_SRC_001_D12_P02_2,SRC_001_D12,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586658,U55.611.02.ĐP078,official_code
+BT_6586657,THE_SRC_001_D12_P02_2,SRC_001_D12,SRC_001,Điều nguyên tán gia vị,Điều nguyên tán gia vị,6586657,U55.611.02.CP103,official_code
+BT_6586659,THE_SRC_001_D12_P03_3,SRC_001_D12,SRC_001,Thông khiếu hoạt huyết thang kết hợp nhị trần thang,Thông khiếu hoạt huyết thang kết hợp nhị trần thang,6586659,U55.611.03.CP104,official_code
+BT_6586660,THE_SRC_001_D12_P03_3,SRC_001_D12,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586660,U55.611.03.ĐP079,official_code
+BT_6586676,THE_SRC_001_D13_P01_1,SRC_001_D13,SRC_001,Thanh hao miết giáp thang gia giảm,Thanh hao miết giáp thang gia giảm,6586676,U50.481.01.CP111,official_code
+BT_6586677,THE_SRC_001_D13_P01_1,SRC_001_D13,SRC_001,Đương quy lục hoàng thang gia giảm,Đương quy lục hoàng thang gia giảm,6586677,U50.481.01.CP112,official_code
+BT_6586678,THE_SRC_001_D13_P01_1,SRC_001_D13,SRC_001,Lục vị địa hoàng thang,Lục vị địa hoàng thang,6586678,U50.481.01.CP113,official_code
+BT_6586679,THE_SRC_001_D13_P01_1,SRC_001_D13,SRC_001,Tri bá địa hoàng thang,Tri bá địa hoàng thang,6586679,U50.481.01.CP114,official_code
+BT_6586680,THE_SRC_001_D13_P01_1,SRC_001_D13,SRC_001,Đạo đàm thang gia giảm,Đạo đàm thang gia giảm,6586680,U50.481.01.CP115,official_code
+BT_6586682,THE_SRC_001_D13_P01_1,SRC_001_D13,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586682,U50.481.01.ĐP086,official_code
+BT_6586681,THE_SRC_001_D13_P01_1,SRC_001_D13,SRC_001,Lục vị quy thược,Lục vị quy thược,6586681,U50.481.01.CP116,official_code
+BT_6586683,THE_SRC_001_D13_P02_2,SRC_001_D13,SRC_001,Bát trân thang gia giảm,Bát trân thang gia giảm,6586683,U50.481.02.CP117,official_code
+BT_6586684,THE_SRC_001_D13_P02_2,SRC_001_D13,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586684,U50.481.02.ĐP087,official_code
+BT_6586686,THE_SRC_001_D14_P01_1,SRC_001_D14,SRC_001,Sâm linh bạch truật tán,Sâm linh bạch truật tán,6586686,U53.071.01.CP118,official_code
+BT_6586687,THE_SRC_001_D14_P01_1,SRC_001_D14,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586687,U53.071.01.ĐP088,official_code
+BT_6586688,THE_SRC_001_D14_P01_1,SRC_001_D14,SRC_001,Nghiệm phương,Nghiệm phương,6586688,U53.071.01.NP054,official_code
+BT_6586689,THE_SRC_001_D14_P02_2,SRC_001_D14,SRC_001,Phì nhi hoàn gia giảm,Phì nhi hoàn gia giảm,6586689,U53.071.02.CP119,official_code
+BT_6586690,THE_SRC_001_D14_P03_3,SRC_001_D14,SRC_001,Bát trân thang gia giảm,Bát trân thang gia giảm,6586690,U53.071.03.CP120,official_code
+BT_6586701,THE_SRC_001_D15_P01_1_1,SRC_001_D15,SRC_001,Sài hồ sơ can thang,Sài hồ sơ can thang,6586701,U60.471.01.01.CP124,official_code
+BT_6586702,THE_SRC_001_D15_P01_1_1,SRC_001_D15,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586702,U60.471.01.01.ĐP092,official_code
+BT_6586703,THE_SRC_001_D15_P01_1_1,SRC_001_D15,SRC_001,Nghiệm phương,Nghiệm phương,6586703,U60.471.01.01.NP056,official_code
+BT_6586704,THE_SRC_001_D15_P01_1_1,SRC_001_D15,SRC_001,Nghiệm phương,Nghiệm phương,6586704,U60.471.01.01.NP057,official_code
+BT_6586705,THE_SRC_001_D15_P02_1_2,SRC_001_D15,SRC_001,Sài hồ sơ can thang,Sài hồ sơ can thang,6586705,U60.471.01.02.CP125,official_code
+BT_6586707,THE_SRC_001_D15_P02_1_2,SRC_001_D15,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586707,U60.471.01.02.ĐP093,official_code
+BT_6586708,THE_SRC_001_D15_P02_1_2,SRC_001_D15,SRC_001,Nghiệm phương,Nghiệm phương,6586708,U60.471.01.02.NP058,official_code
+BT_6586713,THE_SRC_001_D15_P03_1_3,SRC_001_D15,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586713,U60.471.01.03.ĐP094,official_code
+BT_6586714,THE_SRC_001_D15_P03_1_3,SRC_001_D15,SRC_001,Nghiệm phương,Nghiệm phương,6586714,U60.471.01.03.NP059,official_code
+BT_6586715,THE_SRC_001_D15_P03_1_3,SRC_001_D15,SRC_001,Nghiệm phương,Nghiệm phương,6586715,U60.471.01.03.NP060,official_code
+BT_6586712,THE_SRC_001_D15_P03_1_3,SRC_001_D15,SRC_001,Điều doanh liễm can ẩm,Điều doanh liễm can ẩm,6586712,U60.471.01.03.CP130,official_code
+BT_6586717,THE_SRC_001_D15_P04_2,SRC_001_D15,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586717,U60.471.02.ĐP095,official_code
+BT_6586716,THE_SRC_001_D15_P04_2,SRC_001_D15,SRC_001,Hoàng kỳ kiến trung thang,Hoàng kỳ kiến trung thang,6586716,U60.471.02.CP131,official_code
+BT_6586718,THE_SRC_001_D15_P04_2,SRC_001_D15,SRC_001,Nghiệm phương,Nghiệm phương,6586718,U60.471.02.NP061,official_code
+BT_6586785,THE_SRC_001_D16_P01_1,SRC_001_D16,SRC_001,Sài hồ sơ can thang,Sài hồ sơ can thang,6586785,U50.102.01.CP152,official_code
+BT_6586786,THE_SRC_001_D16_P01_1,SRC_001_D16,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586786,U50.102.01.ĐP108,official_code
+BT_6586787,THE_SRC_001_D16_P01_1,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586787,U50.102.01.NP090,official_code
+BT_6586788,THE_SRC_001_D16_P01_1,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586788,U50.102.01.NP091,official_code
+BT_6586789,THE_SRC_001_D16_P01_1,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586789,U50.102.01.NP092,official_code
+BT_6586790,THE_SRC_001_D16_P01_1,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586790,U50.102.01.NP093,official_code
+BT_6586791,THE_SRC_001_D16_P02_2,SRC_001_D16,SRC_001,Huyết phủ trục ứ thang,Huyết phủ trục ứ thang,6586791,U50.102.02.CP153,official_code
+BT_6586792,THE_SRC_001_D16_P02_2,SRC_001_D16,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586792,U50.102.02.ĐP109,official_code
+BT_6586793,THE_SRC_001_D16_P02_2,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586793,U50.102.02.NP094,official_code
+BT_6586794,THE_SRC_001_D16_P02_2,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586794,U50.102.02.NP095,official_code
+BT_6586795,THE_SRC_001_D16_P02_2,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586795,U50.102.02.NP096,official_code
+BT_6586796,THE_SRC_001_D16_P02_2,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586796,U50.102.02.NP097,official_code
+BT_6586797,THE_SRC_001_D16_P03_3,SRC_001_D16,SRC_001,Nhân trần ngũ linh tán,Nhân trần ngũ linh tán,6586797,U50.102.03.CP154,official_code
+BT_6586798,THE_SRC_001_D16_P03_3,SRC_001_D16,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586798,U50.102.03.ĐP110,official_code
+BT_6586799,THE_SRC_001_D16_P03_3,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586799,U50.102.03.NP098,official_code
+BT_6586800,THE_SRC_001_D16_P03_3,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586800,U50.102.03.NP099,official_code
+BT_6586801,THE_SRC_001_D16_P03_3,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586801,U50.102.03.NP100,official_code
+BT_6586802,THE_SRC_001_D16_P03_3,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586802,U50.102.03.NP101,official_code
+BT_6586803,THE_SRC_001_D16_P04_4,SRC_001_D16,SRC_001,Nhất quán tiễn,Nhất quán tiễn,6586803,U50.102.04.CP155,official_code
+BT_6586804,THE_SRC_001_D16_P04_4,SRC_001_D16,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586804,U50.102.04.ĐP111,official_code
+BT_6586805,THE_SRC_001_D16_P04_4,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586805,U50.102.04.NP102,official_code
+BT_6586806,THE_SRC_001_D16_P04_4,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586806,U50.102.04.NP103,official_code
+BT_6586807,THE_SRC_001_D16_P04_4,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586807,U50.102.04.NP104,official_code
+BT_6586808,THE_SRC_001_D16_P04_4,SRC_001_D16,SRC_001,Nghiệm phương,Nghiệm phương,6586808,U50.102.04.NP105,official_code
+BT_6586828,THE_SRC_001_D17_P01_1,SRC_001_D17,SRC_001,Tang cúc ẩm,Tang cúc ẩm,6586828,U59.231.01.CP164,official_code
+BT_6586829,THE_SRC_001_D17_P01_1,SRC_001_D17,SRC_001,Ma hạnh thạch cam thang,Ma hạnh thạch cam thang,6586829,U59.231.01.CP165,official_code
+BT_6586830,THE_SRC_001_D17_P01_1,SRC_001_D17,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586830,U59.231.01.ĐP117,official_code
+BT_6586831,THE_SRC_001_D17_P01_1,SRC_001_D17,SRC_001,Thuốc nam,Thuốc nam,6586831,U59.231.01.TN005,official_code
+BT_6586832,THE_SRC_001_D17_P02_2,SRC_001_D17,SRC_001,Hạnh tô tán,Hạnh tô tán,6586832,U59.231.02.CP166,official_code
+BT_6586833,THE_SRC_001_D17_P02_2,SRC_001_D17,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586833,U59.231.02.ĐP118,official_code
+BT_6586834,THE_SRC_001_D17_P02_2,SRC_001_D17,SRC_001,Thuốc nam,Thuốc nam,6586834,U59.231.02.TN006,official_code
+BT_6586835,THE_SRC_001_D17_P03_3,SRC_001_D17,SRC_001,Tang hạnh thang,Tang hạnh thang,6586835,U59.231.03.CP167,official_code
+BT_6586836,THE_SRC_001_D17_P03_3,SRC_001_D17,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586836,U59.231.03.ĐP119,official_code
+BT_6586837,THE_SRC_001_D17_P03_3,SRC_001_D17,SRC_001,Thuốc nam,Thuốc nam,6586837,U59.231.03.TN007,official_code
+BT_6586839,THE_SRC_001_D17_P04_4,SRC_001_D17,SRC_001,Nhị trần thang,Nhị trần thang,6586839,U59.231.04.CP169,official_code
+BT_6586840,THE_SRC_001_D17_P04_4,SRC_001_D17,SRC_001,Linh quế truật cam thang,Linh quế truật cam thang,6586840,U59.231.04.CP170,official_code
+BT_6586841,THE_SRC_001_D17_P04_4,SRC_001_D17,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586841,U59.231.04.ĐP120,official_code
+BT_6586842,THE_SRC_001_D17_P04_4,SRC_001_D17,SRC_001,Thuốc nam,Thuốc nam,6586842,U59.231.04.TN008,official_code
+BT_6586843,THE_SRC_001_D17_P05_5,SRC_001_D17,SRC_001,Tiểu thanh long thang,Tiểu thanh long thang,6586843,U59.231.05.CP171,official_code
+BT_6586844,THE_SRC_001_D17_P05_5,SRC_001_D17,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586844,U59.231.05.ĐP121,official_code
+BT_6586846,THE_SRC_001_D18_P01_1,SRC_001_D18,SRC_001,Quế chi thang,Quế chi thang,6586846,U61.011.01.CP172,official_code
+BT_6586847,THE_SRC_001_D18_P01_1,SRC_001_D18,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586847,U61.011.01.ĐP122,official_code
+BT_6586848,THE_SRC_001_D18_P01_1,SRC_001_D18,SRC_001,Nghiệm phương,Nghiệm phương,6586848,U61.011.01.NP106,official_code
+BT_6586849,THE_SRC_001_D18_P02_2,SRC_001_D18,SRC_001,Ngân kiều tán,Ngân kiều tán,6586849,U61.011.02.CP173,official_code
+BT_6586850,THE_SRC_001_D18_P02_2,SRC_001_D18,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586850,U61.011.02.ĐP123,official_code
+BT_6586851,THE_SRC_001_D18_P02_2,SRC_001_D18,SRC_001,Nghiệm phương,Nghiệm phương,6586851,U61.011.02.NP107,official_code
+BT_6586853,THE_SRC_001_D18_P03_3,SRC_001_D18,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586853,U61.011.03.ĐP124,official_code
+BT_6586852,THE_SRC_001_D18_P03_3,SRC_001_D18,SRC_001,Tiêu phong tán,Tiêu phong tán,6586852,U61.011.03.CP174,official_code
+BT_6586854,THE_SRC_001_D18_P03_3,SRC_001_D18,SRC_001,Nghiệm phương,Nghiệm phương,6586854,U61.011.03.NP108,official_code
+BT_6586889,THE_SRC_001_D19_P01_1,SRC_001_D19,SRC_001,Bát chính tán,Bát chính tán,6586889,U66.372.01.CP185,official_code
+BT_6586890,THE_SRC_001_D19_P01_1,SRC_001_D19,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586890,U66.372.01.ĐP135,official_code
+BT_6586891,THE_SRC_001_D19_P01_1,SRC_001_D19,SRC_001,Nghiệm phương,Nghiệm phương,6586891,U66.372.01.NP119,official_code
+BT_6586893,THE_SRC_001_D19_P02_2,SRC_001_D19,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586893,U66.372.02.ĐP136,official_code
+BT_6586894,THE_SRC_001_D19_P02_2,SRC_001_D19,SRC_001,Nghiệm phương,Nghiệm phương,6586894,U66.372.02.NP120,official_code
+BT_6586895,THE_SRC_001_D19_P03_3,SRC_001_D19,SRC_001,Sài hồ sơ can thang hợp Trầm hương giải khí tán,Sài hồ sơ can thang hợp Trầm hương giải khí tán,6586895,U66.372.03.CP187,official_code
+BT_6586896,THE_SRC_001_D19_P03_3,SRC_001_D19,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586896,U66.372.03.ĐP137,official_code
+BT_6586897,THE_SRC_001_D19_P03_3,SRC_001_D19,SRC_001,Nghiệm phương,Nghiệm phương,6586897,U66.372.03.NP121,official_code
+BT_6586898,THE_SRC_001_D19_P04_4,SRC_001_D19,SRC_001,Tế sinh thận khí hoàn,Tế sinh thận khí hoàn,6586898,U66.372.04.CP188,official_code
+BT_6586899,THE_SRC_001_D19_P04_4,SRC_001_D19,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586899,U66.372.04.ĐP138,official_code
+BT_6586900,THE_SRC_001_D19_P04_4,SRC_001_D19,SRC_001,Nghiệm phương,Nghiệm phương,6586900,U66.372.04.NP122,official_code
+BT_6586902,THE_SRC_001_D20_P01_1,SRC_001_D20,SRC_001,Hòe hoa tán,Hòe hoa tán,6586902,U58.762.01.CP189,official_code
+BT_6586903,THE_SRC_001_D20_P01_1,SRC_001_D20,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586903,U58.762.01.ĐP139,official_code
+BT_6586904,THE_SRC_001_D20_P01_1,SRC_001_D20,SRC_001,Nghiệm phương,Nghiệm phương,6586904,U58.762.01.NP123,official_code
+BT_6586905,THE_SRC_001_D20_P01_1,SRC_001_D20,SRC_001,Lá móng,Thuốc dùng ngoài,6586905,U58.762.01.DN006,official_code
+BT_6586906,THE_SRC_001_D20_P01_1,SRC_001_D20,SRC_001,Kha tử,Thuốc dùng ngoài,6586906,U58.762.01.DN007,official_code
+BT_6586907,THE_SRC_001_D20_P02_2,SRC_001_D20,SRC_001,Hoạt huyết địa hoàng thang,Hoạt huyết địa hoàng thang,6586907,U58.762.02.CP190,official_code
+BT_6586908,THE_SRC_001_D20_P02_2,SRC_001_D20,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586908,U58.762.02.ĐP140,official_code
+BT_6586909,THE_SRC_001_D20_P02_2,SRC_001_D20,SRC_001,Nghiệm phương,Nghiệm phương,6586909,U58.762.02.NP124,official_code
+BT_6586910,THE_SRC_001_D20_P02_2,SRC_001_D20,SRC_001,Lá móng,Thuốc dùng ngoài,6586910,U58.762.02.DN008,official_code
+BT_6586911,THE_SRC_001_D20_P02_2,SRC_001_D20,SRC_001,Kha tử,Thuốc dùng ngoài,6586911,U58.762.02.DN009,official_code
+BT_6586912,THE_SRC_001_D20_P03_3,SRC_001_D20,SRC_001,Hòe hoa tán,Hòe hoa tán,6586912,U58.762.03.CP191,official_code
+BT_6586913,THE_SRC_001_D20_P03_3,SRC_001_D20,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586913,U58.762.03.ĐP141,official_code
+BT_6586914,THE_SRC_001_D20_P03_3,SRC_001_D20,SRC_001,Nghiệm phương,Nghiệm phương,6586914,U58.762.03.NP125,official_code
+BT_6586915,THE_SRC_001_D20_P03_3,SRC_001_D20,SRC_001,Lá móng,Thuốc dùng ngoài,6586915,U58.762.03.DN010,official_code
+BT_6586916,THE_SRC_001_D20_P03_3,SRC_001_D20,SRC_001,Kha tử,Thuốc dùng ngoài,6586916,U58.762.03.DN011,official_code
+BT_6586917,THE_SRC_001_D20_P04_4,SRC_001_D20,SRC_001,Bổ trung ích khí thang,Bổ trung ích khí thang,6586917,U58.762.04.CP192,official_code
+BT_6586918,THE_SRC_001_D20_P04_4,SRC_001_D20,SRC_001,Đối pháp lập phương,Đối pháp lập phương,6586918,U58.762.04.ĐP142,official_code
+BT_6586919,THE_SRC_001_D20_P04_4,SRC_001_D20,SRC_001,Nghiệm phương,Nghiệm phương,6586919,U58.762.04.NP126,official_code
+BT_6586920,THE_SRC_001_D20_P04_4,SRC_001_D20,SRC_001,Lá móng,Thuốc dùng ngoài,6586920,U58.762.04.DN012,official_code
+BT_6586921,THE_SRC_001_D20_P04_4,SRC_001_D20,SRC_001,Kha tử,Thuốc dùng ngoài,6586921,U58.762.04.DN013,official_code

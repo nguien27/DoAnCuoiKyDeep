@@ -1,0 +1,324 @@
+﻿entity_id,entity_type,observed_name,canonical_name,official_id,official_code,normalization_status,notes
+BENH_U62_392_5,BỆNH_CHỨNG,Yêu thống,Yêu thống,6500000,U62.392.5,official_code,Tên hiện đại: Đau cột sống thắt lưng; ICD-10: M54.5
+BENH_U62_261,BỆNH_CHỨNG,Hạc tất phong,Hạc tất phong,6500007,U62.261,official_code,Tên hiện đại: Thoái hoá khớp gối; ICD-10: M17
+BENH_U62_371,BỆNH_CHỨNG,Thống phong,Thống phong,6500012,U62.371,official_code,Tên hiện đại: Gút (thống phong); ICD-10: M10
+BENH_U62_021,BỆNH_CHỨNG,Chứng tý,Chứng tý,6500018,U62.021,official_code,Tên hiện đại: Viêm khớp dạng thấp huyết thanh dương tính; ICD-10: M05
+THE_U62_392_5_01,THỂ_BỆNH,Thể hàn thấp,Thể hàn thấp,6500001,U62.392.5.01,official_code,"pháp_trị=Tán hàn, trừ thấp, ôn thông kinh lạc."
+THE_U62_392_5_02,THỂ_BỆNH,Thể thấp nhiệt,Thể thấp nhiệt,6500002,U62.392.5.02,official_code,pháp_trị=Thanh nhiệt trừ thấp.
+THE_U62_392_5_03,THỂ_BỆNH,Thể huyết ứ,Thể huyết ứ,6500003,U62.392.5.03,official_code,"pháp_trị=Hoạt huyết hóa ứ, thư cân hoạt lạc."
+THE_U62_392_5_04,THỂ_BỆNH,Thể can thận hư,Thể can thận hư,6500004,U62.392.5.04,official_code,"pháp_trị=Bổ can thận, khu phong trừ thấp, thông kinh hoạt lạc."
+THE_U62_392_5_05,THỂ_BỆNH,Thể thận dương hư,Thể thận dương hư,6500005,U62.392.5.05,official_code,pháp_trị=Ôn bổ thận dương
+THE_U62_261_01,THỂ_BỆNH,Thể phong hàn thấp tý,Thể phong hàn thấp tý,6500008,U62.261.01,official_code,"pháp_trị=Trừ thấp, khu phong, tán hàn, chỉ thống."
+THE_U62_261_02,THỂ_BỆNH,Thể phong hàn thấp tý kèm can thận hư,Thể phong hàn thấp tý kèm can thận hư,6500009,U62.261.02,official_code,"pháp_trị=Trừ thấp, khu phong, tán hàn, chỉ thống, bổ can thận."
+THE_U62_261_03,THỂ_BỆNH,Thể phong thấp nhiệt kèm can thận hư,Thể phong thấp nhiệt kèm can thận hư,6500010,U62.261.03,official_code,"pháp_trị=Thanh nhiệt, khu phong, trừ thấp, chỉ thống, bổ can thận."
+THE_U62_371_01,THỂ_BỆNH,Thể phong thấp nhiệt,Thể phong thấp nhiệt,6500013,U62.371.01,official_code,"pháp_trị=Thanh nhiệt lợi thấp, tiêu thũng chỉ thống."
+THE_U62_371_02,THỂ_BỆNH,Thể phong hàn thấp,Thể phong hàn thấp,6500014,U62.371.02,official_code,"pháp_trị=Khu phong tán hàn trừ thấp, thông lạc chỉ thống."
+THE_U62_371_03,THỂ_BỆNH,Thể đàm ứ trở trệ,Thể đàm ứ trở trệ,6500015,U62.371.03,official_code,"pháp_trị=Hoạt huyết hoá ứ, hoá đàm tán kết."
+THE_U62_371_04,THỂ_BỆNH,Thể can thận lưỡng hư,Thể can thận lưỡng hư,6500016,U62.371.04,official_code,"pháp_trị=Bổ can thận, trừ phong thấp, hoạt lạc chỉ thống."
+THE_U62_021_01,THỂ_BỆNH,Thể phong thấp,Thể phong thấp,6500019,U62.021.01,official_code,"pháp_trị=Khu phong, trừ thấp, thông lạc, chỉ thống."
+THE_U62_021_02,THỂ_BỆNH,Thể hàn thấp,Thể hàn thấp,6500020,U62.021.02,official_code,"pháp_trị=Ôn kinh, tán hàn, trừ thấp, thông lạc."
+THE_U62_021_03,THỂ_BỆNH,Thể phong thấp nhiệt,Thể phong thấp nhiệt,6500021,U62.021.03,official_code,"pháp_trị=Khu phong, thanh nhiệt giải độc, hóa thấp."
+THE_U62_021_04,THỂ_BỆNH,Thể can thận hư,Thể can thận hư,6500022,U62.021.04,official_code,"pháp_trị=Khu phong, thanh nhiệt, trừ thấp, hóa đàm thông lạc, bổ can thận, kiện tỳ."
+TC_6541000,TRIỆU_CHỨNG,Đau nhiều vùng thắt lưng,Đau nhiều vùng thắt lưng,6541000,U62.392.5.01.Đ01,official_code,
+TC_6541001,TRIỆU_CHỨNG,"Đau tăng khi trời lạnh, ẩm","Đau tăng khi trời lạnh, ẩm",6541001,U62.392.5.01.Đ02,official_code,
+TC_6541002,TRIỆU_CHỨNG,"Cơ cạnh cột sống co cứng, không đỏ","Cơ cạnh cột sống co cứng, không đỏ",6541002,U62.392.5.01.Đ03,official_code,
+TC_6541003,TRIỆU_CHỨNG,Ấn đau,Ấn đau,6541003,U62.392.5.01.Đ04,official_code,
+TC_6541004,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541004,U62.392.5.01.Đ05,official_code,
+TC_6541006,TRIỆU_CHỨNG,Đau vùng thắt lưng,Đau vùng thắt lưng,6541006,U62.392.5.02.Đ01,official_code,
+TC_6541007,TRIỆU_CHỨNG,Vùng thắt lưng sưng nóng đỏ,Vùng thắt lưng sưng nóng đỏ,6541007,U62.392.5.02.Đ02,official_code,
+TC_6541009,TRIỆU_CHỨNG,Sốt,Sốt,6541009,U62.392.5.02.Đ04,official_code,
+TC_6541010,TRIỆU_CHỨNG,Bứt rứt,Bứt rứt,6541010,U62.392.5.02.K01,official_code,
+TC_6541012,TRIỆU_CHỨNG,Đau lưng,Đau lưng,6541012,U62.392.5.03.Đ01,official_code,
+TC_6541013,TRIỆU_CHỨNG,Đau lưng xuất hiện sau khi vác nặng,Đau lưng xuất hiện sau khi vác nặng,6541013,U62.392.5.03.Đ02,official_code,
+TC_6541014,TRIỆU_CHỨNG,Đau lưng xuất hiện sau khi lệch người,Đau lưng xuất hiện sau khi lệch người,6541014,U62.392.5.03.Đ03,official_code,
+TC_6541015,TRIỆU_CHỨNG,Đau lưng xuất hiện sau một động tác thay đổi tư thế đột ngột,Đau lưng xuất hiện sau một động tác thay đổi tư thế đột ngột,6541015,U62.392.5.03.Đ04,official_code,
+TC_6541016,TRIỆU_CHỨNG,"Đau lưng dữ dội ở một chỗ, cự án","Đau lưng dữ dội ở một chỗ, cự án",6541016,U62.392.5.03.Đ05,official_code,
+TC_6541017,TRIỆU_CHỨNG,Vận động bị hạn chế,Vận động bị hạn chế,6541017,U62.392.5.03.Đ06,official_code,
+TC_6541019,TRIỆU_CHỨNG,"Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi","Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi",6541019,U62.392.5.04.Đ01,official_code,
+TC_6541020,TRIỆU_CHỨNG,Sắc mặt nhợt,Sắc mặt nhợt,6541020,U62.392.5.04.Đ02,official_code,
+TC_6541021,TRIỆU_CHỨNG,Sắc mặt đỏ,Sắc mặt đỏ,6541021,U62.392.5.04.Đ03,official_code,
+TC_6541022,TRIỆU_CHỨNG,Chân gối yếu,Chân gối yếu,6541022,U62.392.5.04.Đ04,official_code,
+TC_6541023,TRIỆU_CHỨNG,Chân tay lạnh,Chân tay lạnh,6541023,U62.392.5.04.Đ05,official_code,
+TC_6541024,TRIỆU_CHỨNG,Miệng họng khô,Miệng họng khô,6541024,U62.392.5.04.Đ06,official_code,
+TC_6541025,TRIỆU_CHỨNG,Bụng dưới lạnh đau,Bụng dưới lạnh đau,6541025,U62.392.5.04.Đ07,official_code,
+TC_6541026,TRIỆU_CHỨNG,Lòng bàn tay bàn chân nóng,Lòng bàn tay bàn chân nóng,6541026,U62.392.5.04.Đ08,official_code,
+TC_6541028,TRIỆU_CHỨNG,"Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi","Đau lưng, đau âm ỉ, đau nhiều khi lao động, giảm khi nghỉ ngơi",6541028,U62.392.5.05.Đ01,official_code,
+TC_6541029,TRIỆU_CHỨNG,Sắc mặt nhợt,Sắc mặt nhợt,6541029,U62.392.5.05.Đ02,official_code,
+TC_6541030,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541030,U62.392.5.05.Đ03,official_code,
+TC_6541031,TRIỆU_CHỨNG,Bụng dưới lạnh,Bụng dưới lạnh,6541031,U62.392.5.05.Đ04,official_code,
+TC_6541032,TRIỆU_CHỨNG,Chân tay lạnh,Chân tay lạnh,6541032,U62.392.5.05.Đ05,official_code,
+TC_6541033,TRIỆU_CHỨNG,Chân gối yếu,Chân gối yếu,6541033,U62.392.5.05.Đ06,official_code,
+TC_6541034,TRIỆU_CHỨNG,Tiểu đêm,Tiểu đêm,6541034,U62.392.5.05.Đ07,official_code,
+TC_6541035,TRIỆU_CHỨNG,Đại tiện nát,Đại tiện nát,6541035,U62.392.5.05.Đ08,official_code,
+TC_6541038,TRIỆU_CHỨNG,"Khớp gối đau, sưng nề, không nóng đỏ","Khớp gối đau, sưng nề, không nóng đỏ",6541038,U62.261.01.Đ01,official_code,
+TC_6541039,TRIỆU_CHỨNG,"Đau tăng khi trời lạnh, ẩm","Đau tăng khi trời lạnh, ẩm",6541039,U62.261.01.Đ02,official_code,
+TC_6541040,TRIỆU_CHỨNG,Hạn chế vận động khớp gối một bên,Hạn chế vận động khớp gối một bên,6541040,U62.261.01.Đ03,official_code,
+TC_6541041,TRIỆU_CHỨNG,Hạn chế vận động khớp gối hai bên,Hạn chế vận động khớp gối hai bên,6541041,U62.261.01.Đ04,official_code,
+TC_6541042,TRIỆU_CHỨNG,Sợ lạnh,Sợ lạnh,6541042,U62.261.01.Đ05,official_code,
+TC_6541043,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541043,U62.261.01.Đ06,official_code,
+TC_6541044,TRIỆU_CHỨNG,Không sốt,Không sốt,6541044,U62.261.01.Đ07,official_code,
+TC_6541045,TRIỆU_CHỨNG,Đỡ đau khi chườm nóng,Đỡ đau khi chườm nóng,6541045,U62.261.01.K01,official_code,
+TC_6541047,TRIỆU_CHỨNG,Đau mỏi khớp gối,Đau mỏi khớp gối,6541047,U62.261.02.Đ01,official_code,
+TC_6541048,TRIỆU_CHỨNG,"Khớp gối đau, sưng nề, không nóng đỏ","Khớp gối đau, sưng nề, không nóng đỏ",6541048,U62.261.02.Đ02,official_code,
+TC_6541049,TRIỆU_CHỨNG,"Đau tăng sau khi nhiễm ngoại tà (phong, hàn, thấp)","Đau tăng sau khi nhiễm ngoại tà (phong, hàn, thấp)",6541049,U62.261.02.Đ03,official_code,
+TC_6541050,TRIỆU_CHỨNG,Hạn chế vận động khớp gối một bên,Hạn chế vận động khớp gối một bên,6541050,U62.261.02.Đ04,official_code,
+TC_6541051,TRIỆU_CHỨNG,Hạn chế vận động khớp gối hai bên,Hạn chế vận động khớp gối hai bên,6541051,U62.261.02.Đ05,official_code,
+TC_6541052,TRIỆU_CHỨNG,Vận động co duỗi khó khăn,Vận động co duỗi khó khăn,6541052,U62.261.02.Đ06,official_code,
+TC_6541053,TRIỆU_CHỨNG,Biến dạng khớp,Biến dạng khớp,6541053,U62.261.02.Đ07,official_code,
+TC_6541054,TRIỆU_CHỨNG,Đau mỏi lưng gối,Đau mỏi lưng gối,6541054,U62.261.02.Đ08,official_code,
+TC_6541055,TRIỆU_CHỨNG,Ù tai,Ù tai,6541055,U62.261.02.Đ09,official_code,
+TC_6541056,TRIỆU_CHỨNG,Ngủ kém,Ngủ kém,6541056,U62.261.02.Đ10,official_code,
+TC_6541058,TRIỆU_CHỨNG,Đau mỏi khớp gối từ lâu,Đau mỏi khớp gối từ lâu,6541058,U62.261.03.Đ01,official_code,
+TC_6541059,TRIỆU_CHỨNG,Vận động co duỗi khó khăn,Vận động co duỗi khó khăn,6541059,U62.261.03.Đ02,official_code,
+TC_6541060,TRIỆU_CHỨNG,Biến dạng khớp,Biến dạng khớp,6541060,U62.261.03.Đ03,official_code,
+TC_6541061,TRIỆU_CHỨNG,"Khớp gối một bên sưng, đau, nóng, đỏ","Khớp gối một bên sưng, đau, nóng, đỏ",6541061,U62.261.03.Đ04,official_code,
+TC_6541062,TRIỆU_CHỨNG,"Khớp gối hai bên sưng, đau, nóng, đỏ","Khớp gối hai bên sưng, đau, nóng, đỏ",6541062,U62.261.03.Đ05,official_code,
+TC_6541063,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6541063,U62.261.03.Đ06,official_code,
+TC_6541064,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541064,U62.261.03.Đ07,official_code,
+TC_6541065,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541065,U62.261.03.Đ08,official_code,
+TC_6541066,TRIỆU_CHỨNG,Miệng khô khát,Miệng khô khát,6541066,U62.261.03.Đ09,official_code,
+TC_6541067,TRIỆU_CHỨNG,Phiền táo bứt rứt không yên,Phiền táo bứt rứt không yên,6541067,U62.261.03.Đ10,official_code,
+TC_6541068,TRIỆU_CHỨNG,Tiểu vàng lượng ít,Tiểu vàng lượng ít,6541068,U62.261.03.Đ11,official_code,
+TC_6541071,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau một khớp","Sưng, nóng, đỏ, đau một khớp",6541071,U62.371.01.Đ01,official_code,
+TC_6541072,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau nhiều khớp","Sưng, nóng, đỏ, đau nhiều khớp",6541072,U62.371.01.Đ02,official_code,
+TC_6541073,TRIỆU_CHỨNG,"Sưng, nóng, đỏ, đau khớp bàn ngón chân cái","Sưng, nóng, đỏ, đau khớp bàn ngón chân cái",6541073,U62.371.01.Đ03,official_code,
+TC_6541074,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6541074,U62.371.01.Đ04,official_code,
+TC_6541075,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541075,U62.371.01.Đ05,official_code,
+TC_6541076,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541076,U62.371.01.Đ06,official_code,
+TC_6541077,TRIỆU_CHỨNG,Miệng khô khát,Miệng khô khát,6541077,U62.371.01.Đ07,official_code,
+TC_6541078,TRIỆU_CHỨNG,Phiền táo bứt rứt không yên,Phiền táo bứt rứt không yên,6541078,U62.371.01.Đ08,official_code,
+TC_6541079,TRIỆU_CHỨNG,Tiểu vàng số lượng ít,Tiểu vàng số lượng ít,6541079,U62.371.01.Đ09,official_code,
+TC_6541081,TRIỆU_CHỨNG,Khớp sưng nề,Khớp sưng nề,6541081,U62.371.02.Đ01,official_code,
+TC_6541082,TRIỆU_CHỨNG,Hạn chế vận động khớp,Hạn chế vận động khớp,6541082,U62.371.02.Đ02,official_code,
+TC_6541083,TRIỆU_CHỨNG,Đau khớp có tính chất lưu chuyển,Đau khớp có tính chất lưu chuyển,6541083,U62.371.02.Đ03,official_code,
+TC_6541084,TRIỆU_CHỨNG,Đau dữ dội các khớp,Đau dữ dội các khớp,6541084,U62.371.02.Đ04,official_code,
+TC_6541085,TRIỆU_CHỨNG,Vị trí đau cố định,Vị trí đau cố định,6541085,U62.371.02.Đ05,official_code,
+TC_6541086,TRIỆU_CHỨNG,Đau tăng khi gặp lạnh,Đau tăng khi gặp lạnh,6541086,U62.371.02.Đ06,official_code,
+TC_6541087,TRIỆU_CHỨNG,Đau bứt rứt nặng nề tại các khớp,Đau bứt rứt nặng nề tại các khớp,6541087,U62.371.02.Đ07,official_code,
+TC_6541088,TRIỆU_CHỨNG,Có các hạt lắng đọng cạnh khớp,Có các hạt lắng đọng cạnh khớp,6541088,U62.371.02.Đ08,official_code,
+TC_6541089,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541089,U62.371.02.Đ09,official_code,
+TC_6541090,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541090,U62.371.02.K01,official_code,
+TC_6541091,TRIỆU_CHỨNG,Dễ chịu khi chườm nóng,Dễ chịu khi chườm nóng,6541091,U62.371.02.K02,official_code,
+TC_6541092,TRIỆU_CHỨNG,Tê bì khó chịu trong cơ và ngoài da,Tê bì khó chịu trong cơ và ngoài da,6541092,U62.371.02.K03,official_code,
+TC_6541094,TRIỆU_CHỨNG,Các khớp sưng nề,Các khớp sưng nề,6541094,U62.371.03.Đ01,official_code,
+TC_6541095,TRIỆU_CHỨNG,"Xung quanh khớp sưng, tái đi tái lại nhiều lần, dai dẳng không dứt","Xung quanh khớp sưng, tái đi tái lại nhiều lần, dai dẳng không dứt",6541095,U62.371.03.Đ02,official_code,
+TC_6541096,TRIỆU_CHỨNG,Đau nhức nhẹ,Đau nhức nhẹ,6541096,U62.371.03.Đ03,official_code,
+TC_6541097,TRIỆU_CHỨNG,Có các hạt cứng cạnh khớp,Có các hạt cứng cạnh khớp,6541097,U62.371.03.Đ04,official_code,
+TC_6541098,TRIỆU_CHỨNG,Sắc da tím,Sắc da tím,6541098,U62.371.03.Đ05,official_code,
+TC_6541100,TRIỆU_CHỨNG,"Đau khớp tái đi tái lại, dai dẳng không dứt","Đau khớp tái đi tái lại, dai dẳng không dứt",6541100,U62.371.04.Đ01,official_code,
+TC_6541101,TRIỆU_CHỨNG,Đau khớp lúc nặng lúc nhẹ,Đau khớp lúc nặng lúc nhẹ,6541101,U62.371.04.Đ02,official_code,
+TC_6541102,TRIỆU_CHỨNG,Đau nhức âm ỉ di chuyển giữa các khớp,Đau nhức âm ỉ di chuyển giữa các khớp,6541102,U62.371.04.Đ03,official_code,
+TC_6541103,TRIỆU_CHỨNG,"Khớp sưng nề, hạn chế vận động","Khớp sưng nề, hạn chế vận động",6541103,U62.371.04.Đ04,official_code,
+TC_6541104,TRIỆU_CHỨNG,Khớp biến dạng,Khớp biến dạng,6541104,U62.371.04.Đ05,official_code,
+TC_6541105,TRIỆU_CHỨNG,Đau lưng,Đau lưng,6541105,U62.371.04.Đ06,official_code,
+TC_6541106,TRIỆU_CHỨNG,Mỏi gối,Mỏi gối,6541106,U62.371.04.Đ07,official_code,
+TC_6541107,TRIỆU_CHỨNG,Người mệt mỏi,Người mệt mỏi,6541107,U62.371.04.Đ08,official_code,
+TC_6541108,TRIỆU_CHỨNG,Đau đầu,Đau đầu,6541108,U62.371.04.Đ09,official_code,
+TC_6541109,TRIỆU_CHỨNG,Hoa mắt chóng mặt,Hoa mắt chóng mặt,6541109,U62.371.04.Đ10,official_code,
+TC_6541110,TRIỆU_CHỨNG,"Tâm quý (tim đập nhanh, hồi hộp)","Tâm quý (tim đập nhanh, hồi hộp)",6541110,U62.371.04.Đ11,official_code,
+TC_6541111,TRIỆU_CHỨNG,Khí đoản (hụt hơi),Khí đoản (hụt hơi),6541111,U62.371.04.Đ12,official_code,
+TC_6541114,TRIỆU_CHỨNG,Các khớp và cơ nhục đau mỏi,Các khớp và cơ nhục đau mỏi,6541114,U62.021.01.Đ01,official_code,
+TC_6541115,TRIỆU_CHỨNG,Các khớp sưng đau,Các khớp sưng đau,6541115,U62.021.01.Đ02,official_code,
+TC_6541116,TRIỆU_CHỨNG,Đau có tính chất di chuyển và xảy ra ở các khớp nhỏ,Đau có tính chất di chuyển và xảy ra ở các khớp nhỏ,6541116,U62.021.01.Đ03,official_code,
+TC_6541117,TRIỆU_CHỨNG,Đau có tính chất di chuyển và xảy ở các khớp nhỡ,Đau có tính chất di chuyển và xảy ở các khớp nhỡ,6541117,U62.021.01.Đ04,official_code,
+TC_6541118,TRIỆU_CHỨNG,Đau có tính chất di chuyển và xảy ở các khớp nhỏ và nhỡ,Đau có tính chất di chuyển và xảy ở các khớp nhỏ và nhỡ,6541118,U62.021.01.Đ05,official_code,
+TC_6541119,TRIỆU_CHỨNG,Các khớp co duỗi khó khăn,Các khớp co duỗi khó khăn,6541119,U62.021.01.Đ06,official_code,
+TC_6541120,TRIỆU_CHỨNG,Các khớp cảm giác nặng nề,Các khớp cảm giác nặng nề,6541120,U62.021.01.Đ07,official_code,
+TC_6541121,TRIỆU_CHỨNG,Bì phù có cảm giác tê bì,Bì phù có cảm giác tê bì,6541121,U62.021.01.Đ08,official_code,
+TC_6541122,TRIỆU_CHỨNG,Sợ gió,Sợ gió,6541122,U62.021.01.Đ09,official_code,
+TC_6541123,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541123,U62.021.01.Đ10,official_code,
+TC_6541125,TRIỆU_CHỨNG,"Các khớp ở chi trên đau, lạnh và nặng nề","Các khớp ở chi trên đau, lạnh và nặng nề",6541125,U62.021.02.Đ01,official_code,
+TC_6541126,TRIỆU_CHỨNG,"Các khớp ở chi dưới đau, lạnh và nặng nề","Các khớp ở chi dưới đau, lạnh và nặng nề",6541126,U62.021.02.Đ02,official_code,
+TC_6541127,TRIỆU_CHỨNG,"Các khớp ở chi trên và chi dưới đau, lạnh và nặng nề","Các khớp ở chi trên và chi dưới đau, lạnh và nặng nề",6541127,U62.021.02.Đ03,official_code,
+TC_6541128,TRIỆU_CHỨNG,Chỗ đau ít sưng nề,Chỗ đau ít sưng nề,6541128,U62.021.02.Đ04,official_code,
+TC_6541129,TRIỆU_CHỨNG,"Đau cố định, ít di chuyển","Đau cố định, ít di chuyển",6541129,U62.021.02.Đ05,official_code,
+TC_6541130,TRIỆU_CHỨNG,Khớp tổn thương không nóng đỏ,Khớp tổn thương không nóng đỏ,6541130,U62.021.02.Đ06,official_code,
+TC_6541131,TRIỆU_CHỨNG,Khớp tổn thương co duỗi khó khăn,Khớp tổn thương co duỗi khó khăn,6541131,U62.021.02.Đ07,official_code,
+TC_6541132,TRIỆU_CHỨNG,Về đêm đau nặng,Về đêm đau nặng,6541132,U62.021.02.Đ08,official_code,
+TC_6541133,TRIỆU_CHỨNG,"Đau tăng khi thời tiết lạnh, ẩm","Đau tăng khi thời tiết lạnh, ẩm",6541133,U62.021.02.Đ09,official_code,
+TC_6541134,TRIỆU_CHỨNG,Ngày đau nhẹ,Ngày đau nhẹ,6541134,U62.021.02.K01,official_code,
+TC_6541135,TRIỆU_CHỨNG,Đỡ đau khi chườm nóng,Đỡ đau khi chườm nóng,6541135,U62.021.02.K02,official_code,
+TC_6541137,TRIỆU_CHỨNG,"Các khớp sưng, nóng, đỏ, đau","Các khớp sưng, nóng, đỏ, đau",6541137,U62.021.03.Đ01,official_code,
+TC_6541138,TRIỆU_CHỨNG,"Các khớp sưng, nóng, đỏ, đau, xuất hiện đối xứng","Các khớp sưng, nóng, đỏ, đau, xuất hiện đối xứng",6541138,U62.021.03.Đ02,official_code,
+TC_6541139,TRIỆU_CHỨNG,Đau cự án,Đau cự án,6541139,U62.021.03.Đ03,official_code,
+TC_6541140,TRIỆU_CHỨNG,Các khớp co duỗi khó khăn,Các khớp co duỗi khó khăn,6541140,U62.021.03.Đ04,official_code,
+TC_6541141,TRIỆU_CHỨNG,"Vận động, đi lại khó","Vận động, đi lại khó",6541141,U62.021.03.Đ05,official_code,
+TC_6541142,TRIỆU_CHỨNG,Phát sốt,Phát sốt,6541142,U62.021.03.Đ06,official_code,
+TC_6541143,TRIỆU_CHỨNG,Sắc mặt đỏ,Sắc mặt đỏ,6541143,U62.021.03.Đ07,official_code,
+TC_6541144,TRIỆU_CHỨNG,Thích uống nước mát,Thích uống nước mát,6541144,U62.021.03.Đ08,official_code,
+TC_6541145,TRIỆU_CHỨNG,Nước tiểu đỏ,Nước tiểu đỏ,6541145,U62.021.03.Đ09,official_code,
+TC_6541146,TRIỆU_CHỨNG,Đại tiện táo,Đại tiện táo,6541146,U62.021.03.Đ10,official_code,
+TC_6541147,TRIỆU_CHỨNG,Các khớp dễ chịu khi chườm lạnh,Các khớp dễ chịu khi chườm lạnh,6541147,U62.021.03.K01,official_code,
+TC_6541149,TRIỆU_CHỨNG,Cơ nhục và các khớp đau mỏi,Cơ nhục và các khớp đau mỏi,6541149,U62.021.04.Đ01,official_code,
+TC_6541150,TRIỆU_CHỨNG,Các khớp sưng nề,Các khớp sưng nề,6541150,U62.021.04.Đ02,official_code,
+TC_6541151,TRIỆU_CHỨNG,Teo cơ,Teo cơ,6541151,U62.021.04.Đ03,official_code,
+TC_6541152,TRIỆU_CHỨNG,Chỗ đau cố định không di chuyển,Chỗ đau cố định không di chuyển,6541152,U62.021.04.Đ04,official_code,
+TC_6541153,TRIỆU_CHỨNG,Cứng khớp,Cứng khớp,6541153,U62.021.04.Đ05,official_code,
+TC_6541154,TRIỆU_CHỨNG,Khớp biến dạng,Khớp biến dạng,6541154,U62.021.04.Đ06,official_code,
+TC_6541155,TRIỆU_CHỨNG,Chân tay tê bì và nặng nề,Chân tay tê bì và nặng nề,6541155,U62.021.04.Đ07,official_code,
+TC_6541156,TRIỆU_CHỨNG,Sắc mặt sạm đen,Sắc mặt sạm đen,6541156,U62.021.04.Đ08,official_code,
+TC_6541157,TRIỆU_CHỨNG,Mặt sưng nề,Mặt sưng nề,6541157,U62.021.04.Đ09,official_code,
+TC_6541158,TRIỆU_CHỨNG,Ngực đầy tức,Ngực đầy tức,6541158,U62.021.04.Đ10,official_code,
+BT_6586400,BÀI_THUỐC,Can khương thương truật thang,Can khương thương truật thang,6586400,U62.392.5.01.CP001,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586401,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586401,U62.392.5.01.ĐP001,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586402,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586402,U62.392.5.01.NP001,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586403,BÀI_THUỐC,Tứ diệu tán,Tứ diệu tán,6586403,U62.392.5.02.CP002,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586404,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586404,U62.392.5.02.NP002,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586405,BÀI_THUỐC,Thân thống trục ứ thang,Thân thống trục ứ thang,6586405,U62.392.5.03.CP003,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586406,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586406,U62.392.5.03.ĐP002,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586407,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586407,U62.392.5.03.NP003,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586408,BÀI_THUỐC,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586408,U62.392.5.04.CP004,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586409,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586409,U62.392.5.04.ĐP003,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586410,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586410,U62.392.5.04.NP004,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586411,BÀI_THUỐC,Thận khí hoàn,Thận khí hoàn,6586411,U62.392.5.05.CP005,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586412,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586412,U62.392.5.05.ĐP004,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586413,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586413,U62.392.5.05.NP005,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586415,BÀI_THUỐC,Ý dĩ nhân thang,Ý dĩ nhân thang,6586415,U62.261.01.CP006,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586416,BÀI_THUỐC,Ô đầu thang,Ô đầu thang,6586416,U62.261.01.CP007,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586417,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586417,U62.261.01.ĐP005,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586418,BÀI_THUỐC,Thấp khớp II,Nghiệm phương,6586418,U62.261.01.NP006,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586419,BÀI_THUỐC,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586419,U62.261.02.CP008,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586420,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586420,U62.261.02.ĐP006,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586421,BÀI_THUỐC,Độc hoạt phong thấp hoàn,Nghiệm phương,6586421,U62.261.02.NP007,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586422,BÀI_THUỐC,Ý dĩ nhân thang hợp với Nhị diệu tán,Ý dĩ nhân thang hợp với Nhị diệu tán,6586422,U62.261.03.CP009,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586423,BÀI_THUỐC,Bạch hổ quế chi thang,Bạch hổ quế chi thang,6586423,U62.261.03.CP010,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586424,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586424,U62.261.03.ĐP007,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586425,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586425,U62.261.03.NP008,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586427,BÀI_THUỐC,Tuyên tý thang hợp Tam diệu thang,Tuyên tý thang hợp Tam diệu thang,6586427,U62.371.01.CP011,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586428,BÀI_THUỐC,Bạch hổ quế chi thang,Bạch hổ quế chi thang,6586428,U62.371.01.CP012,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586429,BÀI_THUỐC,Tứ diệu thang,Tứ diệu thang,6586429,U62.371.01.CP013,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586430,BÀI_THUỐC,Cao Kim hoàng tán,Thuốc dùng ngoài,6586430,U62.371.01.DN001,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586431,BÀI_THUỐC,Hạt mã tiền,Thuốc dùng ngoài,6586431,U62.371.01.DN002,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586432,BÀI_THUỐC,Ý dĩ nhân thang,Ý dĩ nhân thang,6586432,U62.371.02.CP014,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586433,BÀI_THUỐC,Ô đầu thang,Ô đầu thang,6586433,U62.371.02.CP015,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586434,BÀI_THUỐC,Hạt mã tiền,Thuốc dùng ngoài,6586434,U62.371.02.DN003,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586435,BÀI_THUỐC,Đào nhân ẩm hợp Nhị trần thang,Đào nhân ẩm hợp Nhị trần thang,6586435,U62.371.03.CP016,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586436,BÀI_THUỐC,Hạt mã tiền,Thuốc dùng ngoài,6586436,U62.371.03.DN004,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586437,BÀI_THUỐC,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586437,U62.371.04.CP017,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586438,BÀI_THUỐC,Hạt mã tiền,Thuốc dùng ngoài,6586438,U62.371.04.DN005,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586440,BÀI_THUỐC,Quyên tý thang,Quyên tý thang,6586440,U62.021.01.CP018,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586441,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586441,U62.021.01.ĐP008,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586442,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586442,U62.021.01.NP009,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586443,BÀI_THUỐC,Can khương thương truật thang,Can khương thương truật thang,6586443,U62.021.02.CP019,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586444,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586444,U62.021.02.ĐP009,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586445,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586445,U62.021.02.NP010,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586446,BÀI_THUỐC,Bạch hổ quế chi thang,Bạch hổ quế chi thang,6586446,U62.021.03.CP020,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586447,BÀI_THUỐC,Quế chi thược dược tri mẫu thang,Quế chi thược dược tri mẫu thang,6586447,U62.021.03.CP021,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586448,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586448,U62.021.03.ĐP010,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586449,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586449,U62.021.03.NP011,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586450,BÀI_THUỐC,Độc hoạt ký sinh thang,Độc hoạt ký sinh thang,6586450,U62.021.04.CP022,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586451,BÀI_THUỐC,Đối pháp lập phương,Đối pháp lập phương,6586451,U62.021.04.ĐP011,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_6586452,BÀI_THUỐC,Nghiệm phương,Nghiệm phương,6586452,U62.021.04.NP012,official_code,Giữ observed_name để không mất cách gọi trong prose.
+BT_CAND_TAM_TY_THANG_U62_261_02,BÀI_THUỐC,Tam tý thang,Tam tý thang,,,unmapped_candidate,Có trong SRC_001; không tự bịa mã khi PL06 không có entry tương ứng.
+DL_CAN_KHUONG,DƯỢC_LIỆU,Can khương,Can khương,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THUONG_TRUAT,DƯỢC_LIỆU,Thương truật,Thương truật,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_XUYEN_KHUNG,DƯỢC_LIỆU,Xuyên khung,Xuyên khung,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_QUE_CHI,DƯỢC_LIỆU,Quế chi,Quế chi,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_Y_DI,DƯỢC_LIỆU,Ý dĩ,Ý dĩ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_BACH_LINH,DƯỢC_LIỆU,Bạch linh,Bạch linh,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CAM_THAO,DƯỢC_LIỆU,Cam thảo,Cam thảo,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_LA_LOT,DƯỢC_LIỆU,Lá lốt,Lá lốt,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THIEN_NIEN_KIEN,DƯỢC_LIỆU,Thiên niên kiện,Thiên niên kiện,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_RE_CAY_XAU_HO,DƯỢC_LIỆU,Rễ cây xấu hổ,Rễ cây xấu hổ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_SINH_DIA,DƯỢC_LIỆU,Sinh địa,Sinh địa,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_SAI_DAT,DƯỢC_LIỆU,Sài đất,Sài đất,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THO_PHUC_LINH,DƯỢC_LIỆU,Thổ phục linh,Thổ phục linh,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HA_THU_O,DƯỢC_LIỆU,Hà thủ ô,Hà thủ ô,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CO_XUOC,DƯỢC_LIỆU,Cỏ xước,Cỏ xước,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NGUU_TAT,DƯỢC_LIỆU,Ngưu tất,Ngưu tất,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HOANG_BA,DƯỢC_LIỆU,Hoàng bá,Hoàng bá,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_BACH_TRUAT_SAO_CAM,DƯỢC_LIỆU,Bạch truật (sao cám),Bạch truật (sao cám),,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CAM_THAO_NAM,DƯỢC_LIỆU,Cam thảo nam,Cam thảo nam,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HY_THIEM_THAO,DƯỢC_LIỆU,Hy thiêm thảo,Hy thiêm thảo,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TY_GIAI,DƯỢC_LIỆU,Tỳ giải,Tỳ giải,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DUONG_QUY,DƯỢC_LIỆU,Đương qui,Đương quy,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DAO_NHAN,DƯỢC_LIỆU,Đào nhân,Đào nhân,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_MOT_DUOC,DƯỢC_LIỆU,Một dược,Một dược,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HUONG_PHU,DƯỢC_LIỆU,Hương phụ,Hương phụ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TAN_GIAO,DƯỢC_LIỆU,Tần giao,Tần giao,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HONG_HOA,DƯỢC_LIỆU,Hồng hoa,Hồng hoa,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_KHUONG_HOAT,DƯỢC_LIỆU,Khương hoạt,Khương hoạt,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DIA_LONG,DƯỢC_LIỆU,Địa long,Địa long,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NGU_LINH_CHI,DƯỢC_LIỆU,Ngũ linh chi,Ngũ linh chi,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CHICH_THAO,DƯỢC_LIỆU,Chích thảo,Chích thảo,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NGAI_CUU,DƯỢC_LIỆU,Ngải cứu,Ngải cứu,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TO_MOC,DƯỢC_LIỆU,Tô mộc,Tô mộc,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NGHE_VANG,DƯỢC_LIỆU,Nghệ vàng,Nghệ vàng,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TRAN_BI,DƯỢC_LIỆU,Trần bì,Trần bì,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_KINH_GIOI,DƯỢC_LIỆU,Kinh giới,Kinh giới,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_UAT_KIM,DƯỢC_LIỆU,Uất kim,Uất kim,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DANG_SAM,DƯỢC_LIỆU,Đảng sâm,Đảng sâm,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THUC_DIA,DƯỢC_LIỆU,Thục địa,Thục địa,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DO_TRONG,DƯỢC_LIỆU,Đỗ trọng,Đỗ trọng,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DOC_HOAT,DƯỢC_LIỆU,Độc hoạt,Độc hoạt,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_PHONG_PHONG,DƯỢC_LIỆU,Phòng phong,Phòng phong,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_PHUC_LINH,DƯỢC_LIỆU,Phục linh,Phục linh,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_BACH_THUOC,DƯỢC_LIỆU,Bạch thược,Bạch thược,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TE_TAN,DƯỢC_LIỆU,Tế tân,Tế tân,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TANG_KY_SINH,DƯỢC_LIỆU,Tang ký sinh,Tang ký sinh,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CAU_TICH,DƯỢC_LIỆU,Cẩu tích,Cẩu tích,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DAY_DAU_XUONG,DƯỢC_LIỆU,Dây đau xương,Dây đau xương,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_RE_CO_XUOC,DƯỢC_LIỆU,Rễ cỏ xước,Rễ cỏ xước,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_COT_TOAI,DƯỢC_LIỆU,Cốt toái,Cốt toái,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HOAI_SON,DƯỢC_LIỆU,Hoài sơn,Hoài sơn,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THO_TY_TU,DƯỢC_LIỆU,Thỏ ty tử,Thỏ ty tử,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_SON_THU,DƯỢC_LIỆU,Sơn thù,Sơn thù,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DAN_BI,DƯỢC_LIỆU,Đan bì,Đan bì,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TRACH_TA,DƯỢC_LIỆU,Trạch tả,Trạch tả,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NHUC_QUE,DƯỢC_LIỆU,Nhục quế,Nhục quế,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HAC_PHU_TU,DƯỢC_LIỆU,Hắc phụ tử,Hắc phụ tử,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_COT_KHI_CU,DƯỢC_LIỆU,Cốt khí củ,Cốt khí củ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TUC_DOAN,DƯỢC_LIỆU,Tục đoạn,Tục đoạn,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_BACH_TRUAT,DƯỢC_LIỆU,Bạch truật,Bạch truật,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_MA_HOANG,DƯỢC_LIỆU,Ma hoàng,Ma hoàng,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_SINH_KHUONG,DƯỢC_LIỆU,Sinh khương,Sinh khương,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HOANG_KY,DƯỢC_LIỆU,Hoàng kỳ,Hoàng kỳ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_MAT_ONG,DƯỢC_LIỆU,Mật ong,Mật ong,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_RE_XAU_HO,DƯỢC_LIỆU,Rễ xấu hổ,Rễ xấu hổ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DAY_GAM,DƯỢC_LIỆU,Dây gắm,Dây gắm,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_KE_HUYET_DANG,DƯỢC_LIỆU,Kê huyết đằng,Kê huyết đằng,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HY_THIEM,DƯỢC_LIỆU,Hy thiêm,Hy thiêm,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_QUE_TAM,DƯỢC_LIỆU,Quế tâm,Quế tâm,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_XICH_THUOC,DƯỢC_LIỆU,Xích thược,Xích thược,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_COT_TOAI_BO,DƯỢC_LIỆU,Cốt toái bổ,Cốt toái bổ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_KIM_NGAN_HOA,DƯỢC_LIỆU,Kim ngân hoa,Kim ngân hoa,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_Y_DI_NHAN,DƯỢC_LIỆU,Ý dĩ nhân,Ý dĩ nhân,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THUOC_DUOC,DƯỢC_LIỆU,Thược dược,Thược dược,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_SINH_THACH_CAO,DƯỢC_LIỆU,Sinh thạch cao,Sinh thạch cao,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TRI_MAU,DƯỢC_LIỆU,Tri mẫu,Tri mẫu,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NGANH_ME,DƯỢC_LIỆU,Ngạnh mễ,Ngạnh mễ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_RE_LA_LOT,DƯỢC_LIỆU,Rễ lá lốt,Rễ lá lốt,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HOAI_SON_LAM_AO,DƯỢC_LIỆU,Hoài sơn (làm áo),Hoài sơn (làm áo),,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CHI_TU_NHUOM_BOT_AO,DƯỢC_LIỆU,Chi tử (nhuộm bột áo),Chi tử (nhuộm bột áo),,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HOAT_THACH,DƯỢC_LIỆU,Hoạt thạch,Hoạt thạch,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HANH_NHAN,DƯỢC_LIỆU,Hạnh nhân,Hạnh nhân,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_XICH_TIEU_DAU,DƯỢC_LIỆU,Xích tiểu đậu,Xích tiểu đậu,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CHI_TU,DƯỢC_LIỆU,Chi tử,Chi tử,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_LIEN_KIEU,DƯỢC_LIỆU,Liên kiều,Liên kiều,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_SINH_Y_DI,DƯỢC_LIỆU,Sinh ý dĩ,Sinh ý dĩ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_DAI_HOANG,DƯỢC_LIỆU,Đại hoàng,Đại hoàng,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_KHUONG_HOANG,DƯỢC_LIỆU,Khương hoàng,Khương hoàng,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NAM_TINH,DƯỢC_LIỆU,Nam tinh,Nam tinh,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_BACH_CHI,DƯỢC_LIỆU,Bạch chỉ,Bạch chỉ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HAU_PHAC,DƯỢC_LIỆU,Hậu phác,Hậu phác,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THIEN_HOA_PHAN,DƯỢC_LIỆU,Thiên hoa phấn,Thiên hoa phấn,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HAT_MA_TIEN,DƯỢC_LIỆU,Hạt mã tiền,Hạt mã tiền,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NGAI_DIEP,DƯỢC_LIỆU,Ngải diệp,Ngải diệp,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_VUONG_BAT_LUU_HANH,DƯỢC_LIỆU,Vương bất lưu hành,Vương bất lưu hành,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HANH_TUOI_CA_RE,DƯỢC_LIỆU,Hành tươi cả rễ,Hành tươi cả rễ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_SINH_BAN_HA,DƯỢC_LIỆU,Sinh bán hạ,Sinh bán hạ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_PHU_TU_CHE,DƯỢC_LIỆU,Phụ tử chế,Phụ tử chế,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HANH_TUOI_CA_RAU,DƯỢC_LIỆU,Hành tươi cả râu,Hành tươi cả râu,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_BAN_HA_CHE,DƯỢC_LIỆU,Bán hạ chế,Bán hạ chế,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_UY_LINH_TIEN,DƯỢC_LIỆU,Uy linh tiên,Uy linh tiên,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_TANG_CHI,DƯỢC_LIỆU,Tang chi,Tang chi,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_MOC_HUONG,DƯỢC_LIỆU,Mộc hương,Mộc hương,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CHICH_CAM_THAO,DƯỢC_LIỆU,Chích cam thảo,Chích cam thảo,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_HAI_PHONG_DANG,DƯỢC_LIỆU,Hải phong đằng,Hải phong đằng,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_NHU_HUONG,DƯỢC_LIỆU,Nhũ hương,Nhũ hương,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_KE_DAU_NGUA,DƯỢC_LIỆU,Ké đầu ngựa,Ké đầu ngựa,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_CANH_DAU,DƯỢC_LIỆU,Cành dâu,Cành dâu,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_THACH_CAO_SONG,DƯỢC_LIỆU,Thạch cao sống,Thạch cao sống,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_RE_CA_GAI_LEO,DƯỢC_LIỆU,Rễ cà gai leo,Rễ cà gai leo,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_LA_HUYET_DU,DƯỢC_LIỆU,Lá huyết dụ,Lá huyết dụ,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.
+DL_BACH_CUONG_TAM,DƯỢC_LIỆU,Bạch cương tàm,Bạch cương tàm,,,exact_name_or_alias,Chưa gán mã PL05; không tự tạo mã dược liệu.

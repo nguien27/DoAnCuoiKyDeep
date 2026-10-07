@@ -1,0 +1,2 @@
+﻿scope,gold,pred,TP,FP,FN,precision,recall
+D01-D03 normalized entity regression,251,251,251,0,0,1.0,1.0

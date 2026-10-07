@@ -1,0 +1,419 @@
+{
+  "version": "v0.1",
+  "sources": {
+    "SRC_001": {
+      "pdf_pages": 165,
+      "expected_diseases": 20,
+      "detected_diseases": 20,
+      "start_page_mismatches": 0,
+      "diseases": [
+        {
+          "disease_id": "SRC_001_D01",
+          "start_pdf": 7,
+          "end_pdf": 14,
+          "sections": 6,
+          "body_lines": 462,
+          "section_lines_total": 462,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D02",
+          "start_pdf": 15,
+          "end_pdf": 20,
+          "sections": 6,
+          "body_lines": 371,
+          "section_lines_total": 371,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D03",
+          "start_pdf": 21,
+          "end_pdf": 28,
+          "sections": 6,
+          "body_lines": 482,
+          "section_lines_total": 482,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D04",
+          "start_pdf": 29,
+          "end_pdf": 36,
+          "sections": 6,
+          "body_lines": 473,
+          "section_lines_total": 473,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D05",
+          "start_pdf": 37,
+          "end_pdf": 43,
+          "sections": 6,
+          "body_lines": 417,
+          "section_lines_total": 417,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D06",
+          "start_pdf": 44,
+          "end_pdf": 50,
+          "sections": 6,
+          "body_lines": 467,
+          "section_lines_total": 467,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D07",
+          "start_pdf": 51,
+          "end_pdf": 58,
+          "sections": 6,
+          "body_lines": 457,
+          "section_lines_total": 457,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D08",
+          "start_pdf": 59,
+          "end_pdf": 63,
+          "sections": 6,
+          "body_lines": 283,
+          "section_lines_total": 283,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D09",
+          "start_pdf": 64,
+          "end_pdf": 71,
+          "sections": 6,
+          "body_lines": 429,
+          "section_lines_total": 429,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D10",
+          "start_pdf": 72,
+          "end_pdf": 78,
+          "sections": 6,
+          "body_lines": 419,
+          "section_lines_total": 419,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D11",
+          "start_pdf": 79,
+          "end_pdf": 86,
+          "sections": 6,
+          "body_lines": 468,
+          "section_lines_total": 468,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D12",
+          "start_pdf": 87,
+          "end_pdf": 95,
+          "sections": 6,
+          "body_lines": 482,
+          "section_lines_total": 482,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D13",
+          "start_pdf": 96,
+          "end_pdf": 103,
+          "sections": 6,
+          "body_lines": 394,
+          "section_lines_total": 394,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D14",
+          "start_pdf": 104,
+          "end_pdf": 110,
+          "sections": 6,
+          "body_lines": 364,
+          "section_lines_total": 364,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D15",
+          "start_pdf": 111,
+          "end_pdf": 118,
+          "sections": 6,
+          "body_lines": 487,
+          "section_lines_total": 487,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D16",
+          "start_pdf": 119,
+          "end_pdf": 124,
+          "sections": 6,
+          "body_lines": 297,
+          "section_lines_total": 297,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D17",
+          "start_pdf": 125,
+          "end_pdf": 134,
+          "sections": 6,
+          "body_lines": 558,
+          "section_lines_total": 558,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D18",
+          "start_pdf": 135,
+          "end_pdf": 139,
+          "sections": 6,
+          "body_lines": 269,
+          "section_lines_total": 269,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D19",
+          "start_pdf": 140,
+          "end_pdf": 145,
+          "sections": 6,
+          "body_lines": 347,
+          "section_lines_total": 347,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_001_D20",
+          "start_pdf": 146,
+          "end_pdf": 151,
+          "sections": 6,
+          "body_lines": 329,
+          "section_lines_total": 329,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        }
+      ],
+      "section_count": 120,
+      "chunk_count": 177,
+      "retrieval_chunk_count": 157,
+      "reference_chunk_count": 20,
+      "clean_body_pages": 145
+    },
+    "SRC_002": {
+      "pdf_pages": 184,
+      "expected_diseases": 16,
+      "detected_diseases": 16,
+      "start_page_mismatches": 0,
+      "diseases": [
+        {
+          "disease_id": "SRC_002_D01",
+          "start_pdf": 6,
+          "end_pdf": 21,
+          "sections": 6,
+          "body_lines": 892,
+          "section_lines_total": 892,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D02",
+          "start_pdf": 22,
+          "end_pdf": 28,
+          "sections": 6,
+          "body_lines": 358,
+          "section_lines_total": 358,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D03",
+          "start_pdf": 29,
+          "end_pdf": 37,
+          "sections": 6,
+          "body_lines": 460,
+          "section_lines_total": 460,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D04",
+          "start_pdf": 38,
+          "end_pdf": 46,
+          "sections": 6,
+          "body_lines": 451,
+          "section_lines_total": 451,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D05",
+          "start_pdf": 47,
+          "end_pdf": 57,
+          "sections": 6,
+          "body_lines": 509,
+          "section_lines_total": 509,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D06",
+          "start_pdf": 58,
+          "end_pdf": 68,
+          "sections": 6,
+          "body_lines": 499,
+          "section_lines_total": 499,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D07",
+          "start_pdf": 69,
+          "end_pdf": 78,
+          "sections": 6,
+          "body_lines": 458,
+          "section_lines_total": 458,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D08",
+          "start_pdf": 79,
+          "end_pdf": 85,
+          "sections": 6,
+          "body_lines": 331,
+          "section_lines_total": 331,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D09",
+          "start_pdf": 86,
+          "end_pdf": 91,
+          "sections": 6,
+          "body_lines": 301,
+          "section_lines_total": 301,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D10",
+          "start_pdf": 92,
+          "end_pdf": 101,
+          "sections": 6,
+          "body_lines": 514,
+          "section_lines_total": 514,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D11",
+          "start_pdf": 102,
+          "end_pdf": 111,
+          "sections": 7,
+          "body_lines": 475,
+          "section_lines_total": 475,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D12",
+          "start_pdf": 112,
+          "end_pdf": 131,
+          "sections": 6,
+          "body_lines": 1101,
+          "section_lines_total": 1101,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D13",
+          "start_pdf": 132,
+          "end_pdf": 142,
+          "sections": 5,
+          "body_lines": 524,
+          "section_lines_total": 524,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D14",
+          "start_pdf": 143,
+          "end_pdf": 153,
+          "sections": 5,
+          "body_lines": 578,
+          "section_lines_total": 578,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D15",
+          "start_pdf": 154,
+          "end_pdf": 173,
+          "sections": 7,
+          "body_lines": 900,
+          "section_lines_total": 900,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        },
+        {
+          "disease_id": "SRC_002_D16",
+          "start_pdf": 174,
+          "end_pdf": 184,
+          "sections": 7,
+          "body_lines": 518,
+          "section_lines_total": 518,
+          "first_section": "I. ĐẠI CƯƠNG",
+          "has_references": true
+        }
+      ],
+      "section_count": 97,
+      "chunk_count": 174,
+      "retrieval_chunk_count": 158,
+      "reference_chunk_count": 16,
+      "clean_body_pages": 179
+    }
+  },
+  "global": {
+    "disease_count": 36,
+    "section_count": 217,
+    "chunk_count": 351,
+    "retrieval_chunk_count": 315,
+    "reference_chunk_count": 36,
+    "unique_disease_ids": 36,
+    "unique_section_ids": 217,
+    "unique_chunk_ids": 351,
+    "duplicate_disease_ids": 0,
+    "duplicate_section_ids": 0,
+    "duplicate_chunk_ids": 0,
+    "empty_chunks": 0,
+    "invalid_page_ranges": 0,
+    "bad_encoding_chunks": 0,
+    "watermark_leak_chunks": 0,
+    "max_chunk_chars": 2800,
+    "median_chunk_chars": 2008,
+    "mean_chunk_chars": 1797.1,
+    "max_chunk_words": 631,
+    "median_chunk_words": 433,
+    "metadata_missing_chunks": 0,
+    "diseases_without_first_I_dai_cuong": 0,
+    "diseases_section_line_mismatch": 0,
+    "hash_mismatch_chunks": 0,
+    "source_structure_anomaly_count": 3
+  },
+  "warnings": []
+}

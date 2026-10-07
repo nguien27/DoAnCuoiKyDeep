@@ -1,0 +1,2 @@
+﻿official_id,official_code,canonical_name,parent_code,code_parent,source_pages,quality_flag,notes
+6542397,U66.371.02.Đ08,Không tiểu được,U66.372.02,U66.371.02,73,source_code_parent_mismatch,"Mã triệu chứng suy ra parent=U66.371.02, nhưng cột Thể lâm sàng ghi U66.372.02. Giữ nguyên official_code theo nguồn và dùng cột Thể lâm sàng làm parent_code."
